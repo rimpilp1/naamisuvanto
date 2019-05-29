@@ -1,0 +1,8 @@
+naamienv/
+
+*.pyc
+*~
+__pycache__
+website/db.sqlite3
+website/static
+.DS_Store
