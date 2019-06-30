@@ -1,0 +1,16 @@
+<p class="article">
+    <table width="100%">
+    
+    {% for saalis in saaliit %}
+    
+    <tr><th colspan="5" class="heading">{{saalis.saaja}}</th></tr>
+    <tr><td colspan="5"><img src="{{saalis.kuva.url}}" width="500" alt="Salmon {{saalis.paino}} kg {{saalis.pituus}} cm {{saalis.saantipaiva}}" class="image" /></td></tr>
+    <tr><th>Paikka</th><th>Viehe</th><th>Paino</th><th>Pituus</th><th>Saantip�iv�</th></tr>
+    <tr><td>{{saalis.paikka}}</td><td>{{saalis.viehe}}</td><td>{{saalis.paino}} kg</td><td>{{saalis.pituus}} cm</td><td>{{saalis.saantipaiva}}</td></tr>
+    
+    {% endfor %}
+
+
+
+    </table>
+</p>

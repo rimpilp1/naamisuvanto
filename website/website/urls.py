@@ -1,3 +1,9 @@
+from django.conf import settings
+from django.urls import path, include
+from django.conf.urls.static import static 
+from django.contrib.staticfiles.urls import staticfiles_urlpatterns
+from . import views 
+
 """website URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
@@ -18,5 +24,13 @@ from django.urls import include, path
 
 urlpatterns = [
     path('saalistilastot/', include('saalistilastot.urls')),
+    path('blog/', include('blog.urls')),
     path('admin/', admin.site.urls),
+    path('test', views.test),
+    path('link', views.link1, name = 'link1'),
+    path('link2', views.link2, name = 'link2'),
+    path('', views.homepage),
 ]
+if settings.DEBUG:
+        urlpatterns += static(settings.MEDIA_URL,
+                              document_root=settings.MEDIA_ROOT)
