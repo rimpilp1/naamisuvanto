@@ -1,15 +1,37 @@
 {% load static %}
 
+
 <head>
-        <link rel="stylesheet" type="text/css" href="{% static 'css/example.css' %}">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" type="text/css" href={%static "css/example.css"%}>
+    <script src={%static "java/jquery-1.12.4.js"%}></script>
+    <script src={%static "java/jquery-ui.js"%}></script>
+        
 </head>
 
 <body>    
     <div class = "header">
-        <div class = "header_container">
-        </div>
-        <div class = "header_menu">
-        </div>
+        
+    </div>
+
+    <div class = "header_menu">
+            <a class = "header_home">home</a>
+            <a class = "header_button">link2</a>
+            <a class = "header_active">active</a>
+            <a class = "header_button">link3</a>
+            <a class = "header_button">link4</a>
+            <a class = "header_button">link5</a>
+            <a class = "header_button">link6</a>
+            <div class = "header_drop">
+                <a class = "drop_button" > Dropdown</a>
+                <div class = "drop_content">
+                    <a class = "drop_button">link2</a>
+                    <a class = "drop_button">link3</a>
+                    <a class = "drop_button">link4</a>
+                    <a class = "drop_button">link5</a>
+                    <a class = "drop_button">link6</a>
+                </div>
+            </div>
     </div>
 
     <div class = "container">
@@ -30,4 +52,8 @@
     </div>
     <div class = "footer">
     </div>
+
+    
+    <script src={%static "java/header.js" %}></script>   
+
 </body>

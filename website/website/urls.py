@@ -26,9 +26,9 @@ urlpatterns = [
     path('saalistilastot/', include('saalistilastot.urls')),
     path('blog/', include('blog.urls')),
     path('admin/', admin.site.urls),
-    path('test', views.test),
-    path('link', views.link1, name = 'link1'),
-    path('link2', views.link2, name = 'link2'),
+    path('test/', views.test),
+    path('link/', views.link1, name = 'link1'),
+    path('link2/', views.link2, name = 'link2'),
     path('', views.homepage),
 ]
 if settings.DEBUG:
