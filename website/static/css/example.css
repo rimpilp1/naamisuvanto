@@ -1,0 +1,166 @@
+
+.container, .header, .footer, .header_menu{
+    margin: 0 auto;
+    width:100%;
+    max-width:1000px;
+
+}
+
+/*Container elements*/
+
+.middle_column{
+    height: 400px;
+    background:lightblue;
+}
+
+.left_column{
+    float:left;
+    width: 200px;
+    height: 400px;
+    background: lightcoral;
+}
+
+
+.right_column{
+    float:right;
+    width: 200px;
+    height: 400px;
+    background: lightseagreen;
+}
+
+/*header and footer*/
+
+.header{
+    height: 100px;
+    background: brown;
+}
+
+
+.footer{
+    height: 100px;
+    background: brown;
+
+}
+
+/* Header menu items */
+
+.header_menu{
+    height: 40px;
+    background: tomato;
+    display: flex;
+}
+
+.header_button, .header_active, .header_home, .drop_button,.header_max{
+    float:left;
+    flex-grow: 1;
+
+    box-sizing: border-box;
+    border-style: solid;
+    border-color: brown;
+    border-width: 1px;
+
+    background: tomato;
+    height: inherit;
+}
+
+.header_max{
+    display: hidden;
+}
+
+.header_drop{
+    float:left;
+    flex-grow: 1;
+}
+
+.header_active{
+
+    box-sizing: border-box;
+    border-width: 1px 1px 0px 1px;
+    border-style: solid;
+    border-color: brown;
+    
+    background: lightcoral;
+    height: inherit;
+}
+
+.header_home{
+    background-color:crimson;
+}
+
+.header_drop{
+    display:none;
+    height: inherit;
+}
+
+.drop_content{
+    display:none;
+    width:inherit;
+    position: relative;
+    height: inherit;
+}
+
+.drop_button{
+    width: 100%;
+    display: block;
+    position: relative; 
+    height: inherit;
+}
+
+/* Adaptive elements */
+
+
+.header_drop:hover .drop_content{
+    display: block;
+}
+
+@media screen and (max-width:800px){
+    .right_column{
+        display: none;
+    }
+}
+
+@media screen and (max-width:600px){
+    
+    .left_column{
+        width: 100px;
+    }
+}
+
+@media screen and (max-width:400px){
+    .left_column{
+        width:100%;
+        height: 200px;
+    }
+    .middle_column{
+        width:100%;
+        clear:both;
+        position: relative;
+    }
+    
+    .header_menu{
+        display:block;
+    }
+    .header_button, .header_active, .header_home, .header_max{
+        width: 100%;
+        display:block;
+        clear: both;
+
+    }
+
+    .header_active{
+        box-sizing: border-box;
+        border-style: solid;
+        border-color: brown;
+        border-width: 1px;
+        /*background-color: tomato;*/
+    }
+
+    .header_drop{
+        display:hidden;
+    }
+
+    .header_drop:hover .drop_content{
+        display: block;
+    }
+
+}
