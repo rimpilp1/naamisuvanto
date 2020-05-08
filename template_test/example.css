@@ -45,9 +45,21 @@
 /*header and footer*/
 
 .header{
-    height: 100px;
-    background: brown;
+	height: 100px;
+	background-image: url(http://www.naamisuvanto.net/fi/image/layout/header.jpg) ;
+	background-size: contain;
+  	resize: both;
+
 }
+
+
+#header_slogan	{	position: relative;
+			top: 10px;
+			left: 220px;
+			width: 100%;
+			height: 30px;
+			border: 0px solid #713107;
+		}
 
 
 .footer{
@@ -204,3 +216,14 @@
 .hidden{
     display:none;
 }
+
+h1		{ 	font-weight: bold; 
+			font-family: "Times New Roman", Times, serif;
+			font-size: 1.9em;
+			letter-spacing: 0.01em; 
+			color: #ffffff; 
+			padding: 0.3em;
+			margin: 0em;
+			text-align: left ; 
+			text-decoration: none;
+		}

@@ -1,0 +1,717 @@
+html	 	{	margin:0 auto; 
+			padding: 0;
+			height:auto;
+			background-image: url(http://www.naamisuvanto.net/fi/images/layout/viehe2.jpg) ;
+		}
+
+.container, .header, .footer, .header_menu, .header_max{
+    margin: 0 auto;
+    width:100%;
+    max-width:1000px;
+
+}
+
+/*Container elements*/
+
+.header, .header_menu, .header_max
+		{
+ 			 /*position: fixed;
+  			bottom: 0;
+  			right: 0;*/
+		}
+
+
+.top_image	{position: relative;
+  		text-align: center;
+    		width:100%;
+    		max-width:1000px;
+		z-index: 1;
+}
+
+
+.text-block_img {position: absolute;
+  		bottom: 17px;
+  		right: 17px;
+  		background-color: white;
+		font-family: "Times New Roman", Times, serif;
+		font-weight: bold;
+		color: #ff6633;
+		box-shadow: 3px 3px 3px #fff;
+		padding-left: 17px;
+		padding-right: 17px;
+		/*all 20, 17, 12, 8*/
+} 
+
+
+
+.menu_nuoli	{ align: left;
+}
+
+.container{
+    display: flex;
+}
+
+.middle_column{
+    width: 100%;
+    min-height: 400px;
+    background:#f7eadf;
+}
+
+.left_column{
+    /*float:left;*/
+    flex-shrink: 0;
+    flex-grow: 0;
+    width: 200px;
+    min-height: 400px;
+			background-image: url(http://www.naamisuvanto.net/fi/images/layout/test11.jpg);
+    /*background: lightcoral;*/
+}
+
+
+.right_column{
+    /*float:right;*/
+    flex-shrink: 0;
+    flex-grow: 0;
+    width: 200px;
+    min-height: 400px;
+			background-image: url(http://www.naamisuvanto.net/fi/images/layout/test11.jpg) ;
+    /*background: lightcoral;*/
+}
+
+/*header and footer*/
+
+.header		{
+			height: 87px;
+			/*height 100, 87, 60, 40 */
+			background-image: url(http://www.naamisuvanto.net/fi/images/layout/header_la.jpg) ;
+			background-repeat: no-repeat;
+			background-size:100% 100%;
+			position: relative;
+			border:3px solid #000000;
+		}
+
+
+
+
+.img_logo	{	height: 70px;
+			/*height 81, 70, 49, 32 */
+			width: 185px;
+			/*width 214, 185, 128, 86*/
+			vertical-align: middle;
+			box-shadow: 3px 3px 3px #fff;
+		}
+
+
+.font_header	{	font-family: "Times New Roman", Times, serif; 
+			font-weight: bold;
+			font-size: 26px;
+			/* font-size:30, 26, 18, 12 */ 
+			color: #ffffff;
+			text-decoration: none;
+		}
+
+
+.div_table 	{	display: table;
+			width: 98%;
+			height: 74px;
+			/* height: 85, 74, 51, 34 */
+			padding: 0px;
+			border:0px solid #713107;
+		}
+
+.row  		{	display: table-row;
+			height: 85px;
+			/* height: 85, 74, 51, 34 */
+    		}
+
+.left
+		{	display: table-cell;
+		}
+
+.right
+		{	display: table-cell;
+			padding-left: 20px;
+			padding-top: 0px;
+		}
+
+.footer		{	clear: both;
+			height: 90px;
+			text-align: center;
+			background-image: url(http://www.naamisuvanto.net/fi/images/layout/kojamo22.jpg) ;
+			border-radius: 0px;
+			background-color: #EEEBE9;
+		}
+
+
+
+/* Header menu items */
+
+.header_menu{
+    			height: 22px;
+			/*height: 25, 22, 15, 10*/
+			background-image: url(http://www.naamisuvanto.net/fi/images/layout/menu_long_arrow.jpg) ;
+			background-repeat: no-repeat;
+			background-size:100% 100%;
+			position:relative;
+    			/*background: tomato;*/
+    			display: flex;
+		}
+
+.header_button, .header_active, .header_home
+		{
+    			float:left;
+    			flex-grow: 1;
+    			box-sizing: border-box;
+    			border-style: solid;
+    			border-color: rgba(255,0,0,0) #ff9966 #ff9966 #ff9966;
+			border-width: 1px 1px 4px 1px;
+			font-family: "Times New Roman", Times, serif; 
+			font-weight: bold;
+			font-size: 14px;
+			/*  font-size:16, 14, 10, 6*/
+			color: #ffffff;
+			text-align: center ;
+			align: center;
+			/*background-image: url(file:///C:/01%20naamisuvanto/naamisuvanto/template_test/images/menu2.jpg) ; */
+    			/*background: tomato;*/
+    			height: 22px;
+			/* height:25, 22, 15, 10 */
+			text-decoration: none;
+
+
+}
+
+.drop_button
+		{
+    			float:left;
+    			flex-grow: 1;
+    			box-sizing: border-box;
+    			border-style: solid;
+    			border-color: rgba(255,0,0,0) #ff9966 #ff9966 #ff9966;
+    			border-width: 1px 1px 4px 1px;
+			font-family: "Times New Roman", Times, serif; 
+			font-weight: bold;
+			font-size: 14px;
+			/*  font-size:16, 14, 10, 6*/
+			color: #ffffff;
+			text-align: center ;
+			align: center;
+			/*background-image: url(file:///C:/01%20naamisuvanto/naamisuvanto/template_test/images/osastot_nuoli.jpg) ;*/
+			/*background-repeat: no-repeat;*/
+    			/*background: tomato;*/
+    			height: 22px;
+			/* height:25, 22, 15, 10 */
+		}
+
+
+.header_max
+		{
+    			height: 1px;
+    			display: hidden;
+    			box-sizing: border-box;
+    			border-style: solid;
+    			border-color: brown;
+    			border-width: 1px;
+		}
+
+.header_drop
+		{
+    			float:left;
+    			flex-grow: 1;
+    			/*background-image: url(file:///C:/01%20naamisuvanto/naamisuvanto/template_test/images/menu3.jpg) */
+		}
+
+.header_active
+		{
+			box-sizing: border-box;
+    			border-width: 1px 1px 4px 1px;
+    			border-style: solid;
+    			border-color: #ff9966;
+			/*background-image: url(file:///C:/01%20naamisuvanto/naamisuvanto/template_test/images/menu3.jpg) ; ff6666  */ 
+			font-family: "Times New Roman", Times, serif; 
+			font-weight: bold;
+			font-size: 14px;
+			/*  font-size:16, 14, 10, 6*/
+			color: #ff6633;
+    			background-color:rgba(255,255,255,0.5);
+    			height: 22px;
+			/* height:25, 22, 15, 10 */
+		}
+
+.header_home
+		{
+    			/*background-color:crimson;*/
+		}
+
+.header_drop
+		{
+    			display:none;
+    			height: inherit;
+		}
+
+.drop_content
+		{
+    			display:none;
+    			width:inherit;
+    			position: relative;
+    			height: inherit;
+			z-index: 2;
+		}
+
+.drop_button
+		{
+    			width: 100%;
+    			display: block;
+    			/*position: relative; */
+    			height: inherit;
+		}
+
+
+
+
+/*Menu left column*/
+
+div.menu_left	{	margin: 5px; 
+			padding: 5px;
+			background-image: url(http://www.naamisuvanto.net/en/image/layout/footer.jpg) ;
+			background-color: #FEF7F2;
+			margin-bottom: 10px;
+			border: 0px solid #713107;
+			border-radius: 10px;
+		}
+
+
+ul.menu_left	{	list-style-image: url('http://www.naamisuvanto.net/en/image/layout/arrow_7x7.gif');
+			padding-left: 5px;
+			margin-left: 5px;
+			padding-bottom: 0; 
+			font-family: "Times New Roman", Times, serif; 
+		}
+
+li.menu_left	{ 	font-weight: bold; 
+			font-size: 14px; 
+			/* font-size 18, 14, 11, 7, */
+			color: #542314; 
+			margin-left: 10px;
+			text-align: left ;
+			padding-left: 5px;
+			margin-bottom: 3px;
+			border-bottom: 0px solid #000;	
+			font-family: "Times New Roman", Times, serif; 		
+		}
+
+li.menu_left2	{	font-weight: normal;
+			padding-left: 12px;
+			font-size: 14px; 
+			/* font-size 18, 14, 11, 7 */
+			vertical-align: baseline; 
+			color: #542314; 
+			margin-left: 15px;
+			margin-bottom: 3px;
+			text-align: left ; 
+			text-decoration: none;
+			font-family: "Times New Roman", Times, serif; 
+		}
+
+
+
+
+a.menu_left	{ 	font-weight: bold; 
+			font-size: 13px;
+			/* font-size 16, 13, 10, 6 */
+			color: #542314; 
+			padding: 0em;
+			margin: 0px;
+			text-align: left ;
+			padding-left: 0px;
+			margin-bottom: 0px;
+			text-decoration: none;
+			border-bottom: 0px solid #000;			
+		}
+
+a.menu_left2	{ 	font-weight: normal; 
+			font-size: 13px;
+			/* font-size 16, 13, 10, 6 */ 
+			color: #542314; 
+			padding: 0em;
+			margin: 0px;
+			text-align: left ;
+			padding-left: 0px;
+			margin-bottom: 0px;
+			text-decoration: none;
+			border-bottom: 0px solid #000;			
+		}
+
+/* Saalistilastot */
+
+
+
+.Sat	{
+			font-family: "Times New Roman", Times, serif;
+			font-weight: bold; 
+			font-size: 16px;
+			/* font-size 20, 16, 12, 8 */
+			color: #b63919;
+			vertical-align: middle;
+    			height: 32px;
+			/* height 40, 32, 24, 16 */
+			border: 0px solid #713107;
+			background-image: url(http://www.naamisuvanto.net/fi/images/layout/kojamo4.jpg);
+			/*opacity: 0.5;*/
+    			/*background: lightcoral;*/
+}
+
+form {			padding: 5px;
+}
+
+
+input[type=submit] 	{
+			background-color: #df9149;
+			border: 1px solid #713107;
+			box-sizing: border-box;
+			border-radius: 4px;
+			color: white;
+			padding: 2px 2px;
+			text-decoration: none;
+			font-size: 12px;
+			/* font-size 16, 13, 10, 6 */ 
+			cursor: pointer;
+			}
+
+select 			{
+  			/*width: 100px;*/
+  			padding: 2px 2px;
+			border: none;
+			border-radius: 4px;
+			font-family: "Times New Roman", Times, serif;
+			font-size: 16px;
+			/* font-size 20, 16, 12, 8 */
+			color: #b63919;
+			font-weight: bold; 
+			background-color: #f1f1f1;
+			}
+
+
+
+caption.Sat		{ 	font-family: "Times New Roman", Times, serif;
+			font-weight: bold; 
+			font-size: 19px;
+			/* font-size 24, 19, 14, 10 */
+			color: #b63919; 
+			/*padding-left: 8px;*/
+			line-height: 1.3;
+			text-align: left ; 
+			text-decoration: none;
+			background-color: #f8bd86;
+			border: 1px solid #713107;
+			background-image: url(http://www.naamisuvanto.net/fi/images/layout/Sat_nuoli.gif) ;
+			background-repeat: no-repeat;
+			background-position: right; 			
+			}
+
+caption		{ 	font-family: "Times New Roman", Times, serif;
+			font-weight: bold; 
+			font-size: 19px;
+			/* font-size 24, 19, 14, 10 */
+			color: #b63919; 
+			padding-left: 8px;
+			/*line-height: 1.3;*/
+			text-align: left ; 
+			text-decoration: none;
+			background-color: #f8bd86;
+			border: 1px solid #713107;
+			/*background-image: url(file:///C:/01%20naamisuvanto/naamisuvanto/template_test/images/Sat_nuoli.jpg) ;
+			background-repeat: no-repeat;
+			background-position: right;*/ 			
+			}
+
+table		{	border: 1px solid #713107;
+		}
+
+
+th.saalistilastot1
+		{ 	font-family: "Times New Roman", Times, serif;
+			font-weight: bold; 
+			font-size: 16px;
+			/* font-size 20, 16, 12, 8 */
+			color: #b63919; 
+			padding-left: 5px;
+			margin: 0px;
+			vertical-align: top;
+			text-align: left ; 
+			text-decoration: none;
+			background-color: #f8bd86;
+			border: 1px solid #713107;
+		}
+
+th.saalistilastot	{ 	
+			font-family: "Times New Roman", Times, serif;
+			font-weight: bold; 
+			font-size: 13px;
+			/* font-size 16, 13, 10, 6 */ 
+			color: #b63919; 
+			padding-left: 5px;
+			margin: 0em;
+			vertical-align: top;
+			text-align: left ; 
+			text-decoration: none;
+			background-color: #fee2c8;
+			border: 1px solid #713107;
+		}
+
+
+td		{	font-family: "Times New Roman", Times, serif;
+			font-weight: normal; 
+			font-size: 13px;
+			/* font-size 16, 13, 10, 6 */
+			color: #542314; 
+			padding-left: 5px;
+			margin: 2px;
+			vertical-align: top;
+			text-align: left ; 
+			text-decoration: none;
+			border: 1px solid #713107;
+		}
+
+
+td.saalistilastot
+		{	font-family: "Times New Roman", Times, serif;
+			font-weight: normal; 
+			font-size: 13px;
+			/* font-size 16, 13, 10, 6 */
+			color: #542314; 
+			padding-left: 5px;
+			margin: 2px;
+			vertical-align: top;
+			text-align: left ; 
+			text-decoration: none;
+			border: 1px solid #713107
+			height: 35px;
+		}
+
+
+img.saalistilastot {
+  			border: 1px solid #ddd;
+  			border-radius: 4px;
+  			padding: 5px;
+			height: 144px;
+			/* height 180, 144, 108, 72 */
+}
+
+img.saalistilastot:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+
+
+
+
+/*Right column*/
+
+
+div.box_right	{	margin: 5px; 
+			padding: 5px;
+			background-image: url(http://www.naamisuvanto.net/en/image/layout/footer.jpg) ;
+			background-color: #FEF7F2;
+			margin-bottom: 2px;
+			border: 0px solid #713107;
+			border-radius: 10px;
+			text-align: center ; 
+			vertical-align: middle ;
+		}
+
+
+div.menu_right	{	margin: 5px; 
+			padding: 5px;
+			background-image: url(http://www.naamisuvanto.net/en/image/layout/footer.jpg) ;
+			background-color: #FEF7F2;
+			margin-bottom: 2px;
+			border: 0px solid #713107;
+			border-radius: 10px;
+		}
+
+div.image_banner {	margin: 5px; 
+			padding: 5px;
+			margin-bottom: 2px;
+			border: 0px solid #713107;
+			border-radius: 10px;
+		}
+
+
+
+ul.menu_right	{	list-style-image: url('http://www.naamisuvanto.net/en/image/layout/arrow_7x7.gif');
+			padding-left: 5px;
+			margin-left: 5px;
+			padding-bottom: 0; 
+			font-family: "Times New Roman", Times, serif; 
+		}
+
+li.menu_right	{ 	font-weight: normal; 
+			font-size: 18px; 
+			color: #542314; 
+			margin-left: 15px;
+			text-align: left ;
+			padding-left: 5px;
+			margin-bottom: 3px;
+			border-bottom: 0px solid #000;	
+			font-family: "Times New Roman", Times, serif; 		
+		}
+
+li.menu_left2	{	font-weight: normal;
+			padding-left: 12px;
+			font-size: 18px; 
+			vertical-align: baseline; 
+			color: #542314; 
+			margin-left: 15px;
+			margin-bottom: 3px;
+			text-align: left ; 
+			text-decoration: none;
+			font-family: "Times New Roman", Times, serif; 
+		}
+
+li.h3		{ 	font-weight: bold; 
+			font-size: 20px; 
+			color: #542314; 
+			text-align: left ;
+			padding-left: 5px; 
+			margin-left: 10px;
+		}
+
+
+
+
+a.menu_right	{ 	font-weight: normal; 
+			font-size: 16px; 
+			color: #542314; 
+			padding: 0em;
+			margin: 0px;
+			text-align: left ;
+			padding-left: 0px;
+			margin-bottom: 0px;
+			text-decoration: none;
+			border-bottom: 0px solid #000;			
+		}
+
+a.menu_right2	{ 	font-weight: normal; 
+			font-size: 16px; 
+			color: #542314; 
+			padding: 0em;
+			margin: 0px;
+			text-align: left ;
+			padding-left: 0px;
+			margin-bottom: 0px;
+			text-decoration: none;
+			border-bottom: 0px solid #000;			
+		}
+
+
+
+
+
+/* footer */
+
+.footer		{	clear: both;
+			height: 90px;
+			text-align: center;
+			background-image: url(http://www.naamisuvanto.net/fi/images/layout/kojamo22.jpg) ;
+			border-radius: 0px;
+			background-color: #EEEBE9;
+		}
+
+
+
+
+
+
+
+address		{	font-family: "Times New Roman", Times, serif;
+			font-size: 0.8em;
+			font-weight: bold;
+			border: 0px solid #000;
+			margin: 0px;
+			padding: 0.3em;
+		}
+
+
+
+
+/* Adaptive elements */
+
+
+.header_drop:hover .drop_content{
+    display: block;
+}
+
+@media screen and (max-width:800px)
+		{
+
+.right_column	{
+        	display: none;
+    		}
+		}
+		
+@media screen and (max-width:600px)
+		{
+    
+.left_column	{
+        	width: 100px;
+    		}
+		}
+
+@media screen and (max-width:400px){
+
+    .container{
+        display: block;
+    }
+
+    .left_column{
+        width:100%;
+        height: 200px;
+    }
+    .middle_column{
+        
+        width:100%;
+        float: left;
+        clear:both;
+        /*position: relative;*/
+        
+    }
+    
+    .header_menu{
+        height: auto;
+        overflow: auto;
+        display:block;
+    }
+    .header_button, .header_active, .header_home, .header_max{
+        width: 100%;
+        display:block;
+        clear: both;
+
+    }
+
+    .header_active{
+        box-sizing: border-box;
+        border-style: solid;
+        border-color: brown;
+        border-width: 1px;
+
+    }
+
+    .header_drop{
+        display:hidden;
+    }
+
+    .header_drop:hover .drop_content{
+        display: block;
+    }
+
+    .active, .header_menu:hover{
+        display:none;   
+    }
+
+}
+
+.hidden{
+    display:none;
+}
+

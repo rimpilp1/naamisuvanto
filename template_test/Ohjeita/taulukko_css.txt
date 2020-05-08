@@ -1,0 +1,44 @@
+<div class="container">
+  <div class="row">
+    <div class="left">
+      <p>PHONE & FAX:</p>
+    </div>
+    <div class="middle">
+      <p>+43 99 554 28 53</p>
+    </div>
+    <div class="right"> </div>
+  </div>
+  <div class="row">
+    <div class="left">
+      <p>Cellphone Gert:</p>
+    </div>
+    <div class="middle">
+      <p>+43 99 302 52 32</p>
+    </div>
+    <div class="right"> </div>
+  </div>
+  <div class="row">
+    <div class="left">
+      <p>Cellphone Petra:</p>
+    </div>
+    <div class="middle">
+      <p>+43 99 739 38 84</p>
+    </div>
+    <div class="right"> </div>
+  </div>
+</div>
+
+
+.container {
+    display: table;
+    }
+.row  {
+    display: table-row;
+    }
+.left, .right, .middle {
+    display: table-cell;
+    padding-right: 25px;
+    }
+.left p, .right p, .middle p {
+    margin: 1px 1px;
+   }

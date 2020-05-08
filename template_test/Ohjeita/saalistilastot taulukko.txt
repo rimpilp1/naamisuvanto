@@ -1,0 +1,106 @@
+<div class="divTable"><caption>Saalistilasto vuonna 2019</caption>
+
+
+<div class="divTableBody">
+<div class="divTableRow">
+<div class="divTableHead">Hannu Saarinen ja Jorma Nyman</div>
+</div>
+<div class="divTableRow">
+<div class="divTableHead">
+<div class="divTableBody">
+<div class="divTableRow">
+<div class="divTableCell"><a href="http://www.naamisuvanto.net/kuvat/kalaan/saadut_kalat/2019/tyhja_20190601.jpg" target="top"> <img class="image" src="http://www.naamisuvanto.net/kuvat/kalaan/saadut_kalat/2019/tyhja_20190601.jpg" alt="" width="200" /> </a></div>
+<div class="divTableHead">Viehe</div>
+</div>
+
+
+
+
+
+
+
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+</div>
+
+
+<div class="divTableRow">
+<div class="divTableHead">Hannu Saarinen ja Jorma Nyman</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell"><a href="http://www.naamisuvanto.net/kuvat/kalaan/saadut_kalat/2019/tyhja_20190601.jpg" target="top"> <img class="image" src="http://www.naamisuvanto.net/kuvat/kalaan/saadut_kalat/2019/tyhja_20190601.jpg" alt="" width="200" /> </a></div>
+<div class="divTableHead">Paikka</div>
+<div class="divTableCell">Naamisuvanto</div>
+</div>
+<div class="divTableRow">
+<div class="divTableHead">Viehe</div>
+<div class="divTableCell">kirakka</div>
+</div>
+<div class="divTableRow">
+<div class="divTableHead">Paino</div>
+<div class="divTableCell">9,8</div>
+</div>
+<div class="divTableRow">
+<div class="divTableHead">Pituus</div>
+<div class="divTableCell">&nbsp;</div>
+</div>
+<div class="divTableRow">
+<div class="divTableHead">P&auml;iv&auml;m&auml;&auml;r&auml;</div>
+<div class="divTableCell">14.08.2019</div>
+</div>
+<div class="divTableRow">
+<div class="divTableHead">U/N</div>
+<div class="divTableCell">N</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell">Klikkaa kuvaa suuremmaksi</div>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+/* DivTable.com */
+.divTable{
+	display: table;
+	width: 100%;
+}
+.divTableRow {
+	display: table-row;
+}
+.divTableHeading {
+	background-color: #EEE;
+	display: table-header-group;
+}
+.divTableCell, .divTableHead {
+	border: 1px solid #999999;
+	display: table-cell;
+	padding: 3px 10px;
+}
+.divTableHeading {
+	background-color: #EEE;
+	display: table-header-group;
+	font-weight: bold;
+}
+.divTableFoot {
+	background-color: #EEE;
+	display: table-footer-group;
+	font-weight: bold;
+}
+.divTableBody {
+	display: table-row-group;
+}

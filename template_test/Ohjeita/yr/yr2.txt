@@ -1,0 +1,277 @@
+﻿
+
+<!DOCTYPE html>
+<html class="yr" lang="nb-no">
+<head>
+    <meta charset="utf-8">
+    <title>Feil / Error – yr.no</title>
+
+    <link rel="stylesheet" type="text/css" media="screen, print, projection" href="/css/yr.min.css" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <meta content="text/html; charset=utf-8" http-equiv="Content-type" />
+    <meta name="viewport" content="width=990" />
+    <meta name="Robots" content="index,follow" />
+    <meta name="Googlebot" content="index,follow" />
+    <meta name="Revisit-after" content="1 Days" />
+    <meta name="description" content="Vérvarsel for 8,7 millioner stader i verda!" />
+    <meta name="dcterms.creator" content="NRK og Meteorologisk institutt" />
+    <meta name="Publisher" content="NRK og Meteorologisk institutt" />
+    <meta name="dcterms.rights" content="Opphavsrett: NRK og Meteorologisk institutt © 2013" />
+    <meta name="dcterms.dateCopyrighted" content="2013" />
+    <link rel="Copyright" title="Opphavsrett Meteorologisk institutt og NRK" href="/informasjon/1497561.html" />
+    <link rel="Search" title="Søk" href="/sok/" />
+    <script src="/js/tns/unispring.js"></script>
+</head>
+
+<body>
+    <div class="yr-page">
+        
+				<svg id="iconDefs" height="0" width="0" style="position:absolute;" aria-hidden="true">
+					<symbol id="icon-user">
+						<path d="M50,49.81a16,16,0,1,1,16.13-16A16.1,16.1,0,0,1,50,49.81Zm0-28.05a12,12,0,1,0,12.13,12A12.09,12.09,0,0,0,50,21.76Z" fill="currentColor"></path>
+						<path d="M76.5,82.24h-53a2,2,0,0,1-2-2,28.5,28.5,0,0,1,57,0A2,2,0,0,1,76.5,82.24Zm-50.92-4H74.42a24.52,24.52,0,0,0-48.84,0Z" fill="currentColor"></path>
+					  </symbol>
+				</svg>
+				<header class="page-header" id="pageHeader" role="banner">
+					<div id="ctl00_mobileSiteLink" class="settings-container">
+						<span><a href=https://www.yr.no/nb>Nye nettsider</a></span>
+						<div class="yr-language-switcher langreload">
+  <span>Språk / Language</span>
+  <img src="/grafikk/ikon/icon-down.png" width="13" />
+  <ul>
+    <li>
+      <ul>
+        <li>
+          <a href="/_/settspr.aspx?spr=nno&amp;redir=%2fcss%2fyr.min.versjonert.n1f4i8-NoxaE8-zeHPTrwh1pKiU.css%22" title="Nynorsk" rel="alternate nofollow">Nynorsk</a>
+        </li>
+        <li>
+          <a href="/_/settspr.aspx?spr=fkv&amp;redir=%2fcss%2fyr.min.versjonert.n1f4i8-NoxaE8-zeHPTrwh1pKiU.css%22" title="Kvääni" rel="alternate nofollow">Kvääni</a>
+        </li>
+        <li>
+          <a href="/_/settspr.aspx?spr=sme&amp;redir=%2fcss%2fyr.min.versjonert.n1f4i8-NoxaE8-zeHPTrwh1pKiU.css%22" title="Davvisámegiella" rel="alternate nofollow">Davvisámegiella</a>
+        </li>
+        <li>
+          <a href="/_/settspr.aspx?spr=eng&amp;redir=%2fcss%2fyr.min.versjonert.n1f4i8-NoxaE8-zeHPTrwh1pKiU.css%22" title="English" rel="alternate nofollow">English</a>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</div>
+					</div>
+					<div class="layout-container">
+						<a href="/" class="logo" tabindex="0"">
+							<img src="https://www.yr.no/assets/images/logo-yr-50.png" width="42" title="Til forsiden på Yr" />
+						</a>
+						<nav id="pageHeaderNav" role="navigation">
+							<div id="ctl00_location_search_form" class="location-search">
+								<form action="/soek/soek.aspx" autocomplete="off" id="locationSearchForm" method="get">
+									<label for="sted">Søk blant værvarsel i Norge og verden</label>
+									<input aria-controls="suggestionsPanel" autocapitalize="off" autocomplete="off" autocorrect="off" id="sted" name="sted" placeholder="Søk etter sted..." spellcheck="false" type="search">
+									<div id="yr-autosuggest" style="display: none">
+  <table>
+    <tfoot>
+      <tr>
+        <td>
+          <a id="fb_seFlere" href="" title="Se flere søkeresultater">Se flere søkeresultater</a>
+        </td>
+        <td>
+          <a id="fb_lukk" href="" title="Lukk">Lukk</a>
+        </td>
+      </tr>
+    </tfoot>
+    <tbody>
+      <tr>
+        <td>
+          <a href="" title="">
+            <strong>&lt;stedsnavn&gt;</strong>
+            <span>&lt;Type&gt; i &lt;kommune&gt;, &lt;område&gt;</span>
+          </a>
+        </td>
+        <td class="flag">
+          <img src="/grafikk/ikon/flags/h14/NO.png" alt="" />
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="" title="">
+            <strong>&lt;stedsnavn&gt;</strong>
+            <span>&lt;Type&gt; i &lt;kommune&gt;, &lt;område&gt;</span>
+          </a>
+        </td>
+        <td class="flag">
+          <img src="/grafikk/ikon/flags/h14/NO.png" alt="" />
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="" title="">
+            <strong>&lt;stedsnavn&gt;</strong>
+            <span>&lt;Type&gt; i &lt;kommune&gt;, &lt;område&gt;</span>
+          </a>
+        </td>
+        <td class="flag">
+          <img src="/grafikk/ikon/flags/h14/NO.png" alt="" />
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="" title="">
+            <strong>&lt;stedsnavn&gt;</strong>
+            <span>&lt;Type&gt; i &lt;kommune&gt;, &lt;område&gt;</span>
+          </a>
+        </td>
+        <td class="flag">
+          <img src="/grafikk/ikon/flags/h14/NO.png" alt="" />
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="" title="">
+            <strong>&lt;stedsnavn&gt;</strong>
+            <span>&lt;Type&gt; i &lt;kommune&gt;, &lt;område&gt;</span>
+          </a>
+        </td>
+        <td class="flag">
+          <img src="/grafikk/ikon/flags/h14/NO.png" alt="" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+									<button class="button button--icon" id="queryknapp" title="Søk" type="submit">
+										<span class="label">Søk</span>
+										<span class="icon-search">
+											<img src="/grafikk/ikon/icon-search.png" width="25" />
+										</span>
+									</button>
+								</form>
+							</div>
+							<a class="advanced-search" href="/sok/">
+  <span>Avansert søk</span>
+</a>
+							<button class="button button--chromeless settings" onclick="window.location.href='/mine_stader/time_for_time.html'">
+								<span class="icon-star">
+									<img src="/grafikk/ikon/icon-star.png" width="20" />
+								</span>
+								<span class="label">Mine steder</span>
+							</button>
+						</nav>
+					</div>
+				</header>
+        <div class="yr-content">
+            <div id="ctl00_contentBody" class="yr-content-body">
+                <div class="yr-content-body">
+                    <div id="error">
+                        <div>
+                            <h1 style="font-size: 20px;">Det har oppstått en feil</h1>
+                            <p>Det kan være to grunner til at du får denne feilmeldinga:</p>
+                            <ul style="margin-bottom: 1em; list-style: inside disc; padding: 0 0 0 1.5em;">
+                                <li>Stedet du ber om å få se kan ha endret navn. <a href="/soek/soek.aspx" style="text-decoration: underline;">Bruk søkemotoren for å finne stedet!</a></li>
+                                <li>Vi har tekniske problemer. Trykk F5 for å laste sida på nytt. </li>
+                            </ul>
+                            <p><a href="https://yrkundesenter.zendesk.com/hc/no/requests/new" style="text-decoration: underline;">Ta kontakt med oss</a> dersom dette ikke løser problemet! Husk å sende med adressen til sida.</p>
+                        </div>
+                        <div>
+                            <h1 style="font-size: 20px;">Something went wrong</h1>
+                            <p>This might fix the problem:</p>
+                            <ul style="margin-bottom: 1em; list-style: inside disc; padding: 0 0 0 1.5em;">
+                                <li>The place you want to see might have changed name. <a style="text-decoration: underline;" href="/soek/soek.aspx">Use the search engine to look up the place again!</a></li>
+                                <li>We're having technical problems. Press F5 to reload the page.  </li>
+                            </ul>
+                            <p><a style="text-decoration: underline;" href="https://yrkundesenter.zendesk.com/hc/no/requests/new">Please contact us </a>if this doesn't solve the problem! Please send us the URL of the page you were trying to reach.</p>
+                        </div>
+                        <div style="visibility: hidden">
+
+                            <!-- Javascript som lastar sida på nytt to gongar -->
+                            <script>
+
+                                var r = parseInt(window.location.search.substring(1).split("=")[1]);
+                                if (isNaN(r)) {
+                                    r = 1;
+                                }
+                                if (r <= 1) {
+                                    //setTimeout(function() {window.location.search = "r=" + (r+1);}, (r*5000));
+                                }
+                            </script>
+
+                            <!--
+				<h4>Teknisk info</h4>
+				<pre style="font-size: 8pt; font-family: Monospace">
+					System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.LegacyNormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   at System.IO.Path.GetFullPathInternal(String path)
+   at System.Security.Util.StringExpressionSet.CanonicalizePath(String path, Boolean needFullPath)
+   at System.Security.Util.StringExpressionSet.CreateListFromExpressions(String[] str, Boolean needFullPath)
+   at System.Security.Permissions.FileIOPermission.AddPathList(FileIOPermissionAccess access, AccessControlActions control, String[] pathListOrig, Boolean checkForDuplicates, Boolean needFullPath, Boolean copyPathList)
+   at System.Security.Permissions.FileIOPermission..ctor(FileIOPermissionAccess access, String path)
+   at System.Web.InternalSecurityPermissions.PathDiscovery(String path)
+   at System.Web.HttpRequest.MapPath(VirtualPath virtualPath, VirtualPath baseVirtualDir, Boolean allowCrossAppMapping)
+   at System.Web.HttpServerUtility.MapPath(String path)
+   at Nrk.Ver.Vev.VersjonertHandler.ProcessRequest(HttpContext context) in D:\workspace\MMX_prod\Nrk.Ver.Vev\Kode\VersjonertHandler.vb:line 10
+   at System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean&amp; completedSynchronously)
+										
+				</pre>
+        -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="yr-footer" id="menu">
+			
+<div class="colophon clearfix lp_colophon">
+	<div class="rows">
+		<a href="http://nrk.no" title="Gå til NRK sitt nettsted"><img height="20" alt="Logo for NRK"  src="/grafikk/nrk.png" /></a>
+		<a href="http://met.no" title="Gå til Meteorologisk Institutt sitt nettsted"><img height="30" alt="Logo for Meteorologisk Institutt" src="/grafikk/met.png" /></a>
+	</div>
+	<div class="rows">
+		<ul>
+			<li><a href="https://yrkundesenter.zendesk.com/hc/no/articles/360001946034-Send-oss-en-henvendelse">Kontakt oss</a></li>
+			<li><a href="https://yrkundesenter.zendesk.com/hc/no/articles/206550539-Fakta-om-Yr">Om Yr</a></li>
+			<li><a href="http://www.nrk.no/retningslinjer/informasjonskapsler-_cookies_-1.11109868">Om informasjonskapsler (cookies)</a></li>
+            <li><a href="https://www.nrk.no/retningslinjer/nrks-personvernerklaering-1.7765898">Personvern</a></li>
+            <li><a href="https://yrkundesenter.zendesk.com/hc/no/articles/206550249-Samarbeidspartnere">Samarbeidspartnere og kilder</a></li>
+		</ul>
+	</div>
+	<div class="rows">
+		<ul>
+			<li><a href="https://nb-no.facebook.com/Yr-22652235447/">Yr på Facebook</a></li>
+			<li><a href="https://twitter.com/meteorologene">Yr på Twitter</a></li>
+			<li><a href="https://www.instagram.com/yrbilder/?hl=nb">Yr på Instagram</a></li>
+		</ul>
+	</div>
+	<div class="rows">
+		<ul>
+			<li><a href="https://itunes.apple.com/us/app/yr.no/id490989206?mt=8">App for iOS</a></li>
+			<li><a href="https://play.google.com/store/apps/details?id=no.nrk.yr">App for Android</a></li>
+		</ul>
+	</div>
+	<div class="samarbeid">
+		Yr er et samarbeid mellom NRK og Meteorologisk institutt.<br />
+		Redaktør: Ingrid Støver Jensen. Ansvarlig redaktør: Thor Gjermund Eriksen. Meteorologisk ansvarlig: Roar Skålin.<br />
+		<span>Opphavsrett &copy; NRK og Meteorologisk institutt 2007 - 2020</span>
+	</div>
+</div>
+            
+        </div>
+    </div>
+    <div class="stats">
+        <script>
+            unispring.c({
+                "s": "NRK",
+                "cp": "nrk/yr",
+                "url": document.location.href
+            });
+        </script>
+        <noscript>
+            <div>
+                <img src="https://nrk.tns-cs.net/j0=,,,;+,cp=nrk/yr+url=yr.no/feil.aspx;;;" alt="" />
+            </div>
+        </noscript>
+    </div>
+</body>
+<!--MADMZYRWWW10-->
+</html>

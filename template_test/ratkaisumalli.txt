@@ -1,0 +1,14 @@
+
+	<div style="position:absolute">
+		<div id="myBox" style="border:1px solid #333333;width:100px;height:100px;">myBox</div>
+		<div style="width:100px;height:100px;position:absolute;background-color:yellow;top:20px;left:20px;z-index:0;opacity:0.5;border:1px solid #333333;">z-index 0</div>
+		<div style="width:100px;height:100px;position:absolute;background-color:yellow;top:40px;left:40px;z-index:1;opacity:0.5;border:1px solid #333333;">z-index 1</div>
+		<div style="width:100px;height:100px;position:absolute;background-color:yellow;top:60px;left:60px;z-index:2;opacity:0.5;border:1px solid #333333;">z-index 2</div>
+		<div style="width:100px;height:100px;position:absolute;background-color:yellow;top:80px;left:80px;z-index:3;opacity:0.5;border:1px solid #333333;">z-index 3</div>
+	</div>
+
+div#myBox {
+  position:absolute;
+  background-color:red;
+  z-index:4;
+}
