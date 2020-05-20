@@ -1,0 +1,14 @@
+			<div class="content_half">
+			<div class="image_frame">
+			<iframe width="280" height="155" src="https://www.youtube.com/embed/0x3W3c2JgiE" frameborder="0" allowfullscreen></iframe>
+			<div class="image_text">Emilia ja Sanna perhokalassa.<br />
+			</div>
+			</div>
+			</div>
+			<div class="content_half">
+			<div class="image_frame">
+			<iframe width="280" height="155" src="https://www.youtube.com/embed/5SdoWKVtTmc" frameborder="0" allowfullscreen></iframe>
+			<div class="image_text">Perhokalastusta veneestä.<br />
+			</div>
+			</div>
+			</div>
