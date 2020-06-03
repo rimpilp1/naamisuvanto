@@ -292,8 +292,7 @@ li.menu_left	{ 	font-weight: bold;
 			margin-left: 6px;
 			/* xx-left: 10px, 8px, 6px, 6px*/
 			text-align: left ;
-			padding-left: 3px;
-			/* xx-left: 5px, 4px, 3px, 3px*/
+			padding-left: 5px;
 			margin-bottom: 3px;
 			border-bottom: 0px solid #000;	
 			font-family: "Times New Roman", Times, serif; 		
@@ -301,14 +300,14 @@ li.menu_left	{ 	font-weight: bold;
 
 li.menu_left2	{	font-weight: normal;
 			padding-left: 8px;
-			/* xx-left: 12px, 9px, 8px, 8px*
+			/* xx-left: 12px, 9px, 8px, 8px*/
 			font-size: 11px; 
 			/* font-size 18, 14, 11, 11 */
 			vertical-align: baseline; 
 			color: ##b63919; 
-			margin-left: 8px;
-			/* xx-left: 15px, 12px, 9px, 8px*/
-			margin-bottom: 3px;
+			margin-left: 9px;
+			/* xx-left: 15px, 10px, 9px, 9px*/
+			margin-bottom: 1px;
 			text-align: left ; 
 			text-decoration: none;
 			font-family: "Times New Roman", Times, serif; 
@@ -348,7 +347,7 @@ a.menu_left2	{ 	font-weight: normal;
 
 .article	{	float: left;
 			margin-top: 0px;
-			margin-right: 0em;
+			margin-right: 0px;
 			width: 100%;
 			height:auto;
 			padding: 10px;
@@ -392,7 +391,7 @@ a.text	{ 	font-family: "Times New Roman", Times, serif;
 .Sat	{
 			font-family: "Times New Roman", Times, serif;
 			font-weight: bold; 
-			font-size: 12px;
+			font-size: 10px;
 			/* font-size 20, 16, 12, 12 */
 			color: #b63919;
 			vertical-align: middle;
@@ -408,19 +407,6 @@ form {			padding: 5px;
 }
 
 
-input[type=submit] 	{
-			background-color: #df9149;
-			border: 1px solid #713107;
-			border-radius: 4px;
-			box-sizing: border-box;
-			color: white;
-			padding: 2px 2px;
-			text-decoration: none;
-			font-size: 10px;
-			/* font-size 16, 13, 10, 10 */ 
-			cursor: pointer;
-			}
-
 select 			{
   			/*width: 100px;*/
   			padding: 2px 2px;
@@ -434,7 +420,21 @@ select 			{
 			background-color: #f1f1f1;
 			}
 
-
+.sati		 	{
+			background-color: #df9149;
+			font-family: "Times New Roman", Times, serif;	
+			border: 0px solid #713107;
+			border-radius: 4px;
+			box-sizing: border-box;
+			color: white;
+			padding: 1px 1px;
+			text-decoration: none;
+			font-size: 12x;
+			/* font-size 20, 16, 12, 12 */
+			height: 15px;
+			/* height 25, 20, 15, 15 */
+			cursor: pointer;
+			}
 
 caption.Sat		{ 	font-family: "Times New Roman", Times, serif;
 			font-weight: bold; 
@@ -490,8 +490,8 @@ th.saalistilastot1
 th.saalistilastot	{ 	
 			font-family: "Times New Roman", Times, serif;
 			font-weight: bold; 
-			font-size: 8px;
-			/* font-size 16, 13, 10, 8 */ 
+			font-size: 10px;
+			/* font-size 16, 13, 10, 10 */ 
 			color: #b63919; 
 			padding-left: 5px;
 			margin: 0em;
@@ -520,8 +520,8 @@ td		{	font-family: "Times New Roman", Times, serif;
 td.saalistilastot
 		{	font-family: "Times New Roman", Times, serif;
 			font-weight: normal; 
-			font-size: 8px;
-			/* font-size 16, 13, 10, 8 */
+			font-size: 10px;
+			/* font-size 16, 13, 10, 10 */
 			color: #542314; 
 			padding-left: 5px;
 			margin: 0px;
@@ -536,9 +536,9 @@ td.saalistilastot
 img.saalistilastot {
   			border: 1px solid #ddd;
   			border-radius: 4px;
-  			padding: 5px;
-			height: 60px;
-			/* height 180, 144, 108, 72 */
+  			padding: 3px;
+			height: 108px;
+			/* height 180, 144, 108, 108 */
 		}
 
 img.saalistilastot:hover {
@@ -546,8 +546,253 @@ img.saalistilastot:hover {
 			}
 
 
+/* kuulumiset */
 
 
+.text_box-img 		{position: absolute;
+  			bottom: 10px;
+  			right: 10px;
+  			background-color: white;
+			font-family: "Times New Roman", Times, serif;
+			font-weight: normal;
+			font-size: 10px;
+			/* font-size 12, 10, 10, 10 */
+			color: #ff6633;
+			box-shadow: 3px 3px 3px #fff;
+			border: none;
+			border-radius: 4px;
+			padding-left: 10px;
+			padding-right: 10px;
+			/*all 20, 16, 12, 10*/
+} 
+
+
+
+.Blog			{
+			font-family: "Times New Roman", Times, serif;
+			font-weight: bold; 
+			font-size: 10px;
+			/* Font 12, 10, 10, 10 */
+			color: #b63919;
+			vertical-align: middle;
+			padding: 1px 1px;
+    			height: 40px;
+			/* height 25, 20, 40, 40 */
+			border: 0px solid #713107;
+			background-image: url(http://www.naamisuvanto.net/fi/images/layout/kojamo4.jpg);
+			/*opacity: 0.5;*/
+    			background-color:rgba(255,255,255,0.5);
+			border: none;
+			border-radius: 4px
+			/*white-space: nowrap;*/
+}
+
+form.blogf {		padding: 2px;
+}
+
+
+.blogi		 	{
+			font-family: "Times New Roman", Times, serif;			
+			background-color: #df9149;
+			border: 0px solid #713107;
+			border-radius: 4px;
+			/*box-sizing: border-box;*/
+			color: white;
+			padding: 1px 1px;
+			text-decoration: none;
+			font-size: 10x;
+			/* font-size 12, 10, 10, 10 */ 
+			cursor: pointer;
+			font-weight: normal;
+			}
+
+.blogs 			{
+  			/*width: 100px;*/
+  			padding: 1px 1px;
+			border: none;
+			border-radius: 4px;
+			font-family: "Times New Roman", Times, serif;
+			font-size: 10px;
+			/* font-size 12, 10, 10, 10 */ 
+			color: #b63919;
+			font-weight: bold; 
+			background-color: #f1f1f1;
+			}
+
+/*Blogi menu left column*/
+
+div.bmenu_left	{	margin: 2px; 
+			padding: 2px;
+			/* All 5, 4, 3, 2 */
+			background-image: url(http://www.naamisuvanto.net/fi/images/layout/menu_backround.jpg) ;
+			background-color: #FEF7F2;
+			margin-bottom: 4px;
+			/* margin-bottom 10, 8, 6, 4 */
+			border: 0px solid #713107;
+			border-radius: 10px;
+		}
+
+
+ul.bmenu_left	{	list-style-image: url('http://www.naamisuvanto.net/fi/images/layout/arrow_7x7_orange.gif');
+			padding-left: 2px;
+			margin-left: 2px;
+			/* All 5, 4, 3, 2 */
+			padding-bottom: 0; 
+			font-family: "Times New Roman", Times, serif; 
+		}
+
+li.bmenu_left	{ 	font-weight: bold; 
+			font-size: 10px; 
+			/* font-size 12, 10, 10, 10 */
+			color: #b63919; 
+			margin-left: 4px;
+			/* margin-left 10, 8, 6, 4 */
+			text-align: left ;
+			padding-left: 2px;
+			/* padding-left 5, 4, 3, 2 */
+			margin-bottom: 1px;
+			/* margin-bottom 3, 2, 2, 1 */
+			border-bottom: 0px solid #000;	
+			font-family: "Times New Roman", Times, serif; 		
+		}
+
+a.bmenu_left	{ 	font-weight: bold; 
+			font-size: 10px;
+			/* font-size 12, 10, 10, 10 */
+			color: #b63919; 
+			padding: 0em;
+			margin: 0px;
+			text-align: left ;
+			padding-left: 0px;
+			margin-bottom: 0px;
+			text-decoration: none;
+			border-bottom: 0px solid #000;			
+		}
+
+
+/*Blogi article*/
+
+h1.h1blog		{
+			font-family: "Times New Roman", Times, serif;
+			font-weight: bold; 
+			font-size: 12px;
+			/* font-size 20, 16, 12, 12 */
+			margin: 0px;
+			color: #b63919;
+			padding: 2px 2px;
+			/* padding 4, 3, 2, 2 */
+			border: 0px solid #713107;
+			background-image: url(http://www.naamisuvanto.net/fi/images/layout/kojamo4.jpg);
+			border-radius: 4px
+}
+
+h2.h1blog		{
+			font-family: "Times New Roman", Times, serif;
+			font-weight: bold; 
+			font-size: 10px;
+			/* font-size 16, 13, 10, 10 */
+			text-align: left ;
+			margin: 0px;
+			color: #b63919;
+			padding: 2px 2px;
+			/* padding 4, 3, 2, 2 */
+			border: 0px solid #713107;
+			border-radius: 4px
+}
+
+
+.dbarticle	{	float: left;
+			margin: 0px;
+			margin-top: 0px;
+			width: 95%;
+			height:auto;
+			padding: 10px;
+			border: 0px solid #713107;
+		}
+
+p.barticle	{	font-family: "Times New Roman", Times, serif; 
+			font-weight: normal;
+			font-size: 10px;
+			/* font-size 14, 12, 10, 10 */
+			color: #b63919; 
+			margin-top: 2px;
+			margin-right: 0px;
+			margin-bottom: 2px;
+			/* margin-bottom 5, 4, 3, 2 */
+			margin-left: 0px;
+			padding-top: 0px;
+			padding-right: 0px;
+			padding-bottom: 0px;
+			padding-left: 0px;
+			text-align: left ; 
+			text-decoration: none;
+			border: 0px solid #713107;
+		}
+
+p.barticle_bold	{	font-family: "Times New Roman", Times, serif; 
+			font-weight: bold;
+			text-indent:0px; 
+			font-size: 10px;
+			/* font-size 14, 12, 10, 10 */
+			/*letter-spacing: 0.04em;*/
+			color: #b63919; 
+			margin-top: 2px;
+			margin-right: 0px;
+			margin-bottom: 2px;
+			/* margin-bottom 5, 4, 3, 2 */
+			margin-left: 0px;
+			padding-top: 0px;
+			padding-right: 0px;
+			padding-bottom: 0px;
+			padding-left: 0px;
+			text-align: left ; 
+			text-decoration: none;
+			/*background-color: black;*/
+			border: 0px solid #713107;
+		}
+
+a.btext	{ 	font-family: "Times New Roman", Times, serif;
+			font-weight: bold; 
+			font-size: 10px;
+			/* font-size 14, 12, 10, 10 */
+			color: #b63919; 
+			text-decoration: underline;
+			border-bottom: 0px solid #000;			
+		}
+
+
+
+iframe.iframe_left { float: left;
+			allowfullscreen: true;
+			width: 45%;
+			margin-top: 2px;
+			/* margin-top 5, 4, 3, 2 */
+			margin-right: 4px;
+			/* margin-right 10, 8, 6, 4 */
+			margin-bottom: 0px;
+			margin-left: 0px;
+			padding-top: 0px;
+			padding-right: 0px;
+			padding-bottom: 0px;
+			padding-left: 0px;
+			border: 0px solid #713107;
+		}
+
+iframe.iframe_right 	{ float: right;
+			allowfullscreen: true;
+			width: 45%;
+			margin-top: 2px;
+			/* margin-top 5, 4, 3, 2 */
+			margin-right: 2px;
+			/* margin-right 5, 4, 3, 2 */
+			margin-bottom: 0px;
+			margin-left: 0px;
+			padding-top: 0px;
+			padding-right: 8px;
+			padding-bottom: 0px;
+			padding-left: 0px;
+			border: 0px solid #713107;
+		}
 
 /*Right column*/
 
