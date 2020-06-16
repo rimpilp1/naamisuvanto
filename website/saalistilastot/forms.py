@@ -18,6 +18,7 @@ class SaalisForm(forms.ModelForm):
         "saantipaiva",
 		"kuva",
 		"public",
+		"sukupuoli",
 		]
 		labels = {
 			"email": "Sähköposti",

@@ -2,9 +2,33 @@
 var max_menu_width = parseInt($('.header_menu').css('max-width'));
 var drop_list = $('div.drop_content > .drop_button');
 var menu_list = $('div.header_menu > .header_button');
+
+var header_menu = $('.header_menu')
+var left_column = $('.left_column')
+var header = $('.header');
+var header_wrapper=$('.header_wrapper')
+
 var drop = $('div.header_drop').eq(0);
 var max_menu_ele = drop_list.length + 2
 var menu_ele_width = max_menu_width/max_menu_ele
+
+function addEvents(){
+    $('input[id=header_toggle]').change(function(){
+        if($(this).is(':checked')) {
+        header_wrapper.hide()
+        } else {
+        header_wrapper.show()
+        }
+    });
+    $('input[id=left_toggle]').change(function(){
+        if($(this).is(':checked')) {
+        left_column.hide()
+        } else {
+        left_column.show()
+        }
+    });
+    resizeNavigation
+}
 
 function resizeNavigation(){
     var menu_width = $('.header_menu').width();
@@ -69,6 +93,6 @@ function header_accordion(){
   var click = $('.header_max');
   click.bind("click",header_accordion);
 
-$(document).ready(resizeNavigation);
+$(document).ready(addEvents);
 $(window).resize(resizeNavigation);
     //resizeNavigation);
