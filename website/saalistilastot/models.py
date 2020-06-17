@@ -9,7 +9,7 @@ class Saalis(models.Model):
     sukupuolet = [
         ('U','U'),
         ('N','N'),
-        ('?','?')
+        ('-','-')
     ]
 
     saaja = models.CharField(max_length = 300)
@@ -18,10 +18,10 @@ class Saalis(models.Model):
     pituus = models.CharField(max_length = 10)
     viehe = models.CharField(max_length = 300)
     email = models.EmailField()
-    saantipaiva = models.DateField(default=timezone.now(),blank=True)
+    saantipaiva = models.DateField(default=timezone.now,blank=True)
     kuva = models.ImageField(upload_to="images/", default = "images/default.jpg")
-    public = models.BooleanField()
-    sukupuoli = models.CharField(max_length = 1,choices=sukupuolet,default='?')
+    public = models.BooleanField(default=False)
+    sukupuoli = models.CharField(max_length = 1,choices=sukupuolet,default='-')
 
     #authenticator
     #poster

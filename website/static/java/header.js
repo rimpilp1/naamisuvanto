@@ -7,14 +7,14 @@ var header_menu = $('.header_menu')
 var left_column = $('.left_column')
 var header = $('.header');
 var header_wrapper=$('.header_wrapper')
-var search = $('.search')
+var search=$('.search')
 
 var drop = $('div.header_drop').eq(0);
 var max_menu_ele = drop_list.length + 2
 var menu_ele_width = max_menu_width/max_menu_ele
 
 function addEvents(){
-
+    
     $('input[id=search_toggle]').change(function(){
         if($(this).is(':checked')) {
         search.hide()

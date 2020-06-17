@@ -93,9 +93,9 @@
 
 
 <center>
-
+<form action="/saalistilastot/" method="get">
 				<div class="Sat">
-						<form action="/action_page.php">		
+								
 						<label for="vuosi">Valitse vuosi:</label>
 						<select id="vuosi" name="vuosi" class="Sats">
 							<option value="2020">2020</option>
@@ -120,17 +120,17 @@
 							<option value="2001">2001</option>
   						</select>
   						<input type="submit" value="Hae" class="sati">
-						</form>
+						
 
 				</div>
 
 <div>
 				
-<form action="/action_page.php">
+
 
 				
 				<input type='checkbox' style='display: none'  id=search_toggle>
-				<label class="Sat" for=search_toggle>Tarkennettu haku <form action="/action_page.php"></label>
+				<label class="Sat" for=search_toggle>Tarkennettu haku </label>
 
 <table width="100%" class = "search">
 <tr>
@@ -175,7 +175,7 @@
 
 
 </table>
-
+</form>
 
 			<div class="article">
 			<p class="article">Tähän tilastoon kerätään  <b>tietoja ja kuvia alueella</b> tulleista lohista. </p>
@@ -197,7 +197,7 @@
 
 				{% for saalis in saaliit %}
 
-				<tr><th colspan="3" class="saalistilastot">Petri Lehto ja Timo Viskari</th></tr>
+				<tr><th colspan="3" class="saalistilastot">{{saalis.saaja}}</th></tr>
 				<tr><td rowspan="6" style="text-align: center">
 				<a target="_blank" href="{{saalis.kuva.url}}">
 				<img src="{{saalis.kuva.url}}" class="saalistilastot"/>
