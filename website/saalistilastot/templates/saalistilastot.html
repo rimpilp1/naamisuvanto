@@ -69,18 +69,18 @@
 
 			<div class="menu_left">
 				<ul class="menu_left">
-				<li class="menu_left"><a href="http://www.naamisuvanto.net/fi/kalaan/index.html" class="menu_left" title="Kalaan; lohensoutu, perhokalastus, kalastus rannalat, kalalajit, kalastusv�lineet...">Kalaan Tornionjoelle</a></li>
+				<li class="menu_left"><a href="http://www.naamisuvanto.net/fi/kalaan/index.html" class="menu_left" title="Kalaan; lohensoutu, perhokalastus, kalastus rannalat, kalalajit, kalastusvälineet...">Kalaan Tornionjoelle</a></li>
 
-				<li class="menu_left"><a href="http://www.naamisuvanto.net/fi/kalaan/tornionjoki.html" class="menu_left" title="Tornionjoki on yh� vapaa, luonnontilainen joki - yksi maan t�rkeimmist� lohijoista">Tornionjoki</a></li>
-				<li class="menu_left2"><a href="http://www.naamisuvanto.net/fi/kalaan/kalastussaannot.html" class="menu_left2" title="Ohjeet lohen kalastukseen rajav�yl�ll�">Kalastusetiketti</a></li>
+				<li class="menu_left"><a href="http://www.naamisuvanto.net/fi/kalaan/tornionjoki.html" class="menu_left" title="Tornionjoki on yhö vapaa, luonnontilainen joki - yksi maan tärkeimmistä lohijoista">Tornionjoki</a></li>
+				<li class="menu_left2"><a href="http://www.naamisuvanto.net/fi/kalaan/kalastussaannot.html" class="menu_left2" title="Ohjeet lohen kalastukseen rajaväylällä">Kalastusetiketti</a></li>
 				<li class="menu_left"><a href="http://www.naamisuvanto.net/fi/kalaan/lohensoutu/index.html" class="menu_left" title="Lohensoudun niksit.">Lohensoutu</a></li>
-				<li class="menu_left"><a href="http://www.naamisuvanto.net/fi/kalaan/perhokalastus/index.html" class="menu_left" title="Perhokalastusmahdollisuudet: perhokalastajat ovat l�yt�neet Tornionjoen....">Perhokalastus</a></li>
+				<li class="menu_left"><a href="http://www.naamisuvanto.net/fi/kalaan/perhokalastus/index.html" class="menu_left" title="Perhokalastusmahdollisuudet: perhokalastajat ovat löytäneet Tornionjoen....">Perhokalastus</a></li>
 				<li class="menu_left"><a href="http://www.naamisuvanto.net/fi/kalaan/rannalta_kalastus/index.html" class="menu_left" title="Heittokalastus rannalta: mahdollisuudet ja niksit"">Rannalta kalastus</a></li>
 				<li class="menu_left"><a href="http://www.naamisuvanto.net/fi/kalaan/harjuksen_kalastus/index.html" class="menu_left" title="Harrin pyynti: mahdollisuudet ja niksit">Harjuksen kalastus</a></li>
 				<li class="menu_left"><a href="http://www.naamisuvanto.net/fi/kalaan/kalalajit/index.html" class="menu_left" title="Tornionjoen monipuoliset kalastusmahdollisuudet: lohi, harjus, siika...">Kalalajit</a></li>
-				<li class="menu_left"><a href="http://www.naamisuvanto.net/fi/kalaan/kalastusvalineet/index.html" class="menu_left" title="Varusteet kunnossa lohi ei karkaa">Kalastusv�lineet</a></li>
-				<li class="menu_left"><a href="http://www.naamisuvanto.net/fi/kalaan/kalankasittely/index.html" class="menu_left" title="Lohen oikea k�sittely takaa makunautinnon">Kalan k�sittely</a></li>
-				<li class="menu_left"><a href="http://www.naamisuvanto.net/fi/kalaan/saalistilastot/index.html" class="menu_left" title="Kalastuskaudella p�ivitt�in ajan tasalla pidett�v� saalistilasto">Saalistilastot</a></li>
+				<li class="menu_left"><a href="http://www.naamisuvanto.net/fi/kalaan/kalastusvalineet/index.html" class="menu_left" title="Varusteet kunnossa lohi ei karkaa">Kalastusvälineet</a></li>
+				<li class="menu_left"><a href="http://www.naamisuvanto.net/fi/kalaan/kalankasittely/index.html" class="menu_left" title="Lohen oikea käsittely takaa makunautinnon">Kalan käsittely</a></li>
+				<li class="menu_left"><a href="http://www.naamisuvanto.net/fi/kalaan/saalistilastot/index.html" class="menu_left" title="Kalastuskaudella päivittäin ajan tasalla pidettävä saalistilasto">Saalistilastot</a></li>
 				</ul>
 			
 				
@@ -98,26 +98,18 @@
 								
 						<label for="vuosi">Valitse vuosi:</label>
 						<select id="vuosi" name="vuosi" class="Sats">
-							<option value="2020">2020</option>
-							<option value="2019">2019</option>
-							<option value="2018">2018</option>
-							<option value="2017">2017</option>
-							<option value="2016">2016</option>
-							<option value="2015">2015</option>
-							<option value="2014">2014</option>
-							<option value="2013">2013</option>
-							<option value="2012">2012</option>
-							<option value="2011">2011</option>
-							<option value="2010">2010</option>
-							<option value="2009">2009</option>
-							<option value="2008">2008</option>
-							<option value="2007">2007</option>
-							<option value="2006">2006</option>
-							<option value="2005">2005</option>
-							<option value="2004">2004</option>
-							<option value="2003">2003</option>
-							<option value="2002">2002</option>
-							<option value="2001">2001</option>
+							{% if not y %}
+							<option value= "-" selected>-</option>
+							{% endif %}
+							{% for y in years %}
+							{% if y == year %}
+							<option value={{y}} selected>{{y}}</option>
+							{% else %}
+							<option value={{y}}>{{y}}</option>
+							{% endif %}
+							
+							{% endfor %}
+							
   						</select>
   						<input type="submit" value="Hae" class="sati">
 						
@@ -125,53 +117,76 @@
 				</div>
 
 <div>
-				
+</form>	
 
 
 				
 				<input type='checkbox' style='display: none'  id=search_toggle>
 				<label class="Sat" for=search_toggle>Tarkennettu haku </label>
 
+<form action="/saalistilastot/" method="get">	
 <table width="100%" class = "search">
 <tr>
 <th class="saalistilastot">  <label for="date_from">Saantiaika:</label></th>
-<td class="saalistilastot">  <input type="date" id="date_from" name="date_from">
+<td class="saalistilastot">  <input type="date" id="date_from" name="date_from" format = "dd/mm/yyyy" {% if date_from %}value = {{date_from}}{% endif %}>
   <label for="date_from">  -  </label>
-  <input type="date" id="date_to" name="date_to">
+  <input type="date" id="date_to" name="date_to" {% if date_to %}value = {{date_to}}{% endif %}>
 </td>
 </tr>
 <tr>
 <th class="saalistilastot"><label for="Kalastajat">Kalastajat:</label></th>
-<td class="saalistilastot">  <input type="text" id="Kalastajat" name="Kalastajat">
+<td class="saalistilastot">  <input type="text" id="Kalastajat" name="Kalastajat" {% if kalastajat %}value = {{kalastajat}}{% endif %}>
 </td>
 </tr>
 <tr>
 <th class="saalistilastot"><label for="Saantipaikka">Saantipaikka:</label></th>
-<td class="saalistilastot"><input type="text" id="Saantipaikka" name="Saantipaikka">
+<td class="saalistilastot"><input type="text" id="Saantipaikka" name="Saantipaikka" {% if saantipaikka %}value = {{saantipaikka}}{% endif %}>
 </td>
 </tr>
 <tr>
 <th class="saalistilastot"><label for="Viehe">Viehe:</label></th>
-<td class="saalistilastot"><input type="text" id="Viehe" name="Viehe">
+<td class="saalistilastot"><input type="text" id="Viehe" name="Viehe" {% if viehe %}value = {{viehe}}{% endif %}>
 </td>
 </tr>
 <tr>
 <th class="saalistilastot"><label for="Paino_from">Paino (kg):</label></th>
-<td class="saalistilastot"><input type="number" id="Paino_from" name="Paino_from" size="4">
+<td class="saalistilastot"><input type="number" id="Paino_from" name="Paino_from" size="4" {% if paino_from %}value = {{paino_from}}{% endif %}>
 <label for="Paino_to"> - </label>
-  <input type="number" id="Paino_to" name="Paino_to" size="4">
+  <input type="number" id="Paino_to" name="Paino_to" size="4" {% if paino_to %}value = {{paino_to}}{% endif %}>
 <tr>
 <th class="saalistilastot"><label for="Pituus_from">Pituus (cm):</label></th>
-<td class="saalistilastot"><input type="number" id="Pituus_from" name="Pituus_from" size="4">
+<td class="saalistilastot"><input type="number" id="Pituus_from" name="Pituus_from" size="4" {% if pituus_from %}value = {{pituus_from}}{% endif %}>
 
   <label for="Pituus_to"> - </label>
-  <input type="number" id="Pituus_to" name="Pituus_to" size="4">
+  <input type="number" id="Pituus_to" name="Pituus_to" size="4" {% if pituus_to %}value = {{pituus_to}}{% endif %}>
 </td>
+</tr>
+<tr>
+	<th class="saalistilastot"><label for="p">Saalit per sivu:</label></th>
+	<td class="saalistilastot"><input type="number" id="p" name="p" size="4" value = {{p}}>
+	
+</tr>
+</tr>
+<tr>
+	<th class="saalistilastot"><label for="p">Järjestä</label></th>
+	<td class="saalistilastot">
+
+	<input type="radio" id="aika" name="sort" value = "aika" {% if sort == "aika"  %}checked{% endif %}>
+	<label for="aika">Päivämäärä</label>
+	<input type="radio" id="paino" name="sort" value = "paino" {% if sort == "paino"  %}checked{% endif %}>
+	<label for="paino">Paino</label>
+	<input type="radio" id="pituus" name="sort" value = "pituus" {% if sort == "pituus"  %}checked{% endif %}>
+	<label for="pituus">Pituus</label>
+	<input type="checkbox" id="reverse" name="reverse" {% if reverse %}checked{% endif %}>
+	<label for="reverse">Käänteinen</label>
+	
+
 </tr>
 <tr>
 <th class="saalistilastot" colspan="2"><center><input type="submit" value="Hae" class="sati"></form></center>
 </th>
 </tr>
+
 
 
 </table>
@@ -180,7 +195,7 @@
 			<div class="article">
 			<p class="article">Tähän tilastoon kerätään  <b>tietoja ja kuvia alueella</b> tulleista lohista. </p>
  			<p class="article">Ilmoita oma saaliisi ja lähetä kuva <a  href=" " TARGET="top" class="text">tästä linkistä.</a></p>
-			<p class="article">Julkaisemme listavalla myäs luotettavat tiedot CR lohista, vaikka niitä ei lasketa Tornionjoen yhteiseen saalistilastoon. Pyyt�misen j�lkeen vapautettujen kalojen m��r� on viime vuosina kasvanut pikku hiljaa.</p>
+			<p class="article">Julkaisemme listavalla myäs luotettavat tiedot CR lohista, vaikka niitä ei lasketa Tornionjoen yhteiseen saalistilastoon. Pyytämisen jälkeen vapautettujen kalojen määrä on viime vuosina kasvanut pikku hiljaa.</p>
  			<p class="article">Päivitämme saalistilastoa päivittäin.</p>
 			<p class="article">
 			<b>HUOM! Vialliset kalat ilmoittakaa alla olevan linkin kautta:</b>
@@ -199,16 +214,35 @@
 
 				<tr><th colspan="3" class="saalistilastot">{{saalis.saaja}}</th></tr>
 				<tr><td rowspan="6" style="text-align: center">
+					{% if saalis.kuva %}
 				<a target="_blank" href="{{saalis.kuva.url}}">
 				<img src="{{saalis.kuva.url}}" class="saalistilastot"/>
-				</a><br/>
+				</a>
+				{% endif %}
+				<br/>
 				Klikkaa kuva suuremmaksi
 				</td>
-				<th class="saalistilastot">Paikka</th><td class="saalistilastot">{{saalis.paikka}}</td></tr>
-				<tr><th class="saalistilastot">Viehe</th><td class="saalistilastot">{{saalis.viehe}}</td></tr>
-				<tr><th class="saalistilastot">Paino (kg)</th><td class="saalistilastot">{{saalis.paino}}</td></tr>
-				<tr><th class="saalistilastot">Pituus (cm)</th><td class="saalistilastot">{{saalis.pituus}}</td></tr>
-				<tr><th class="saalistilastot">Päivämäärä</th><td class="saalistilastot">{{saalis.saantipaiva}}</td></tr>
+				<th class="saalistilastot">Paikka</th><td class="saalistilastot">
+					{% if not saalis.paikka == None %}
+					{{saalis.paikka}}	
+					{% endif %}	
+				</td></tr>
+				<tr><th class="saalistilastot">Viehe</th><td class="saalistilastot">
+					{% if not saalis.viehe == None %}
+					{{saalis.viehe}}	
+					{% endif %}
+				</td></tr>
+				<tr><th class="saalistilastot">Paino (kg)</th><td class="saalistilastot">
+					{% if not saalis.paino == None %}
+					{{saalis.paino}}
+					{% endif %}
+				</td></tr>
+				<tr><th class="saalistilastot">Pituus (cm)</th><td class="saalistilastot">
+					{% if not saalis.pituus == None %}
+					{{saalis.pituus}}	
+					{% endif %}	
+				</td></tr>
+				<tr><th class="saalistilastot">Päivämäärä</th><td class="saalistilastot">{{saalis.saantipaiva | date:"d.m.Y"}}</td></tr>
 				<tr><th class="saalistilastot">U/N</th><td class="saalistilastot">{{saalis.sukupuoli}}</td></tr>
     
     
@@ -217,6 +251,9 @@
 				
 
 </table>
+{%if paginatior.num_pages > 1 %}
+{{ paginatior.has_next}}
+{% endif %}
 </center>
 
 

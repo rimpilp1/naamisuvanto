@@ -1,12 +1,63 @@
 
+{% load static %}
+
+
+<head>
+	<title>Saalistilastot Pellon alue | Naamisuvanto.net</title>
+    	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="copyright" content="Mäkki-</br>venevuokraus Uusitalo" />
+	<meta name="DC.Title" content="naamisuvanto.net" />
+	<meta name="description" content="The Tornio River is the longest free-flowing rive in the whole Europe. Rowing Boat Trolling on the Pool of Naamisuvanto</br>other pools in Pello offers you a great possibility to experience the adventure of fishing salmon</br>othe spieces." />
+	<meta name="robots" content="index,follow" />
+	<meta name="geo.position" content="66.9263;23.889612" />
+	<meta name="ICBM" content="66.9263;23.889612" />
+
+	<link rel="stylesheet" type="text/css" href="{%static 'css/css.css'%}">
+
+	    <script src="{%static 'java/jquery-1.12.4.js'%}"></script>
+  	  <script src="{%static 'java/jquery-ui.js'%}"></script>
+        
+</head>
 
 <p class="article">
+
     <table width="100%">
-    
-    
-    <tr><th colspan="5" class="heading">{{suurin.saaja}}</th></tr>
-    <tr><td colspan="5"><img src="{{suurin.kuva.url}}" width="40" alt="Salmon {{suurin.paino}} kg {{suurin.pituus}} cm {{suurin.saantipaiva}}" class="image" /></td></tr>
-    <tr><th>Paikka</th><th>Viehe</th><th>Paino</th><th>Pituus</th><th>Saantip�iv�</th></tr>
-    <tr><td>{{suurin.paikka}}</td><td>{{suurin.viehe}}</td><td>{{suurin.paino}} kg</td><td>{{suurin.pituus}} cm</td><td>{{suurin.saantipaiva}}</td></tr>
-    </table>
+        <caption>Saalistilastot</caption>
+
+        <tr><th colspan="3" class="saalistilastot">{{suurin.saaja}}</th></tr>
+        <tr><td rowspan="6" style="text-align: center">
+            {% if suurin.kuva %}
+        <a target="_blank" href="{{suurin.kuva.url}}">
+        <img src="{{suurin.kuva.url}}" class="saalistilastot"/>
+        </a>
+        {% endif %}
+        <br/>
+        Klikkaa kuva suuremmaksi
+        </td>
+        <th class="saalistilastot">Paikka</th><td class="saalistilastot">
+            {% if not suurin.paikka == None %}
+            {{suurin.paikka}}	
+            {% endif %}	
+        </td></tr>
+        <tr><th class="saalistilastot">Viehe</th><td class="saalistilastot">
+            {% if not suurin.viehe == None %}
+            {{suurin.viehe}}	
+            {% endif %}
+        </td></tr>
+        <tr><th class="saalistilastot">Paino (kg)</th><td class="saalistilastot">
+            {% if not suurin.paino == None %}
+            {{suurin.paino}}
+            {% endif %}
+        </td></tr>
+        <tr><th class="saalistilastot">Pituus (cm)</th><td class="saalistilastot">
+            {% if not suurin.pituus == None %}
+            {{suurin.pituus}}	
+            {% endif %}	
+        </td></tr>
+        <tr><th class="saalistilastot">Päivämäärä</th><td class="saalistilastot">{{suurin.saantipaiva | date:"d.m.Y"}}</td></tr>
+        <tr><th class="saalistilastot">U/N</th><td class="saalistilastot">{{suurin.sukupuoli}}</td></tr>
+
+
+        </table>
+
 </p>

@@ -1,0 +1,25 @@
+html, body {
+    height:100%;
+    margin:0;
+    padding:0;
+}
+#wrapper {
+    width:400px; /*set to desired width*/
+    height:100%;
+    margin:auto;
+    position:relative;
+}
+#header {
+    height:40px; /* set to desired height*/
+    background-color:green;
+    color: #fff;
+}
+#content {
+    position:absolute;
+    bottom:0;
+    top:40px; /*must match the height of #header*/
+    width:100%;
+    overflow:auto;
+    background-color:#333;
+    color:#666;
+}

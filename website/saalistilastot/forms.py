@@ -17,6 +17,7 @@ class SaalisForm(forms.ModelForm):
 		"email",
         "saantipaiva",
 		"kuva",
+		"vapautettu",
 		"sukupuoli",
 		]
 		labels = {

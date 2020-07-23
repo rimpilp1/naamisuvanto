@@ -1,0 +1,285 @@
+
+.container, .header, .footer, .header_menu, .header_max, .header_acc_button{
+    margin: 0 auto;
+    width:100%;
+    max-width:1000px;
+
+}
+
+
+
+/*Container elements*/
+
+.header, .header_menu, .header_max{
+    height:40px;
+    /*position:relative;*/
+    /*position:fixed;*/
+}
+
+#wrapper {
+    width:1000px; /*set to desired width*/
+    height:100%;
+    margin:auto;
+    position:relative;
+}
+
+.content {
+    position:absolute;
+    bottom:0;
+    top:40px; /*must match the height of #header*/
+    width:100%;
+    overflow:auto;
+}
+
+
+.middle_column{
+    width: 100%;
+    height: 3000px;
+    background:lightblue;
+}
+
+.left_column{
+    /*float:left;*/
+    flex-shrink: 0;
+    flex-grow: 0;
+    width: 200px;
+    height: 400px;
+    background: lightcoral;
+}
+
+
+.right_column{
+    /*float:right;*/
+    flex-shrink: 0;
+    flex-grow: 0;
+
+    width: 200px;
+    height: 400px;
+    background: lightseagreen;
+}
+
+/*header and footer*/
+
+.header{
+	height: 100px;
+	background-image: url(http://www.naamisuvanto.net/fi/image/layout/header.jpg) ;
+	background-size: contain;
+  	resize: both;
+
+}
+
+
+#header_slogan	{	/*position: relative;*/
+			top: 10px;
+			left: 220px;
+			width: 100%;
+			height: 30px;
+			border: 0px solid #713107;
+		}
+
+
+.footer{
+    height: 100px;
+    background: brown;
+
+}
+
+/* Header menu items */
+
+.header_menu{
+    height: 40px;
+    background: tomato;
+    display: flex;
+}
+
+.header_button, .header_active, .header_home, .drop_button{
+    float:left;
+    flex-grow: 1;
+
+    box-sizing: border-box;
+    border-style: solid;
+    border-color: brown;
+    border-width: 1px;
+
+    background: tomato;
+    height: 40px;
+}
+
+.header_acc_button, .left_acc_button{
+
+    height: 20px;
+    background: brown;
+    display: block;
+    border-style: none;
+
+}
+
+/*
+.header_acc_button:focus{
+    outline:0;
+    }
+*/
+    
+
+.left_acc_button{
+    display:none;
+}
+
+.header_max{
+    height: 20px;
+    display: hidden;
+
+    box-sizing: border-box;
+    border-style: solid;
+    border-color: brown;
+    border-width: 1px;
+
+    background: tomato;
+}
+
+.header_drop{
+    float:left;
+    flex-grow: 1;
+}
+
+.header_active{
+
+    box-sizing: border-box;
+    border-width: 1px 1px 1px 1px;
+    border-style: solid;
+    border-color: brown;
+    
+    background: lightcoral;
+    height: 40px;
+}
+
+.header_home{
+    background-color:crimson;
+}
+
+.header_drop{
+    display:none;
+    height: inherit;
+}
+
+.drop_content{
+    display:none;
+    width:inherit;
+    position: relative;
+    height: inherit;
+}
+
+.drop_button{
+    width: 100%;
+    display: block;
+    /*position: relative; */
+    height: inherit;
+}
+
+/* Adaptive elements */
+
+
+.header_drop:hover .drop_content{
+    display: block;
+}
+
+@media screen and (max-width:800px){
+    .right_column{
+        display: none;
+    }
+}
+
+@media screen and (max-width:600px){
+    
+    .left_column{
+        width: 100px;
+    }
+}
+
+@media screen and (max-width:400px){
+
+    .container{
+        display: block;
+    }
+
+    .left_column{
+        width:100%;
+        height: 200px;
+    }
+
+    .left_acc_button{
+    display:block;
+    background: brown;
+    }
+    .middle_column{
+        
+        width:100%;
+        float: left;
+        clear:both;
+        /*position: relative;*/
+        
+    }
+    
+    .header_menu{
+        height: auto;
+        overflow: auto;
+        display:block;
+    }
+    .header_button, .header_active, .header_home, .header_max{
+        width: 100%;
+        display:block;
+        clear: both;
+
+    }
+
+    .header_active{
+        box-sizing: border-box;
+        border-style: solid;
+        border-color: brown;
+        border-width: 1px;
+        /*background-color: tomato;*/
+    }
+
+    .header_drop{
+        display:hidden;
+    }
+
+    .header_drop:hover .drop_content{
+        display: none;
+    }
+
+    .active, .header_menu:hover{
+        display:block;   
+    }
+
+}
+
+.hidden{
+    display:none;
+}
+
+h1		{ 	font-weight: bold; 
+			font-family: "Times New Roman", Times, serif;
+			font-size: 1.9em;
+			letter-spacing: 0.01em; 
+			color: #ffffff; 
+			padding: 0.3em;
+			margin: 0em;
+			text-align: left ; 
+			text-decoration: none;
+		}
+
+    .left_acc_button:hover, .left_acc_button:checked, .header_acc_button:hover,  .header_acc_button:checked {
+     background-color: lightsalmon;
+    }
+
+
+#header_toggle:checked ~ .header_acc_button{
+    background-color: lightsalmon;
+}
+
+
+#left_toggle:checked ~ .left_acc_button{
+    background-color: lightsalmon;
+}
+

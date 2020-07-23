@@ -1,0 +1,2374 @@
+
+<!DOCTYPE html>
+
+<!--
+  __  __             _     _
+ |  \/  | __ _  __ _(_)___| |_ ___
+ | |\/| |/ _` |/ _` | / __| __/ _ \
+ | |  | | (_| | (_| | \__ \ || (_) |
+ |_|  |_|\__,_|\__, |_|___/\__\___/
+               |___/
+-->
+
+
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+    <head>
+        
+        <base href="/album/video/fyF9TwdYQUIwIisGDmEwCXh4" />
+        <meta charset="utf-8">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Language" content="en" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        
+        
+	
+		<meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
+	
+
+
+        
+	
+	<link rel="canonical" href="https://www.magisto.com/video/fyF9TwdYQUIwIisGDmEwCXh4" />
+	
+	<link rel="alternate" type="application/json+oembed" title="Untitled" href="https://www.magisto.com/api/embed/player/oembed?format=json&hash=fyF9TwdYQUIwIisGDmEwCXh4&app=magisto" />
+
+
+        
+        
+            <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, minimal-ui">
+        
+        
+
+        <meta name="HandheldFriendly" content="True">
+        <meta name="MobileOptimized" content="360"/>
+        <meta name="apple-mobile-web-app-capable" content="yes">
+
+        
+        
+            
+                <link rel="shortcut icon" href="https://d1ekrxlws13em5.cloudfront.net/media/images/favicon.ico" type="image/vnd.microsoft.icon" />
+                <link rel="icon" href="https://d1ekrxlws13em5.cloudfront.net/media/images/favicon.ico" type="image/x-icon" />
+                <link rel="apple-touch-icon" href="https://d1ekrxlws13em5.cloudfront.net/media/images/magisto_ios_icon_large.jpg"/>
+            
+        
+
+        
+        <title> | Magisto Video Editor </title>
+
+        <meta name="description" content="Untitled Created using Magisto - free video editor. Transforms your photos and videos with the swipe of your finger. Available for Android and iOS.">
+        <meta name="keywords" content="video marketing, promo video, marketing videos, marketing your business, small business marketing, marketing video, online video marketing, marketing videos, marketing video, promotional videos, product video, online video marketing">
+
+        
+            <meta name="apple-itunes-app" content="app-id=486781045, app-argument=">
+        
+
+        
+            <meta name="google-play-app" content="app-id=com.magisto">
+        
+
+
+        
+        <meta property="fb:app_id" content="192161334139408" />
+        
+	<meta name="medium" content="video">
+	<meta name="author" content="Lasse Ratinasta">
+	<meta property="og:site_name" content="Magisto">
+	<meta property="og:type" content="video">
+	<meta property="og:title" content="Untitled">
+	<meta property="og:description" content="Created using Magisto video editor. Share your story with Magisto smart video maker.">
+	
+		<meta property="og:url" content="https://www.magisto.com/video/fyF9TwdYQUIwIisGDmEwCXh4">
+		<meta property="og:video" content="https://www.magisto.com/video/fyF9TwdYQUIwIisGDmEwCXh4">
+		<meta property="og:video:url" content="https://www.magisto.com/video/fyF9TwdYQUIwIisGDmEwCXh4">
+		<meta property="og:video:secure_url" content="https://www.magisto.com/video/fyF9TwdYQUIwIisGDmEwCXh4">
+	
+	<meta property="og:image" content="https://d3im4g4qkg9lj9.cloudfront.net/PFlBJAAUQjk5AQRpYw">
+	<meta property="og:image:secure_url" content="https://d3im4g4qkg9lj9.cloudfront.net/PFlBJAAUQjk5AQRpYw">
+	<meta property="og:image:width" content="640"/>
+	<meta property="og:image:height" content="360"/>
+	<meta property="og:video:type" content="text/html">
+	<meta property="og:video:width" content="568">
+	<meta property="og:video:height" content="320">
+
+
+        
+	<meta name="twitter:card" content="player">
+	<meta name="twitter:site" content="@magisto">
+	<meta name="twitter:title" content="Untitled">
+	<meta name="twitter:description" content="Untitled Created using Magisto. Share your story using the free video editing app that transforms your photos and videos with the swipe of your finger. Available for Android and iOS.">
+	<meta name="twitter:image" content="https://result4.cdn.magisto.com/3/d/PFlBJAAUQjk5AQRpYw_/extralarge.jpg">
+	<meta name="twitter:player" content="https://www.magisto.com/embed/player/fyF9TwdYQUIwIisGDmEwCXh4?source=twitter">
+	
+	<meta name="twitter:player:width" content="568">
+	<meta name="twitter:player:height" content="320">
+	
+	<meta name="twitter:app:name:iphone" content="Magisto">
+	<meta name="twitter:app:name:ipad" content="Magisto">
+	<meta name="twitter:app:name:googleplay" content="Magisto">
+	<meta name="twitter:app:id:iphone" content="id486781045">
+	<meta name="twitter:app:id:ipad" content="id486781045">
+	<meta name="twitter:app:id:googleplay" content="com.magisto">
+
+
+
+        
+            
+            <!--<link rel="manifest" href="/media/new/js/apis/web-push/chrome/manifest.json">-->
+            <link rel="manifest" href="/media/new/js/apis/web-push/chrome/manifest_proper_android_appinstall.json">
+        
+
+        
+        
+        
+        
+            
+                
+<link href="//d1ekrxlws13em5.cloudfront.net/media/cached/css/def43a825deb.css" type="text/css" rel="stylesheet" type="text/css" />
+            
+        
+        
+	
+
+	
+		<link href="//d1ekrxlws13em5.cloudfront.net/media/cached/css/7b826281033d.css" type="text/css" rel="preload" as="style" />
+<link href="//d1ekrxlws13em5.cloudfront.net/media/cached/css/7b826281033d.css" type="text/css" rel="stylesheet" type="text/css" />
+	
+
+	<style>
+		
+		
+		.optin_notification_line.top_pos{
+			display:none;
+			
+		}
+	</style>
+
+
+    
+    
+        <script src="https://polyfill.io/v3/polyfill.min.js?version=3.52.1&amp;features=es2015%2Ces2016%2Ces2017%2Ces2018%2Ces2019"></script>
+    
+
+    
+    
+        <script>
+
+            
+            var globals = {
+                app                 : 'magisto',
+                is_debug 			: false,
+                is_live 		    : true,
+                is_authenticated 	: false,
+                is_mobile 			: false,
+                is_iphone			: false,
+                is_ipad				: false,
+                is_android          : false,
+                is_desktop          : true,
+                static_url 			: 'https://d1ekrxlws13em5.cloudfront.net/media/',
+                sightera_server 	: 'www.magisto.com',
+                protocol 			: 'https',
+                has_https_support 	: true,
+                prot_and_server 	: 'https://www.magisto.com',
+                user_name			: null,
+                is_business		 	: false,
+                is_tryout           : false,
+                can_remove_watermark: false,
+                opt_in_trial        : false,
+                opt_in_expire_days  : false,
+                optin_upsell_id     : 'optin-business-upsell-popup',
+                trial_period        : false,
+                blocking_opt_in_trial: false,
+                user_plan 			: '',
+                has_stock           : false,
+                has_getty_marketplace: false,
+                can_tweak		    : false,
+                can_ad			    : false,
+                can_publish			: false,
+				can_custompage 		: false,
+                publish_branded	    : false,
+                can_embed			: false,
+                can_brand_video     : false,
+                send_analytics 	    : false,
+                got_cookies_consent : false,
+                ab_tests            : {},
+                CRM: { track: function(event_name, extra_data) {} },
+                can_connect_to_vimeo: false,
+                connected_to_vimeo: false,
+                vimeo_account_eligibility: 'None',
+                vimeo_user_email: '',
+                vimeo_auto_share: false,
+                vimeo_share_privacies: JSON.parse('[]'),
+                vimeo_token_invalid: false,
+                v6_support: false,
+            };
+            
+                globals.ab_tests.web_pro_tier = false;
+            
+            
+            globals.ab_tests.web_plus_tier = false;
+            
+
+            
+                globals.ab_tests.web_upsell_image_text = false;
+            
+
+            
+                globals.ab_tests.web_pro_upsell_popup = false;
+            
+
+            
+
+            
+            globals.prot_and_server = 'https://www.magisto.com';
+
+            var fb_ad_id = null;
+            var ad_account_id = null;
+            var campaign_ids = null;
+
+            
+            globals.fb_ad_id = sessionStorage.getItem('fb_ad_id') || fb_ad_id;
+
+            if(!!globals.fb_ad_id){
+                globals.ad_account_id = sessionStorage.getItem('ad_account_id') || ad_account_id;
+                globals.campaign_ids = sessionStorage.getItem('campaign_ids') || campaign_ids;
+
+                sessionStorage.setItem('fb_ad_id', globals.fb_ad_id);
+                sessionStorage.setItem('ad_account_id', globals.ad_account_id);
+                sessionStorage.setItem('campaign_ids', globals.campaign_ids);
+                sessionStorage.setItem('embed_on', globals.outerPlatform);
+            }
+
+            
+            var _is_mobile = globals.is_mobile,
+                _is_ipad = globals.is_ipad,
+                _is_debug = globals.is_debug,
+                _has_https_support = globals.has_https_support,
+                _protocol = globals.protocol,
+                _prot_and_server = globals.prot_and_server,
+                _sightera_server = globals.sightera_server,
+                _is_authenticated = globals.is_authenticated,
+                _is_channel_admin = false,
+                _is_ie = false;
+                _google_api_key = 'AIzaSyBK9-ftya0s9CH1f9hzHZcw4QTThUcZRQQ';
+                _google_client_id = '774247004952-e9enabia9n1d5m3o6hc8qp84v2ocjav1.apps.googleusercontent.com';
+                _google_scope = 'profile email';
+                _facebook_app_id = '192161334139408';
+                _facebook_scope = 'email,user_about_me';
+
+			var global_debug_queue = [];
+			var global_debug_call = function() {};
+
+        </script>
+
+        
+
+    
+
+     
+        
+            <script type="text/javascript" src="//d1ekrxlws13em5.cloudfront.net/media/cached/js/611774d3ac99.js" ></script>
+
+        
+
+        
+        
+
+        <link rel="preload" as="font" href="/media/new/components/flow-player/7.2.6/skin/icons/magisto_player.ttf?ns2aoq" crossorigin="anonymous"/>
+    
+
+    
+	
+
+	
+		<script>
+			var globals = globals || {};
+			
+			globals.feed_type = 'single';
+			globals.single_item_hash = 'fyF9TwdYQUIwIisGDmEwCXh4';
+			globals.video_title = 'Untitled';
+			globals.video_thumb = 'https://result4.cdn.magisto.com/3/d/PFlBJAAUQjk5AQRpYw_/extralarge.jpg';
+			globals.vdu = 'https://result2.cdn.magisto.com/3/d/PFlBJAAUQjk5AQRpYw';
+			globals.is_creator = false;
+			globals.creator_name = 'Lasse Ratinasta';
+			globals.is_draft_creator = false;
+			globals.ga_cat = 'NEW MOVIE PAGE';
+			globals.user_name = '';
+			globals.user_thumb = '';
+			globals.user_hash = '';
+			globals.edited = false;
+			globals.portrait = false;
+			globals.narrow_portrait  = false;
+			globals.plan_for_save = false;
+			globals.square = false;
+			
+
+			
+
+			
+
+			globals.videoControlsOverride = {
+				styling: {
+				},
+				playerControls: {
+				},
+				video:{
+					
+					sources: [
+					
+							
+							{type: 'video/mp4', src: 'https://result.cdn.magisto.com/3/d/PFlBJAAUQjk5AQRpYw', quality: '360p'},
+							
+					
+					]
+				}
+
+			};
+			globals.view_session = 'b64123e3-e643-4460-8809-5949e37eaa84' || null;
+			globals.hash = 'fyF9TwdYQUIwIisGDmEwCXh4' || null;
+
+		</script>
+	
+
+
+    
+    
+        
+    
+
+    
+    </head>
+
+    
+    
+        
+        
+
+        
+        
+
+        
+    
+
+    
+
+    
+
+    <body ng-cloak class="magisto_app    
+                
+                no_footer " ng-app="magisto">
+        <a id="page_top" name="page_top" href="javascript:void(0)"></a>
+
+        <div id="fb-root"></div> 
+        
+
+        
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        
+
+        
+
+        
+	
+		
+			
+			   
+<header id="main_nav" class="mgsto_n_ws  ">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="mobile_overflow" onclick="hideHamburgerMenu()"></div>
+    <div class="top_nav_placeholder "></div>
+	<nav class="topnav original animate">
+
+
+        <div class="all_wrap ">
+            
+            <div class="hamburger_wrap">
+                
+                    <a id="hamburger_icon" onclick="toggleHamburgerMenu()" class="icon animate" href="javascript:void(0);" ><span></span><span></span><span></span><span></span></a>
+                
+            </div>
+            <div class="magisto_logo ">
+                
+                    <a href="/" class="animate" onclick="track_tableau_event('press','header','logo','magisto');">
+                    
+                            <img src="/media/new/img/logo_magisto.png" srcset="/media/new/img/logo_magisto_d@2x.png 2x, /media/new/img/logo_magisto.png 1x"/>
+                            <img class="vimeo_magisto_logo hidden_logo" src="https://d1ekrxlws13em5.cloudfront.net/media/new/img/logo_magisto_by_vimeo.png" srcset="https://d1ekrxlws13em5.cloudfront.net/media/new/img/logo_magisto_by_vimeo@2x.png 2x, https://d1ekrxlws13em5.cloudfront.net/media/new/img/logo_magisto_by_vimeo.png 1x"/>
+                    
+                    </a>
+                
+            </div>
+            
+            
+
+            <ul class="top_menu animatedhidden_top_menu">
+                
+                    <li class="first_line only_mobile">
+
+    
+    
+        <a href="/connect?business&signup&next=%2Fbusiness%2Fpurchase%3Fvia%3Dget_started_main_cta%26prev_path%3D%2Falbum%2Fvideo%2FfyF9TwdYQUIwIisGDmEwCXh4&via=get_started_main_cta&prev_path=/album/video/fyF9TwdYQUIwIisGDmEwCXh4" onclick="track_tableau_event('press','header','open create flow','get started'); button_link_track(event,'get_started_main_cta','/album/video/fyF9TwdYQUIwIisGDmEwCXh4', '/connect')"><button id="create_btn" class="btn turq btn_create_movie small">Get started</button></a>
+    
+
+
+
+</li>
+                
+                
+                    
+                        
+                            
+
+<li class="nav_features  ">
+    <a href="/templates?prev_path=/album/video/fyF9TwdYQUIwIisGDmEwCXh4&via=top_menu"  onclick="track_tableau_event('press','header','templates','templates'); track_event('Website Header','Templates','');">
+        Templates</a></li>
+<li class="nav_business dropdown_container  "  onmouseleave="hideDropdownMenu();">
+    <a id="business_navitem" href="/business-video?prev_path=/album/video/fyF9TwdYQUIwIisGDmEwCXh4&via=top_menu" onclick="track_tableau_event('press','header','business','business'); track_event('Website Header','Business','');" onmouseenter="showDropdownMenu(this);">
+        What you can do
+        <span class="nav_dropdown_icon" onclick="showHideDropdownMenuMobileMenu(this);"></span>
+    </a>
+    <div class="dropdown_box dropdown_box_scroll">
+        <ul>
+            <li><a href="/video-maker?prev_path=/album/video/fyF9TwdYQUIwIisGDmEwCXh4&via=top_menu" onclick="track_tableau_event('press','header','consumer','personal'); track_event('Website Header','Personal','');"><div>Personal</div></a></li>
+            <li><a href="/real-estate-videos?via=business_top_menu&prev_path=/album/video/fyF9TwdYQUIwIisGDmEwCXh4" onclick="track_event('User Menu','Real Estate','');"><div>Real Estate</div></a></li>
+            <li><a href="/fitness-video?via=business_top_menu&prev_path=/album/video/fyF9TwdYQUIwIisGDmEwCXh4" onclick="track_event('User Menu','Fitness','');"><div>Fitness</div></a></li>
+            <li><a href="/photography?via=business_top_menu&prev_path=/album/video/fyF9TwdYQUIwIisGDmEwCXh4" onclick="track_event('User Menu','Photographers','');"><div>Photographers</div></a></li>
+            <li><a href="/marketing/youtube-video-maker?via=business_top_menu&prev_path=/album/video/fyF9TwdYQUIwIisGDmEwCXh4" onclick="track_event('User Menu','youtube video maker','');"><div>YouTube Ads</div></a></li>
+            <li><a href="/marketing/video-ads-maker?via=business_top_menu&prev_path=/album/video/fyF9TwdYQUIwIisGDmEwCXh4" onclick="track_event('User Menu','video ads','');"><div>Video Ads</div></a></li>
+            <li><a href="/marketing/promo-video-maker?via=business_top_menu&prev_path=/album/video/fyF9TwdYQUIwIisGDmEwCXh4" onclick="track_event('User Menu','promo video maker','');"><div>Promo</div></a></li>
+            <li><a href="/marketing/facebook-video-ads-maker?via=business_top_menu&prev_path=/album/video/fyF9TwdYQUIwIisGDmEwCXh4" onclick="track_event('User Menu','facebook video ads maker','');"><div>Facebook Ads</div></a></li>
+            <li><a href="/marketing/instagram-video-maker?via=business_top_menu&prev_path=/album/video/fyF9TwdYQUIwIisGDmEwCXh4" onclick="track_event('User Menu','Instagram video maker','');"><div>Instagram</div></a></li>
+            <li><a href="/marketing/marketing-video-maker?via=business_top_menu&prev_path=/album/video/fyF9TwdYQUIwIisGDmEwCXh4" onclick="track_event('User Menu','marketing video maker','');"><div>Marketing</div></a></li>
+            <li><a href="/marketing/social-media-video-maker?via=business_top_menu&prev_path=/album/video/fyF9TwdYQUIwIisGDmEwCXh4" onclick="track_event('User Menu','social media video maker','');"><div>Social Media</div></a></li>
+            <li><a href="/marketing/video-slideshow-maker?via=business_top_menu&prev_path=/album/video/fyF9TwdYQUIwIisGDmEwCXh4" onclick="track_event('User Menu','video slideshow maker','');"><div>Video Slideshow</div></a></li>
+            <li><a href="/marketing/wedding-video-maker?via=business_top_menu&prev_path=/album/video/fyF9TwdYQUIwIisGDmEwCXh4" onclick="track_event('User Menu','wedding video maker','');"><div>Wedding</div></a></li>
+            <li><a href="/marketing/birthday-video-maker?via=business_top_menu&prev_path=/album/video/fyF9TwdYQUIwIisGDmEwCXh4" onclick="track_event('User Menu','birthday video maker','');"><div>Birthday</div></a></li>
+        </ul>
+    </div>
+
+</li>
+
+<li>
+    <a href="//www.magisto.com/blog/?prev_path=/album/video/fyF9TwdYQUIwIisGDmEwCXh4&via=header" target="_blank" onclick="track_tableau_event('press','header','consumer','blog');">
+        Blog</a></li>
+<!--li class="">
+    <a href="/features?prev_path=/album/video/fyF9TwdYQUIwIisGDmEwCXh4" onclick="track_event('Website Header','Industries','');">
+        Industries</a></li-->
+<li class="nav_solutions  ">
+    <a href="/promotional-video?prev_path=/album/video/fyF9TwdYQUIwIisGDmEwCXh4&via=top_menu" onclick="track_tableau_event('press','header','solutions','solutions'); track_event('Website Header','Solutions','');">
+        Solutions</a></li>
+<li class="nav_explore  ">
+    <a href="/explore?prev_path=/album/video/fyF9TwdYQUIwIisGDmEwCXh4&via=top_menu" onclick="track_tableau_event('press','header','inspiration','explore'); track_event('Website Header','Explore','');">
+        Explore</a></li>
+<li class="nav_pricing  ">
+    <a href="/pricing?prev_path=/album/video/fyF9TwdYQUIwIisGDmEwCXh4&via=top_menu" onclick="track_tableau_event('press','header','pricing','pricing'); track_event('Website Header','Upgrade','');">
+        Pricing</a></li>
+
+                        
+                    
+                
+
+                
+                    <li class="only_mobile">
+                        
+                            
+                                
+                                    <a
+                                        href="/connect?login&next=/album/video/fyF9TwdYQUIwIisGDmEwCXh4&via=mobile_tm_login&prev_path=/album/video/fyF9TwdYQUIwIisGDmEwCXh4"
+                                        onclick="button_track(event, {evnt: 'press_button', type: 'mobile_tm_login' , destination_path: '/connect'});hideHamburgerMenu();" >
+                                        Login
+                                    </a>
+                                
+                            
+                        
+                    </li>
+                
+
+
+                <div class="clear"></div>
+            </ul>
+            
+                <div class="user_box">
+                        
+                        <div class="side_wrap login only_big">
+                            <a href="/connect?login&next=/&via=tm_login&prev_path=/album/video/fyF9TwdYQUIwIisGDmEwCXh4" onclick="track_tableau_event('press','header','open sign in popup','sign in'); ">
+                                <button class="btn trans dark">Sign In</button>
+                            </a>
+                        </div>
+                        
+                        
+                        <div class="side_wrap create">
+                            
+
+    
+    
+        <a href="/connect?business&signup&next=%2Fbusiness%2Fpurchase%3Fvia%3Dget_started_main_cta%26prev_path%3D%2Falbum%2Fvideo%2FfyF9TwdYQUIwIisGDmEwCXh4&via=get_started_main_cta&prev_path=/album/video/fyF9TwdYQUIwIisGDmEwCXh4" onclick="track_tableau_event('press','header','open create flow','get started'); button_link_track(event,'get_started_main_cta','/album/video/fyF9TwdYQUIwIisGDmEwCXh4', '/connect')"><button id="create_btn" class="btn turq btn_create_movie ">Get started</button></a>
+    
+
+
+
+
+                        </div>
+                        
+                    
+                    
+                    
+                </div>
+            
+            
+        </div>
+	</nav>
+
+</header>
+
+			
+		
+	
+	
+		
+			
+            
+        
+		
+	
+
+        
+            
+                
+            
+        
+
+        
+            
+                <script>$("body").addClass('has-cookies-consent-bar')</script>
+                <div class="notification_bar mgsto_n_ws cookies_consent">
+    <script>
+
+        var addCookiesConsent = function(){
+            if(!!globals.got_cookies_consent) return;
+            var cookie_name = 'cookies_consent';
+            
+            var next = window.location.href;
+            var now = new Date(); var time = now.getTime(); time += 3600 * 1000 * 24 * 365 * 3; now.setTime(time);
+            set_cookie(cookie_name,1, now.toUTCString() );
+            globals.got_cookies_consent = true;
+            cookies_bar_close();
+            try {
+                flush_page_events();
+            } catch(err){}
+
+        }
+
+        var cookies_bar_close = function() {
+    		//$('.notification_bar').slideUp();
+            $('.notification_bar.cookies_consent').removeClass('open');
+            $('.notification_bar.cookies_consent').hide();
+            $('body').removeClass('has-cookies-consent-bar')
+    	};
+    </script>
+    <div class="section_content notification_content pt-xxs pb-xxs">
+        <div class="relative">
+            <div class="cookies_consent_action text-center dark_text" onclick="$('.cookies_consent_section').addClass('open'); $(this).hide();$('body').removeClass('has-cookies-consent-bar')">
+                This site uses cookies
+                <a href="javascript.void(0);" onclick="event.preventDefault();$('.cookies_consent_section').addClass('open'); $(this).hide();$('body').removeClass('has-cookies-consent-bar')">Learn more</a>
+            </div>
+            <div class="cookies_consent_section">
+                <div class=" text-left no-m dark_text smaller_text ">
+                    We use cookies on this website. To find out more about cookies used on this website and your choices <a href="/cookies" target="_blank">Go here</a>.
+                    <span class="inline-block mr-sm"></span>
+
+                </div>
+                <a class="cookies_accept only_big " href="javascript:void(0)" onclick="addCookiesConsent()">
+                    <button class="btn trans light pl-xxxs pr-xxxs medium">Accept</button>
+                </a>
+                <div class="only_mobile text-right mt-xxxs">
+                    <a class="cookies_accept text-right" href="javascript:void(0)" onclick="addCookiesConsent()">
+                        <button class="btn trans light pl-xxxs pr-xxxs medium">Accept</button>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+            
+        
+
+        
+
+        
+        
+			
+            
+        
+		
+        
+
+        
+        <div class="main_content_wrap_box " >
+            <div id="magisto_body" class="">
+                
+                
+<div id="video_page">
+	<div class="mainwidth">
+		
+			
+
+<div id="magisto_video_feed_cont" class="magisto_video_feed_cont" ng-class="{videofy_welcome: is_ecommerce_movie && (items.length == 0)}" ng-controller="MagistoFeedController" scroll >
+  <div class="video-feed-title" ng-cloak ng-if="is_ecommerce_movie && !playing && items.length > 0">
+    <p>My videos</p>
+  </div>
+
+  
+
+  <div class="magisto_video_feed" ng-cloak>
+
+    
+
+		<script>
+			var globals = globals || {};
+			globals.can_download_public = false;
+			globals.is_authenticated = false;
+			globals.is_shopify_movie = false;
+			globals.is_ecommerce_movie = false;
+			globals.has_insights = false;
+			globals.is_business = false;
+			globals.use_storyboard_editor = false;
+
+			// handle browser back/forward
+			//  the load event -> timeout -> popstate event method is a hack because older chromes / safari (webkit) fires popstate on document load
+			window.addEventListener('load', function() {
+				setTimeout(function() {
+					window.addEventListener('popstate', function() {
+						var scope = angular.element($("#magisto_video_feed_cont")).scope();
+						scope.$apply(function(){
+							scope.on_popstate();
+						});
+					});
+				}, 0);
+			});
+
+			// show vimeo claim popup - with param in url vimeo_connect=1
+            if(common.get_url_param('vimeo_connect')==1){
+              if(!globals.connected_to_vimeo && (globals.vimeo_account_eligibility=='business' || globals.vimeo_account_eligibility=='pro')){
+                setTimeout(function(){
+                  common.deferred_popup('vimeo-claim-popup', 'vimeo_claim_popup',{});
+                }, 1000);
+              }
+            }
+    </script>
+
+    <div class="video_items_container featured_items">
+      <div magisto-feed-item video-url="[[item.video_direct_url]]" class="item featured_item" ng-repeat="item in featured_items" ng-class="{prcs: item.is_prcs || item.is_edt || item.in_creation}" data-hash="[[item.hash]]">
+        <div class="inner_cont" ng-hide="item.is_prcs" ng-click="play(item)">
+          <div class="bg-col" back-color="[[item.color]]"></div>
+          <div class="bg-img" back-img="[[item.chosen_thumb]]"></div>
+          <div class="preview_cont" ng-class="{portrait: item.portrait, square:item.square, narrow_portrait:item.narrow_portrait}"></div>
+          <div class="bottom_ov">
+            <a href="[[item.address_url]]" onclick=" return false">
+              <div class="title">[[item.title | limitTo: 50]][[item.title.length > 50 ? '...' : '']]</div>
+            </a>
+          </div>
+          <div class="draft" ng-if="item.is_draft">Draft</div>
+          <div class="featured_label">Featured <span>☆</span></div>
+          
+        </div>
+
+        <div class="ftr">
+          <div class="creator antial item_creator" ng-show="item.creator"> <a href="/timeline/[[item.uhash]]" target="_blank">[[item.creator]]</a></div>
+          <div class="views"><ng-pluralize count="item.views" when="{'0': 'No views', 'one': 'One view', 'other': '[[item.views|thousandSuffix]] views'}"></ng-pluralize></div>
+        </div>
+
+        <div ng-if="is_channel_admin" class="admin_ftr">
+          <div ng-if="is_channel_admin" class="vsid">[[item.vsid]]</div>
+        </div>
+
+        <a href="[[item.address_url]]"></a>
+      </div>
+    </div>
+
+    <div class="video_items_container normal_items">
+      <div magisto-feed-item video-url="[[item.video_direct_url]]" class="item" ng-repeat="item in items track by $index" ng-class="{prcs: item.is_prcs || item.is_edt || item.is_err || item.in_creation, ecommerce: is_ecommerce_movie}" data-hash="[[item.hash]]">
+        <div class="inner_cont" ng-hide="item.is_prcs || item.is_edt || item.in_creation || item.is_err" ng-click="click_item(item)">
+          <div class="bg-col" back-color="[[item.color]]"></div>
+          <div class="bg-img" back-img="[[item.chosen_thumb]]"></div>
+          <div class="preview_cont" ng-class="{portrait: item.portrait, square:item.square, narrow_portrait:item.narrow_portrait}"></div>
+          <div class="bottom_ov" ng-class="{ecommerce: is_ecommerce_movie}">
+            <a href="[[item.address_url]]" onclick=" return false">
+            
+            <div class="title">[[item.title | limitTo: 50]][[item.title.length > 50 ? '...' : '']]</div>
+            
+            </a>
+          </div>
+          <div class="draft" ng-class="{ecommerce: is_ecommerce_movie}" ng-if="item.is_draft">Draft</div>
+          
+          
+
+          
+        </div>
+
+        
+        <div class="inner_cont prcs_cont" ng-if="item.is_prcs">
+          
+          <div class="prcs_txt">
+            <div class="prcs_title">[[item.title | limitTo: 25]][[item.title.length > 25 ? '...' : '']]</div>
+            <div class="antial prcs_msg">
+              
+              We're making your video! It may take a few minutes....
+              </div>
+            </div>
+            <img src="https://d1ekrxlws13em5.cloudfront.net/media/images/video/prcs_progress.gif">
+          </div>
+
+          
+          <div class="inner_cont prcs_cont" ng-if="item.in_creation && !item.is_err" ng-class="{in_creation: item.in_creation}">
+            <div class="draft">Draft</div>
+            <div class="bottom_ov"><div class="title" ng-class="{ecommerce: is_ecommerce_movie}">[[ item.title == 'Untitled' ? 'Untitled video' : item.title | limitTo: 50]][[item.title.length > 50 ? '...' : '']]</div></div>
+            <div class="ov_hover" ng-click="$event.stopPropagation();resume_create([[item.vsid]])">
+              <div class="draft">Draft</div>
+              <div class="inner_center">
+                <div class="icon_container">
+                  <div class="cancel_session" ng-click="$event.stopPropagation();cancel_create(item, $index)"></div>
+                </div>
+                <div class="continue_crt">Continue creating</div>
+              </div>
+            </div>
+          </div>
+
+          
+          <div class="inner_cont prcs_cont" ng-if="item.is_edt&&!item.is_err">
+            <div class="prcs_txt">
+              <div class="prcs_title">[[item.title | limitTo: 25]][[item.title.length > 25 ? '...' : '']]</div>
+              <div class="antial prcs_msg">
+                We're uploading your photos and videos...
+              </div>
+              <a class="restore_edt" ng-click="restore_draft([[item.vsid]])">Cancel upload</a>
+            </div>
+            <img src="https://d1ekrxlws13em5.cloudfront.net/media/images/video/prcs_progress.gif">
+          </div>
+
+          
+          <div class="inner_cont prcs_cont prcs_err" ng-if="item.is_err">
+            <div class="prcs_txt">
+              <img src="https://d1ekrxlws13em5.cloudfront.net/media/images/video/prcs_error.png">
+              <div class="prcs_title">[[item.title | limitTo: 25]][[item.title.length > 25 ? '...' : '']]</div>
+              <div class="antial prcs_msg">
+                [[item.err_msg]]
+              </div>
+              <a class="restore_edt" ng-click="clear_error(item)">Dismiss</a>
+            </div>
+          </div>
+
+          <div class="ftr">
+
+            <div class="creator antial" ng-class="{ecommerce: is_ecommerce_movie}" ng-if="item.hasOwnProperty('draft_expires_in')">
+              <ng-pluralize count="item.draft_expires_in||0" when="{'0': 'Expires today', 'one': 'Expires in 1 day', 'other': 'Expires in [[item.draft_expires_in]] days'}"></ng-pluralize>
+            </div>
+
+            <div class="views" ng-class="{ecommerce: is_ecommerce_movie}" ng-if="!item.hasOwnProperty('draft_expires_in')">
+              <ng-pluralize count="item.views||0" when="{'0': 'No views', 'one': 'One view', 'other': '[[item.views|thousandSuffix]] views'}"></ng-pluralize>
+            </div>
+            
+            <div class="creator item_creator antial" ng-show="item.creator"> <a href="/timeline/[[item.uhash]]" target="_blank">[[item.creator]]</a></div>
+            
+          </div>
+
+          
+
+        </div>
+      </div>
+
+      <div class="new_loader list_loader normal pos clearboth" ng-show="loading"></div>
+
+      <div class="magisto_video_overlay" ng-cloak ng-show="playing" ng-click="close_overlay()" ng-class="{portrait: video.portrait,square: video.square, narrow_portrait: video.narrow_portrait, liked: video.is_like}">
+        
+        <div class="arr r" ng-show="items.length>1" ng-click="$event.stopPropagation();click_next_arr();"><div class="arr_in"></div></div>
+        <div class="arr l" ng-show="items.length>1" ng-click="$event.stopPropagation();click_prev_arr();"><div class="arr_in"></div></div>
+
+        <div class="panel" ng-click="close_overlay()" ng-style="{visibility: set_ui_done ? 'visible' : 'hidden'}">
+          <div class="left" ng-click="$event.stopPropagation()">
+            <div class="left_inner">
+              
+              <div class="video_bg"></div>
+              <div class="player_cont ng-cloak">
+                <div class="optin_notification_line" remove-watermark-line>
+                  <div ng-if="video.is_creator && video.has_watermark" ng-class="{removing_watermark:video.removing_watermark}">
+                    <div ng-click="open_optin_popup()" class="link" ng-if="!!is_optin">
+                      <span>Upgrade</span> to remove trial watermark ›
+                    </div>
+                    <div ng-click="remove_watermark()" class="link" ng-if="!is_optin && (!!can_remove_watermark || !!v6_support)">
+                      <span ng-if="!video.removing_watermark">Click to remove watermark ›</span>
+                      <span ng-if="video.removing_watermark">Removing watermark...</span>
+                    </div>
+                  </div>
+                </div>
+
+                
+                <div overlay-player video="video"></div>
+                
+
+                <div class="after_play" ng-show="video.finished_playing">
+                  <div class="inner">
+
+                    <div class="autoplay_next" ng-show="video.autoplay_next && !video.autoplay_cancelled && !video.show_rate_box">
+
+                      <div class="thumb_bg" nice-bg nice-src="[[next_video.chosen_thumb]]"></div>
+                      <div class="color_bg"></div>
+                      <div class="up_next">
+                        <div class="h">Up next:</div>
+                        <div class="ttl antial nowrap">[[next_video.title]]</div>
+                        <div class="by" ng-show="next_video.creator">by <span>[[next_video.creator]]</span></div>
+                        <div class="round_play" ng-click="play_next()"></div>
+                        <button class="btn btn_more" ng-click="cancel_autoplay()">More options</button>
+                      </div>
+                      <div class="replay" ng-click="replay()">
+                        <div class="replay_arr"></div>
+                        <span>Replay</span>
+                      </div>
+                    </div>
+
+                    <div class="autoplay_cancelled" ng-show="video.autoplay_next && video.autoplay_cancelled && !video.show_rate_box">
+                      <div class="watch_more">
+                        <div class="opts">
+                          <div class="h">Watch more movies:</div>
+                          <div class="opt" ng-repeat="v in next_videos track by $index" ng-click="choose_next_movie(v)">
+                            <div class="thumb" nice-bg nice-src="[[v.chosen_thumb]]">
+                              <div class="inner_ov">
+                                <div class="t">
+                                  [[v.title]]
+                                  <div class="by" ng-show="v.creator">by <span>[[v.creator]]</span></div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="rate_cont" ng-show="video.show_rate_box">
+                      <div class="rate_box">
+                        <div class="hdr antial">How do you like your video?</div>
+                        <div class="rate_icons">
+                          <div class="rate one" ng-click="rate_movie(video, 1)"></div>
+                          <div class="rate two" ng-click="rate_movie(video, 2)"></div>
+                          <div class="rate three" ng-click="rate_movie(video, 3)"></div>
+                          <div class="rate four" ng-click="rate_movie(video, 4)"></div>
+                          <div class="rate five" ng-click="rate_movie(video, 5)"></div>
+                        </div>
+                      </div>
+                      <div class="close_rate" ng-click="on_video_ended(true)"></div>
+                      <div class="replay"><div class="replay_arr" ng-click="replay()"></div></div>
+                    </div>
+                    
+                          <div class="afterplay_banner unlogged premium" ng-show="video.afterplay_banner">
+                            <div class="replay" ng-click="replay()">
+                              <div class="replay_arr"></div>
+                              <span>Replay</span>
+                            </div>
+                            
+                            <div class="afterplay_banner_cont">
+                              <p>Magisto for business means quality movies</p>
+                              <ul>
+                                <li>Simple and fast</li>
+                                <li>Automatic movie creation</li>
+                                <li>Professional-level movies</li>
+                              </ul>
+                              <div class="get-btns">
+                                <button class="btn turq" ng-click="press_upgrade('/pricing?utm_medium=internal&utm_source=magisto&utm_campaign=player_postroll',false)">Try free for 7 days</button>
+                              </div>
+                            </div>
+                            
+                            <div class="vertical-helper" style=""></div>
+                          </div>
+                          
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+				<div class="right" ng-click="$event.stopPropagation();" ng-class="{creator:video.is_creator}">
+                  <div class="right_inner">
+                    
+                    <div class="creator">
+                      <div class="pad">
+                        <div class="creator_thumb" nice-bg nice-src="[[video.creator_thumb || '/media/images/new_def_user_thumb.jpg']]"></div>
+                        <div class="creator_name" ng-class="{wide:video.is_creator&&!video.is_draft}">
+                          <div class="name nowrap"><a href="/timeline/[[video.uhash]]" target="_blank">[[video.creator || 'Someone']]</a></div>
+                          <div class="info nowrap">
+                            [[video.time_ago]] ago,
+                            <span ng-if="!(video.is_creator && (has_insights || video.can_insights) && !video.is_draft)"><ng-pluralize count="video.views" when="{'0': 'No views', 'one': 'One view', 'other': '[[video.views|thousandSuffix]] views'}"></ng-pluralize></span>
+                            <a ng-if="video.is_creator && (has_insights || video.can_insights) && !video.is_draft" ng-click="insight_pressed();" style="cursor:pointer; color:#3ddfa6;"><ng-pluralize count="video.views" when="{'0': 'no views', 'one': 'one view', 'other': '[[video.views|thousandSuffix]] views'}"></ng-pluralize></a>
+                          </span>
+                        </div>
+                      </div>
+                      <button class="btn turq follow_btn to_follow" ng-show="!video.following  && !video.is_creator" ng-click="follow(video)" ng-class={loading:video.follow_loading}>Follow</button>
+                      <button class="btn trans gray follow_btn to_unfollow" ng-show="video.following && !video.is_creator" ng-click="unfollow(video)" ng-class={loading:video.follow_loading}>Following</button>
+                      <div class="draft" ng-show="video.is_draft">Draft</div>
+                    </div>
+                  </div>
+                  
+                  <div class="movie_title" ng-class="{ecommerce: is_ecommerce_movie}" dir="auto">
+                    <div class="pad">
+                      
+
+                      <h1 class="title">[[video.title | limitTo: 30]][[video.title.length > 30 ? '...' : '']]
+                        <span dir="auto" ng-show="video.can_edit_thumb" ng-click="edit_thumb(video,true)"></span>
+                      </h1>
+
+                    </div>
+                  </div>
+
+						<div class="pad actions" ng-show="video.is_creator && !video.is_draft && !is_ecommerce_movie">
+                          
+							<span class="icon-container" ng-show="video.is_creator" ng-click="open_sharing(video)" ng-if="!force_fb_ads"><svg class="share-icon" xmlns="http://www.w3.org/2000/svg" width="48.121" height="48.121" viewBox="0 0 48.121 48.121">
+    <defs>
+        <style>
+            .share-icon .cls-1{fill:#fff;stroke:#0a0a3c;opacity:.2} .share-icon .cls-2{fill:#0a0a3c} .share-icon .cls-3{stroke:none} .share-icon .cls-4{fill:none}
+        </style>
+    </defs>
+    <g id="Group_6083" data-name="Group 6083" transform="translate(-953 -345.879)">
+        <g id="Ellipse_1799" class="cls-1 icon-bg" data-name="Ellipse 1799" transform="translate(953 345.879)">
+            <ellipse cx="24.06" cy="24.06" class="cls-3" rx="24.06" ry="24.06"/>
+            <ellipse cx="24.06" cy="24.06" class="cls-4" rx="23.56" ry="23.56"/>
+        </g>
+        <g id="Group_6062" data-name="Group 6062" transform="translate(967 361)">
+            <path id="Path_6424" d="M20.71 6.2L14.726.215a.735.735 0 0 0-1.039 0 .717.717 0 0 0-.215.52v2.991h-2.633q-8.331 0-10.212 4.712A10.642 10.642 0 0 0 0 12.326a14.134 14.134 0 0 0 1.487 5.267c.018.054.072.143.125.287.054.125.107.251.161.358a.865.865 0 0 0 .161.251.4.4 0 0 0 .322.2.283.283 0 0 0 .269-.125.407.407 0 0 0 .107-.287 2.675 2.675 0 0 0-.036-.3c-.018-.143-.036-.233-.036-.269-.036-.537-.054-1-.054-1.433a10.742 10.742 0 0 1 .2-2.114 6.062 6.062 0 0 1 .573-1.612 4.251 4.251 0 0 1 .932-1.182 5.062 5.062 0 0 1 1.236-.806A6.639 6.639 0 0 1 7 10.05a15.383 15.383 0 0 1 1.8-.25c.609-.054 1.29-.072 2.042-.072h2.616v2.992a.735.735 0 0 0 1.254.52l5.984-5.984a.717.717 0 0 0 .215-.52.653.653 0 0 0-.2-.537zm0 0" class="cls-2 icon-fill" data-name="Path 6424"/>
+        </g>
+    </g>
+</svg>
+Share</span>
+							<span class="icon-container" ng-show="video.is_creator" ng-click="share_to_fb_ads(video)" ng-if="!!force_fb_ads"><svg class="share-icon" xmlns="http://www.w3.org/2000/svg" width="48.121" height="48.121" viewBox="0 0 48.121 48.121">
+    <defs>
+        <style>
+            .share-icon .cls-1{fill:#fff;stroke:#0a0a3c;opacity:.2} .share-icon .cls-2{fill:#0a0a3c} .share-icon .cls-3{stroke:none} .share-icon .cls-4{fill:none}
+        </style>
+    </defs>
+    <g id="Group_6083" data-name="Group 6083" transform="translate(-953 -345.879)">
+        <g id="Ellipse_1799" class="cls-1 icon-bg" data-name="Ellipse 1799" transform="translate(953 345.879)">
+            <ellipse cx="24.06" cy="24.06" class="cls-3" rx="24.06" ry="24.06"/>
+            <ellipse cx="24.06" cy="24.06" class="cls-4" rx="23.56" ry="23.56"/>
+        </g>
+        <g id="Group_6062" data-name="Group 6062" transform="translate(967 361)">
+            <path id="Path_6424" d="M20.71 6.2L14.726.215a.735.735 0 0 0-1.039 0 .717.717 0 0 0-.215.52v2.991h-2.633q-8.331 0-10.212 4.712A10.642 10.642 0 0 0 0 12.326a14.134 14.134 0 0 0 1.487 5.267c.018.054.072.143.125.287.054.125.107.251.161.358a.865.865 0 0 0 .161.251.4.4 0 0 0 .322.2.283.283 0 0 0 .269-.125.407.407 0 0 0 .107-.287 2.675 2.675 0 0 0-.036-.3c-.018-.143-.036-.233-.036-.269-.036-.537-.054-1-.054-1.433a10.742 10.742 0 0 1 .2-2.114 6.062 6.062 0 0 1 .573-1.612 4.251 4.251 0 0 1 .932-1.182 5.062 5.062 0 0 1 1.236-.806A6.639 6.639 0 0 1 7 10.05a15.383 15.383 0 0 1 1.8-.25c.609-.054 1.29-.072 2.042-.072h2.616v2.992a.735.735 0 0 0 1.254.52l5.984-5.984a.717.717 0 0 0 .215-.52.653.653 0 0 0-.2-.537zm0 0" class="cls-2 icon-fill" data-name="Path 6424"/>
+        </g>
+    </g>
+</svg>
+Send to FB</span>
+							<span class="icon-container download" ng-click="download_video(video)" ng-show="video.is_creator || (can_download_public && video.is_public)"><svg class="download-icon" xmlns="http://www.w3.org/2000/svg" width="48.121" height="48.121" viewBox="0 0 48.121 48.121">
+    <defs>
+        <style>
+            .download-icon .cls-1{fill:#fff;stroke:#0a0a3c;opacity:.2}.download-icon .cls-2{fill:#0a0a3c}.download-icon .cls-3{stroke:none}.download-icon .cls-4{fill:none}
+        </style>
+    </defs>
+    <g id="Group_6067" data-name="Group 6067">
+        <g id="Ellipse_1800" class="cls-1 icon-bg" data-name="Ellipse 1800">
+            <ellipse cx="24.06" cy="24.06" class="cls-3" rx="24.06" ry="24.06"/>
+            <ellipse cx="24.06" cy="24.06" class="cls-4" rx="23.56" ry="23.56"/>
+        </g>
+        <g id="Group_6063" data-name="Group 6063" transform="translate(13.367 12.476)">
+            <path id="Path_6425" d="M117.109 17.084a.715.715 0 0 0 1.083 0l5.055-5.777a.725.725 0 0 0-.546-1.2h-2.889V.722a.724.724 0 0 0-.721-.722H116.2a.724.724 0 0 0-.722.722v9.388h-2.889a.725.725 0 0 0-.546 1.2z" class="cls-2 icon-fill" data-name="Path 6425" transform="translate(-106.818)"/>
+            <path id="Path_6426" d="M18.777 352v4.333H2.889V352H0v5.777a1.443 1.443 0 0 0 1.444 1.444h18.777a1.443 1.443 0 0 0 1.444-1.444V352z" class="cls-2 icon-fill" data-name="Path 6426" transform="translate(0 -336.112)"/>
+        </g>
+    </g>
+</svg>
+Download
+								<div class="message download-hd fade-in" ng-class="{'visible': show_download_hd_message}" ng-show="video.vs_stock_credit && !video.is_draft && video.is_creator && !has_stock"><div class="download-message-free">Free</div>Videos with iStock items are<br/>available for 1080p HD download.<span ng-click="$event.stopImmediatePropagation();show_download_hd_message=false;"><svg class="close-message-icon" xmlns="http://www.w3.org/2000/svg" id="Group_21_Copy_3" width="20" height="20" data-name="Group 21 Copy 3" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .close-message-icon .cls-1,.close-message-icon .cls-2,.close-message-icon .cls-3{fill:#7054ff}.close-message-icon .cls-1{opacity:.198}.close-message-icon .cls-2{opacity:0}
+        </style>
+    </defs>
+    <circle id="Oval_6" cx="10" cy="10" r="10" class="cls-1" data-name="Oval 6"/>
+    <g id="close_massages_copy_4" data-name="close_massages copy 4" transform="translate(1.334 1.334)">
+        <path id="Rectangle_Copy_3" d="M0 0h16.665v16.665H0z" class="cls-2" data-name="Rectangle Copy 3"/>
+        <path id="Combined_Shape" d="M6.532 7.2L3.669 4.336.806 7.2a.472.472 0 0 1-.668-.667L3 3.669.138.806A.472.472 0 0 1 .806.138L3.669 3 6.532.138A.472.472 0 1 1 7.2.806L4.336 3.669 7.2 6.532a.472.472 0 1 1-.667.667z" class="cls-3" data-name="Combined Shape" transform="translate(5.088 5.088)"/>
+    </g>
+</svg>
+</span></div>
+                            <span ng-show="!video.is_draft && video.is_creator && video.current_quality_for_save > 2" class="download-hd-icon"></span>
+                            </span>
+							<span class="icon-container more-icon" ng-click="more_clicked()"><svg class="more-icon" xmlns="http://www.w3.org/2000/svg" width="48.121" height="48.121" viewBox="0 0 48.121 48.121">
+    <defs>
+        <style>
+            .more-icon .cls-1{fill:#fff;stroke:#0a0a3c;opacity:.2}.more-icon .cls-2{fill:#0a0a3c}.more-icon .cls-3{stroke:none}.more-icon .cls-4{fill:none}
+        </style>
+    </defs>
+    <g id="Group_6084" data-name="Group 6084" transform="translate(-1141 -346)">
+        <g id="Ellipse_1800" class="cls-1 icon-bg" data-name="Ellipse 1800" transform="translate(1141 346)">
+            <ellipse cx="24.06" cy="24.06" class="cls-3" rx="24.06" ry="24.06"/>
+            <ellipse cx="24.06" cy="24.06" class="cls-4" rx="23.56" ry="23.56"/>
+        </g>
+        <g id="Group_6068" data-name="Group 6068" transform="translate(3 -1)">
+            <circle id="Ellipse_1801" cx="3.144" cy="3.144" r="3.144" class="cls-2 icon-fill" data-name="Ellipse 1801" transform="translate(1149 368)"/>
+            <circle id="Ellipse_1801-2" cx="3.144" cy="3.144" r="3.144" class="cls-2 icon-fill" data-name="Ellipse 1801" transform="translate(1158.431 368)"/>
+            <circle id="Ellipse_1801-3" cx="3.144" cy="3.144" r="3.144" class="cls-2 icon-fill" data-name="Ellipse 1801" transform="translate(1167.863 368)"/>
+        </g>
+    </g>
+</svg>
+More
+								<div class="more_menu" tabindex="0" onblur="$(this).scope().video.show_more = false;" ng-click="$event.stopPropagation();more_clicked()" ng-show="video.show_more">
+									<ul>
+										<li class="feature_item edit_thumb" ng-click="edit_thumb(video)" ng-show="video.can_edit_thumb">Change Thumbnail<div class="i"></div></li>
+										<li class="feature_item edit_title" ng-click="edit_thumb(video,true)" ng-show="video.can_edit_thumb">Rename video<div class="i"></div></li>
+										
+
+										<li class="add_to_album" ng-click="add_to_album(video)">Add to album<div class="i"></div></li>
+
+										<li class="enable_notif" ng-if="video.view_ntf===false" ng-click="toggle_notifications(true)">Enable notifications<div class="i"></div></li>
+										<li class="disable_notif" ng-if="video.view_ntf" ng-click="toggle_notifications(false)">Disable notifications<div class="i"></div></li>
+
+										<li class="delete" ng-click="delete_video(video)" ng-show="video.is_creator">Delete video<div class="i"></div></li>
+										<li class="info" ng-click="info(video)">Movie info<div class="i"></div></li>
+
+										
+
+									</ul>
+									<div class="top_arr"></div>
+								</div>
+							</span>
+							<!--<button class="btn turq dl_btn" ng-show="video.is_creator" ng-click="share_to_fb_ads(video)" ng-if="!!force_fb_ads">Send to FB</button>-->
+						</div>
+
+                        <div ng-show="!video.is_draft && video.is_creator && video.higher_quality_available_on_mobile && video.higher_quality_available_on_mobile > 0" class="download-hd-message">Download the video on your mobile device to get the highest quality!</div>
+
+                        <div class="main_icons" ng-hide="video.is_draft || is_ecommerce_movie">
+                          <div class="pad">
+                            <div class="left_icons">
+                              <div class="likes">
+                                <div ng-show="video.hasOwnProperty('is_like')" class="like-icon-container" ng-click="like(video)"><svg ng-if="!video.is_like" class="like-icon" xmlns="http://www.w3.org/2000/svg" width="23.453" height="20.653" viewBox="0 0 23.453 20.653">
+    <defs>
+        <style>
+            .like-icon .cls-1{fill:#7e7e95}.like-icon .cls-2{clip-path:url(#like-icon-clip-path)}
+        </style>
+        <clipPath id="like-icon-clip-path">
+            <path id="Rectangle_17682" d="M0 0h23.453v20.653H0z" class="cls-1" data-name="Rectangle 17682"/>
+        </clipPath>
+    </defs>
+    <g id="Group_5168" class="cls-2" data-name="Group 5168">
+        <path id="Path_6230" d="M21.522 2.071a6.483 6.483 0 0 0-9.168 0l-.64.64-.65-.65A6.477 6.477 0 0 0 1.9 2.056a6.477 6.477 0 0 0 .01 9.168l9.322 9.322a.665.665 0 0 0 .943 0l9.341-9.307a6.495 6.495 0 0 0 .01-9.173zm-.953 8.229L11.7 19.131l-8.85-8.85a5.138 5.138 0 1 1 7.267-7.267l1.122 1.122a.668.668 0 0 0 .948 0L13.3 3.024a5.142 5.142 0 0 1 7.269 7.276zm0 0" class="cls-1" data-name="Path 6230" transform="translate(0 -.15)"/>
+    </g>
+</svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg ng-if="video.is_like" class="liked-icon"
+     width="23.453" height="20.653"
+     version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24.4 21.6" style="enable-background:new 0 0 24.4 21.6;" xml:space="preserve">
+<style type="text/css">
+	.liked-icon .st0{fill:#F21055;}
+    .liked-icon {
+        opacity: 1;
+        animation: fade 1s linear;
+    }
+    @keyframes fade {
+      0% { opacity: 0 }
+      100% { opacity: 1 }
+    }
+</style>
+<path class="st0" d="M22.4,2.1c-1.3-1.3-3.1-2-4.9-2c0,0,0,0,0,0c-1.8,0-3.6,0.7-4.9,2l-0.3,0.3l-0.3-0.3C10.6,0.7,8.8,0,7,0
+	c0,0,0,0,0,0C5.1,0,3.3,0.7,2,2C0.7,3.3,0,5.1,0,7c0,1.8,0.7,3.6,2.1,4.9l9.3,9.3c0.2,0.2,0.5,0.3,0.8,0.3c0,0,0,0,0,0
+	c0.3,0,0.6-0.1,0.8-0.3l9.3-9.3c1.3-1.3,2.1-3.1,2-4.9C24.4,5.2,23.7,3.4,22.4,2.1z"/>
+</svg>
+</div>
+                                <div class="icon_txt" ng-show="video.likes >= 0">[[video.likes | commas]]</div>
+                              </div>
+                            </div>
+                            <div class="right_icons">
+                              <div class="icon rt insights" title="Insights" ng-click="insight_pressed();" ng-show="video.is_creator && (has_insights || video.can_insights)"></div>
+                              <div class="icon rt fb" title="Share to Facebook" ng-click="basic_fb_share_video()" ng-hide="video.is_creator" ></div>
+                              <div class="icon rt email" title="Send by Email" ng-click="email_video(video)" ng-hide="video.is_creator"></div>
+                              <div class="icon rt more" title="More options" ng-click="more_clicked()" ng-hide="video.is_creator && !video.is_draft && !is_ecommerce_movie" ng-hide="video.is_creator && !video.is_draft && !is_ecommerce_movie"></div>
+                            </div>
+                            <div class="clearboth"></div>
+                          </div>
+                        </div>
+						
+						<!--<div class="more_overlay" ng-show="video.show_more && !video.is_creator" ng-click="video.show_more=false">-->
+							<div class="more_menu not-creator" tabindex="0" onblur="$(this).scope().video.show_more = false;" ng-show="video.show_more && !video.is_creator" ng-click="$event.stopPropagation()">
+								<ul>
+									<li class="feature_item edit_thumb" ng-click="edit_thumb(video)" ng-show="video.can_edit_thumb">Change Thumbnail<div class="i"></div></li>
+									<li class="feature_item edit_title" ng-click="edit_thumb(video,true)" ng-show="video.can_edit_thumb">Rename video<div class="i"></div></li>
+									<li class="twitter" ng-click="basic_twitter_share_video()" ng-hide="video.is_creator" >Twitter<div class="i"></div></li>
+									<li class="fb" ng-click="basic_fb_share_video()" ng-hide="video.is_creator" >Facebook<div class="i"></div></li>
+									
+
+									<li class="add_to_album" ng-click="add_to_album(video)">Add to album<div class="i"></div></li>
+
+									<li class="enable_notif" ng-if="video.view_ntf===false" ng-click="toggle_notifications(true)">Enable notifications<div class="i"></div></li>
+									<li class="disable_notif" ng-if="video.view_ntf" ng-click="toggle_notifications(false)">Disable notifications<div class="i"></div></li>
+
+									<li class="delete" ng-click="delete_video(video)" ng-show="video.is_creator">Delete video<div class="i"></div></li>
+									<li class="info" ng-click="info(video)">Movie info<div class="i"></div></li>
+									<li class="flag" ng-hide="video.is_creator" ng-click="flag(video)">Report<div class="i"></div></li>
+
+									
+
+								</ul>
+								<div class="right_arr"></div>
+                            </div>
+
+                         <!--</div>-->
+                  <div class="comments" ng-hide="video.is_draft || is_ecommerce_movie">
+                    <div class="pad" ng-class="{'no-comments': video.comments_data!==undefined && !video.comments_data.length}">
+                      <div class="empty" ng-hide="video.comments_data==undefined||video.comments_data.length">No comments yet</div>
+                      <div class="empty" ng-if="video.comments_data==undefined">fetching comments...</div>
+                      <div class="comm_loader new_loader small pos" ng-show="video.loading_more_comments"></div>
+                      <div class="load_previous" ng-style="{visibility: video.has_more_comments && !video.loading_more_comments ? 'visible' : 'hidden'}" ng-click="load_previous_comments(video)">Show Previous Comments</div>
+                      <ul>
+                        <li ng-repeat="comm in video.comments_data | reverse">
+                          <div class="pp" nice-bg nice-src="[[comm.thumb || '/media/images/new_def_user_thumb.jpg']]"></div>
+                          <div class="text">
+											<a href="/timeline/[[comm.uhash]]" target="_blank">[[comm.name || 'Someone']]</a>
+											<span class="body" ng-bind="comm.comment"></span>
+                          </div>
+                          <div class="del" ng-show="comm.candelete && !comm.deleting" ng-click="delete_comment(video, comm)"></div>
+										<span class="comment-time">[[comm.time_ago]] ago</span>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+
+                  <div class="draft_panel" ng-show="video.is_draft && !is_ecommerce_movie">
+                    <div class="pad">
+								<div class="draft_inner actions">
+									
+										<span class="icon-container" ng-click="keep_draft(video)"><svg class="save-icon" xmlns="http://www.w3.org/2000/svg" width="48.121" height="48.121" viewBox="0 0 48.121 48.121">
+    <defs>
+        <style>
+            .save-icon .cls-1,.save-icon .cls-3{fill:#fff}.save-icon .cls-1{stroke:#0a0a3c;opacity:.2}.save-icon .cls-2{fill:#0a0a3c}.save-icon .cls-4{stroke:none}.save-icon .cls-5{fill:none}
+        </style>
+    </defs>
+    <g id="Group_6136" data-name="Group 6136" transform="translate(-1001 -345.879)">
+        <g id="Ellipse_1799" class="cls-1 icon-bg" data-name="Ellipse 1799" transform="translate(1001 345.879)">
+            <ellipse cx="24.06" cy="24.06" class="cls-4" rx="24.06" ry="24.06"/>
+            <ellipse cx="24.06" cy="24.06" class="cls-5" rx="23.56" ry="23.56"/>
+        </g>
+        <g id="Group_6075" data-name="Group 6075" transform="translate(3.079 2.63)">
+            <g id="Group_6072" data-name="Group 6072" transform="translate(1011.064 357.944)">
+                <path id="Rectangle_17776" d="M0 0h21.869v11.868a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V0z" class="cls-2 icon-fill" data-name="Rectangle 17776" transform="translate(0 4.659)"/>
+                <path id="Rectangle_17777" d="M0 0h19.869a2 2 0 0 1 2 2v.134H0V0z" class="cls-2 icon-fill" data-name="Rectangle 17777" transform="translate(0 1.459)"/>
+                <path id="Path_6428" d="M1.067 0h6.4l1.685 1.459H0v-.73C0 .327.478 0 1.067 0z" class="cls-2 icon-fill" data-name="Path 6428"/>
+            </g>
+            <g id="Group_6073" data-name="Group 6073" transform="translate(1017.696 364.357)">
+                <path id="Path_6422" d="M4990 1620.451h9.31l-4.743 5.228z" class="cls-3" data-name="Path 6422" transform="translate(-4990.195 -1616.692)"/>
+                <path id="Rectangle_17766" d="M0 0h2.969v6.532H0z" class="cls-3" data-name="Rectangle 17766" transform="translate(2.969)"/>
+            </g>
+        </g>
+    </g>
+</svg>
+Save</span>
+										<span class="icon-container" ng-click="open_tweak_upsell_popup()"><svg class="edit-icon" xmlns="http://www.w3.org/2000/svg" id="Group_6135" width="48.121" height="48.121" data-name="Group 6135" viewBox="0 0 48.121 48.121">
+    <defs>
+        <style>
+            .edit-icon .cls-1,.edit-icon .cls-4{fill:#090b42}.edit-icon .cls-2{fill:#fff;stroke:#0a0a3c;opacity:.2}.edit-icon .cls-3{clip-path:url(.edit-icon #clip-path-edit)}.edit-icon .cls-4{fill-rule:evenodd}.edit-icon .cls-5{stroke:none}.edit-icon .cls-6{fill:none}
+        </style>
+        <clipPath id="clip-path-edit">
+            <path id="Rectangle_17683" d="M0 0h20.08v20.082H0z" class="cls-1" data-name="Rectangle 17683"/>
+        </clipPath>
+    </defs>
+    <g id="Ellipse_1798" class="cls-2 icon-bg" data-name="Ellipse 1798">
+        <ellipse cx="24.06" cy="24.06" class="cls-5" rx="24.06" ry="24.06"/>
+        <ellipse cx="24.06" cy="24.06" class="cls-6" rx="23.56" ry="23.56"/>
+    </g>
+    <g id="Group_4272" data-name="Group 4272" transform="translate(14.258 14.258)">
+        <g id="Group_4271" class="cls-3" data-name="Group 4271">
+            <path id="Path_5477" d="M12.065 4.213a1.347 1.347 0 0 0-1.907 0l-.477.477-6.673 6.681-.21.211s-.67.676-2.185 5.564l-.032.1-.081.267-.074.243-.063.208q-.073.24-.147.491c-.108.369-.375 1.2-.074 1.5s1.13.035 1.5-.075l.487-.146.217-.065.229-.07.28-.087.081-.025c4.651-1.448 5.486-2.129 5.556-2.19l.215-.216.015.014 6.678-6.68.477-.478a1.351 1.351 0 0 0 0-1.909zM7.731 16.436l-.022.015-.016.01-.019.011-.018.011A15.435 15.435 0 0 1 5.2 17.532a45.25 45.25 0 0 1-.6.21l-2.248-2.25c.074-.212.144-.415.211-.6a15.372 15.372 0 0 1 1.046-2.463l.009-.015.013-.022.009-.015c.006-.008.01-.017.015-.022l.165-.165 4.08 4.077zM19.693 4.213L15.879.4a1.347 1.347 0 0 0-1.907 0l-.954.954a1.351 1.351 0 0 0 0 1.909l3.814 3.818a1.347 1.347 0 0 0 1.907 0l.954-.954a1.351 1.351 0 0 0 0-1.909zm0 0" class="cls-4 icon-fill" data-name="Path 5477" transform="translate(-.005 -.017)"/>
+        </g>
+    </g>
+</svg>
+Edit</span>
+									
+									<span class="icon-container" ng-click="delete_video(video)"><svg class="delete-icon" xmlns="http://www.w3.org/2000/svg" width="48.121" height="48.121" viewBox="0 0 48.121 48.121">
+    <defs>
+        <style>
+            .delete-icon .cls-1{fill:#fff;stroke:#0a0a3c;opacity:.2}.delete-icon .cls-2{fill:#0a0a3c}.delete-icon .cls-3{stroke:none}.delete-icon .cls-4{fill:none}
+        </style>
+    </defs>
+    <g id="Group_6137" data-name="Group 6137" transform="translate(-1095 -346)">
+        <g id="Ellipse_1800" class="cls-1 icon-bg" data-name="Ellipse 1800" transform="translate(1095 346)">
+            <ellipse cx="24.06" cy="24.06" class="cls-3" rx="24.06" ry="24.06"/>
+            <ellipse cx="24.06" cy="24.06" class="cls-4" rx="23.56" ry="23.56"/>
+        </g>
+        <path id="Union_2119" d="M825.352 13138.749v-12.5H839.1v12.5zm-1.253-15v-2.5h5V13120h6.25v1.248h5v2.5z" class="cls-2 icon-fill" data-name="Union 2119" transform="translate(286.9 -12759.002)"/>
+    </g>
+</svg>
+Delete</span>
+									
+								</div>
+							</div>
+
+						</div>
+
+                    <div class="low-res" ng-if="show_lowres_message && video.is_draft && (video.higher_quality_available_on_mobile || video.current_quality_for_save > 0)">
+                      <div class="low-res-text">
+                        <img src="/media/svg/low-res-icon.svg"/>
+                        <span ng-if="!(video.higher_quality_available_on_mobile > video.current_quality_for_save)">Save your video to get the highest quality!</span>
+                        <span ng-if="video.higher_quality_available_on_mobile > video.current_quality_for_save">Save &amp; Download on your mobile device to get the highest quality!</span>
+                      </div>
+                    </div>
+
+                    <div class="istock-tooltip-draft pad" ng-show="video.vs_stock_credit && video.is_draft && video.is_creator && !has_stock">
+							<div class="istock-tooltip-draft-text">
+								<ng-pluralize count="video.vs_stock_credit" when="{'one': '1 iStock item', 'other': '[[video.vs_stock_credit]] iStock items'}"></ng-pluralize> used in this video.
+                    </div>
+                  </div>
+						<div class="comments-container bottom" ng-hide="video.is_draft || is_ecommerce_movie">
+                    <div class="pad">
+                      <div class="brd"></div>
+                      <input comment-input video="video" type="text" class="txt_new_comment" placeholder="Write a comment..." comments-container="'.comments ul'" />
+                    </div>
+                  </div>
+                  <div class="ecommerce_panel" ng-show="is_ecommerce_movie && is_authenticated && video.is_creator">
+                    <div class="pad">
+                      <div class="ecommerce_inner">
+                        <div class="buttons">
+                          <div ng-if="video.is_draft" class="tooltip-wrapper" tooltip="Save video" tooltip-position="bottom">
+                            <div class="button save promoted" ng-click="keep_draft(video); $event.stopPropagation();"></div>
+                          </div>
+                          <div ng-if="!video.is_draft" class="tooltip-wrapper" tooltip="Embed and share video" tooltip-position="bottom">
+                            <div class="button share promoted" ng-click="open_sharing(video); $event.stopPropagation();"></div>
+                          </div>
+                          <div ng-if="video.is_draft" class="tooltip-wrapper" tooltip="Edit video" tooltip-position="bottom">
+                            <div class="button editor" ng-click="open_tweak_editor(video); $event.stopPropagation();"></div>
+                          </div>
+                          <div ng-if="!video.is_draft" class="tooltip-wrapper" tooltip="Copy and Edit video" tooltip-position="bottom">
+                            <div class="button editor" ng-click="duplicate_video(video); $event.stopPropagation();"></div>
+                          </div>
+                          <div class="tooltip-wrapper" tooltip="Delete video" tooltip-position="bottom">
+                            <div class="button delete" ng-click="delete_video(video); $event.stopPropagation();"></div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+			</div>
+            
+		</div>
+	</div>
+
+        <div class="popups">
+
+          
+          <script type="text/ng-template" id="#email_share_popup">
+            <div id="movie_email_popup" class="general_popup">
+              <div class="section">
+                <div class="h1">Share by Email</div>
+                <div class="body">
+                  <input type="text" class="txt_email_share to_reset" autocapitalize="off" placeholder="To: (email addresses, separate with comma)" /><br/>
+                  <div ng-show="video.invite_by_share.enabled">
+                    <input type="checkbox" ng-model="video.invite_by_share.checked" id="cb_inv_to_album" name="cb_inv_to_album" />
+                    <label for="cb_inv_to_album" ng-show="video.invite_by_share.album">Invite to <b>[[video.invite_by_share.album]]</b></label>
+                    <label for="cb_inv_to_album" ng-show="!video.invite_by_share.album">Invite to album</label>
+                  </div>
+                </div>
+                <div class="btns">
+                  <button class="btn turq btn_submit" ng-class="{loading: loading, disabled: loading}">Send Email</button>
+                </div>
+              </div>
+            </div>
+          </script>
+
+          
+          <script type="text/ng-template" id="#dup_popup">
+            <div id="movie_dup_popup" class="general_popup">
+              <div class="section">
+                <div class="h1">Copy and edit</div>
+                <div class="body">
+                  <span ng-show="!video.vs_stock_credit || video.has_stock">This will create a copy of this video, which you can then edit.</span>
+                  <span ng-show="video.vs_stock_credit && !video.has_stock">
+                    This video contains iStock media items. <br>
+                    Copying and editing will redeem [[video.vs_stock_credit]] iStock credit.
+                  </span>
+                  <br><br>
+                  <label>Name your new video:</label>
+                  <input autofocus="true" type="textbox" size="30" placeholder="[[!video.title || video.title == 'Untitled' ? '' : video.title]]" ng-value="!video.title || video.title == 'Untitled' ? 'Title' : 'Copy of '+video.title" ng-model="title" class="new_title" name="title" style="margin-bottom:12px;margin-top:20px" ><br>
+
+                </div>
+                <div class="btns">
+                  <button class="btn turq btn_do_cuplicate_movie" ng-class="{loading: video.duplicating, disabled: video.duplicating}">Copy &amp; edit</button>
+                  <button class="btn trans gray popup_close" ng-class="{disabled: video.duplicating}">Cancel</button>
+                </div>
+              </div>
+            </div>
+          </script>
+
+            
+            <script type="text/ng-template" id="#convert_popup">
+                <div id="movie_convert_popup" class="general_popup">
+                    <div class="section">
+                        <div class="h1">New editor, better videos</div>
+                        <div class="body">
+                            We’ve improved Magisto to help you tell amazing video stories!
+                            To edit your video, click Convert. We will save it for you, create a copy, and apply new fonts and style (you can change them later).
+                            <input autofocus="true" type="textbox" size="30" placeholder="[[!video.title || video.title == 'Untitled' ? '' : video.title]]" ng-value="!video.title || video.title == 'Untitled' ? 'Title' : 'Copy of '+video.title" ng-model="title" class="new_title" name="title" style="visibility: hidden;" >
+                        </div>
+                        <div class="btns">
+                            <button class="btn turq btn_do_cuplicate_movie" ng-class="{loading: video.duplicating, disabled: video.duplicating}">Convert to edit</button>
+                            <button class="btn trans gray popup_close" ng-class="{disabled: video.duplicating}">Cancel</button>
+                        </div>
+                    </div>
+                </div>
+            </script>
+
+          
+          <script type="text/ng-template" id="#restock_popup">
+            <div id="restock_credit_popup" class="general_popup">
+              <div class="section">
+                <div class="h1">Copy and edit</div>
+                <div class="body">
+                  This will create a copy of this video, which you can then edit.
+                </div>
+                <div class="btns">
+                  <button class="btn turq btn_do_cuplicate_movie" ng-class="{loading: video.duplicating, disabled: video.duplicating}">Copy &amp; edit</button>
+                  <button class="btn trans gray popup_close" ng-class="{disabled: video.duplicating}">Cancel</button>
+                </div>
+              </div>
+            </div>
+          </script>
+
+          
+          <script type="text/ng-template" id="#no_hd_dl_popup">
+            <div id="no_hd_dl_popup" class="general_popup">
+              <div class="section">
+                <div class="h1">Download movie in HD</div>
+                <div class="body">
+                  <p ng-show="video.origin==''">Your video can't be downloaded in HD as some of the original footage is not in HD quality.</p>
+                  <p ng-show="video.origin==''">Your download will be in the best quality available.</p>
+                  <p ng-show="video.origin!=''">Your video can't be downloaded in HD as some of the original footage may be located on your mobile device.<br/>Please try downloading on the device used to create your video.</p>
+                  <p ng-show="video.origin!=''">Download in the best quality available instead?</p>
+                </div>
+                <div class="btns">
+                  <button class="btn turq" ng-click="download_video()">Download</button>
+                  <button class="btn trans gray popup_close" ng-show="video.origin!=''">Cancel</button>
+                </div>
+              </div>
+            </div>
+          </script>
+
+          
+          <script type="text/ng-template" id="#download_waiting_popup">
+            <div id="movie_download_waiting_popup" class="general_popup">
+              <div class="section">
+                <div class="h1">Download Movie</div>
+                <div class="body">
+                  <p>We are gathering your high-quality footage to prepare the HD version of your video. This may take a bit more time, so bear with us a few more minutes.</p>
+                  <p>Feel free to close this message - we will email you as soon as your video is available for download.</p>
+                </div>
+                <div class="btns">
+                  <div class="loader"></div>
+                </div>
+              </div>
+            </div>
+          </script>
+
+          
+          <script type="text/ng-template" id="#download_pay_popup">
+            <div id="movie_download_pay_popup" class="general_popup ">
+              <div class="section">
+                <div class="h1">Download Movie</div>
+                <div class="body">
+                  <p class="ttlnext">You need a premium account to download movies.</p>
+                  
+                  <p>Or invite friends and get free downloads</p>
+                  
+                </div>
+                <div class="btns">
+                  <button class="btn turq btn_dl_go_premium" ng-click="go_premium('no_credits')">Upgrade</button>
+                  
+                  <button class="btn trans gray btn_dl_invite" ng-click="invite()">Invite Friends</button>
+                  
+                </div>
+              </div>
+            </div>
+          </script>
+
+          
+          <script type="text/ng-template" id="#info_popup">
+            <div id="movie_info_popup" class="general_popup center">
+              <div class="section">
+                <div class="h1">Movie info</div>
+                <div class="body">
+                  <div class="wrap">
+                    <div class="elmnt">
+                      <div class="thumb" nice-bg nice-src="[[video.creds.theme.large_thumb]]"></div>
+                      <div class="txt"><strong>Editing Style</strong>[[video.creds.theme.name]]</div>
+                    </div>
+                    <div class="elmnt sep"></div>
+                    <div class="elmnt">
+                      <div class="thumb" nice-bg nice-src="[[video.creds.track.thumbnail]]"></div>
+                      <div class="txt"><strong class="nowrap">[[video.creds.track.name]]</strong>[[video.creds.track.artist]]</div>
+                    </div>
+                    <div class="clearboth"></div>
+                  </div>
+                </div>
+                <div class="btns">
+                  <button class="btn turq popup_close" >Close</button>
+                </div>
+              </div>
+            </div>
+          </script>
+
+          <script type="text/ng-template" id="#business_survey_popup">
+            <div id="movie_business_survey_popup" class="general_popup center">
+              <div class="section">
+                <div class="h1">Help Us Improve!</div>
+                <div class="body">
+                  <p>We're on a mission to help businesses like yours grow.</p>
+                  <p>Tell us how we're doing by taking a super short survey. As a thanks you'll be entered to win a $150 Amazon gift card.</p>
+                </div>
+                <div class="btns">
+                  <a href="//www.magisto.com/survey/businessfeedback2" target="_blank" ng-click="take_business_survey()"><button class="btn turq">Take a Short Survey</button></a>
+                </div>
+              </div>
+            </div>
+          </script>
+
+          
+          <script type="text/ng-template" id="#flag_popup">
+            <div id="movie_flag_popup" class="general_popup">
+              <style>
+                #movie_flag_popup .reasons div {margin-bottom:3px;}
+              </style>
+              <div class="section">
+                <div class="h1">Report Inappropriate Movie</div>
+                <div class="body">
+                  <p>Please report this movie if you believe it violates<br/>our <a href="/tos" target="_blank">Terms of Service</a>.<p/>
+                    <label class="ttlnext">What would you like to report?</label>
+                    <div class="reasons">
+                      <div><input type="radio" class="flag_reason" name="flag_reason" ng-model="flag_popup.reason" value="sex" id="flag_reason_1"/><label for="flag_reason_1">Sexually Explicit Content</label></div>
+                      <div><input type="radio" class="flag_reason" name="flag_reason" ng-model="flag_popup.reason" value="violence" id="flag_reason_2"/><label for="flag_reason_2">Graphic Violence</label></div>
+                      <div><input type="radio" class="flag_reason" name="flag_reason" ng-model="flag_popup.reason" value="illegal" id="flag_reason_3"/><label for="flag_reason_3">Illegal Activity</label></div>
+                      <div><input type="radio" class="flag_reason" name="flag_reason" ng-model="flag_popup.reason" value="spam" id="flag_reason_4"/><label for="flag_reason_4">Spam</label></div>
+                    </div>
+                    <label class="ttlnext">Please describe the violation</label>
+                    <textarea placeholder="" class="" ng-model="flag_popup.msg"></textarea>
+                  </div>
+                  <div class="btns">
+                    <button class="btn turq btn_report_movie" ng-click="report_movie()">Report</button>
+                    <button class="btn trans gray popup_close">Cancel</button>
+                  </div>
+                </div>
+              </div>
+            </script>
+          </div>
+
+          <sharing-popup video="video"></sharing-popup>
+          <fb-ads-share video="video"></fb-ads-share>
+          <email-share-popup video="video"></email-share-popup>
+          <add-to-album-popup video="video"></add-to-album-popup>
+          <info-popup video="video"></info-popup>
+          <flag-popup video="video"></flag-popup>
+          <dup-popup video="video"></dup-popup>
+          <convert-popup video="video"></convert-popup>
+          <nohd-popup video="video"></nohd-popup>
+          <download-waiting-popup video="video"></download-waiting-popup>
+          <download-pay-popup video="video"></download-pay-popup>
+          <business-survey-popup video="video"></business-survey-popup>
+          <movie-views-popup video="video"></movie-views-popup>
+          <edit-thumb-popup video="video"></edit-thumb-popup>
+          
+          <tweak-upsell-popup></tweak-upsell-popup>
+          
+          <upsell-popup></upsell-popup>
+          
+          
+
+          <div id="main_toast"><div class="msg error"></div></div>
+
+        </div>
+
+		
+	</div>
+</div>
+
+
+<upsell-popup popup-template="blocking_upsell_popup"></upsell-popup>
+
+<div getty-upsell>
+	<restock-credits-popup></restock-credits-popup>
+</div>
+
+                
+            </div>
+        </div>
+        
+
+
+        
+            
+                
+                    <connect-form-popup></connect-form-popup>
+                    <change-user-info-popup></change-user-info-popup>
+                    <script type="text/javascript">var app=angular.module('magisto');app.factory('connectService',['$http',function($http){return{password_strength_error_msg:'Your password must be at least 8 characters long and contain 4 or more unique characters',is_password_strength_enough:function(password){var u={};if(password.length<8)
+return false;for(var i=0;i<password.length;i++){u[password.charAt(i)]=1;}
+if(Object.keys(u).length<4)
+return false;return true;},login:function(email,password,extra_params,is_reconnect){var url=globals.prot_and_server+'/api/auth',params={username:email,password:password};if(!extra_params)extra_params={};for(var x in extra_params)
+params[x]=extra_params[x];params['device_id']=common.get_device_id();return $http.post(url,params).then(function(res){if(res.data.status&&res.data.status=='OK'){return{success:true};}
+else{return{success:false,error:(res.data.error||'Internal error')};}},function(res){var _err='Invalid email / password';if(is_reconnect)
+_err='Incorrect password';if(res.data&&res.data.errcode&&res.data.errcode==1110){_err='Request limit reached';}else{if(navigator&&!navigator.onLine){_err='You appear to be offline - Please check your internet connection and try again.'
+globals.alooma.track('warning_signup_new',globals.alooma.get_utm_data({type:'login_new',is_business:extra_params['business'],error:_err}));}}
+return{success:false,error:_err};});},signup:function(params,newsletter,extra_params){var url=globals.prot_and_server+'/api/account/create',params={full_name:params.name,email:params.email,password1:params.password,tos:params.tos,privacy:params.privacy,advanced_password_check:1};if(!extra_params)extra_params={};for(var x in extra_params)
+params[x]=extra_params[x];if(newsletter)
+params['newsl']='on';params['device_id']=common.get_device_id();return $http.post(url,params).then(function(res){if(res.data.status&&res.data.status=='OK'){return{success:true};}else{return{success:false,error:(res.data.error||'Internal error')};}},function(res){var err_str='Internal error';if(res.data&&res.data.errors){for(var key in res.data.errors)
+err_str=res.data.errors[key];if(err_str.toLowerCase()=='user already exists'){if(extra_params['business'])
+err_str='A Magisto user is already associated with this email, please use a different email to create an account';else
+err_str='A Magisto user is already associated with this email, please use a different email to create an account';globals.alooma.track('warning_signup_new',globals.alooma.get_utm_data({type:'signup_new',is_business:extra_params['business'],error:err_str}));}}else{if(navigator&&!navigator.onLine){err_str='You appear to be offline - Please check your internet connection and try again.'
+globals.alooma.track('warning_signup_new',globals.alooma.get_utm_data({type:'signup_new',is_business:extra_params['business'],error:err_str}));}}
+return{success:false,error:err_str};});},auth_facebook:function(fb_access_token,fb_uid,extra_params){var url=globals.prot_and_server+'/api/auth',params={method:'FB',fb_access_token:fb_access_token,fb_uid:fb_uid};if(!extra_params)extra_params={};for(var x in extra_params)
+params[x]=extra_params[x];params['device_id']=common.get_device_id();return $http.post(url,params).then(function(res){if(res.data.status&&res.data.status=='OK'){return{success:true,new_user:res.data.new_user};}
+else{return{success:false,error:(res.data.error||'Internal error')};}},function(res){var err='Internal error';var response={success:false};if(res&&res.data&&res.data.errors){if(res.data.errors.errcode&&res.data.errors.errcode==2023){err='A Magisto user with the same account already exists';}else if(res.data.errors.errcode&&res.data.errors.errcode==2100){err='Please approve terms of service.';response.no_terms=true;}else if(res.data.errors.general){err=res.data.errors.general;}}
+response.error=err;return response;});},auth_gplus:function(auth_result,email,extra_params){var url=globals.prot_and_server+'/api/auth',params={method:'GOOGLE',id_token:auth_result.id_token,google_user:email,google_access_token:auth_result.access_token,id_token:auth_result.id_token,expires:auth_result.expires_in};if(!extra_params)extra_params={};for(var x in extra_params)
+params[x]=extra_params[x];params['device_id']=common.get_device_id();return $http.post(url,params).then(function(res){if(res.data.status&&res.data.status=='OK'){return{success:true,new_user:res.data.new_user};}
+else{return{success:false,error:(res.data.error||'Internal error')};}},function(res){var err='Internal error';var response={success:false};if(res&&res.data&&res.data.errors){if(res.data.errors.errcode&&res.data.errors.errcode==2023){err='A Magisto user with the same account already exists';}else if(res.data.errors.errcode&&res.data.errors.errcode==2100){err='Please approve terms of service.';response.no_terms=true;response.email=params.google_user;}else if(res.data.errors.general){err=res.data.errors.general;}}
+response.error=err;return response;});},auth_apple:function(auth_result,extra_params){var url=globals.prot_and_server+'/api/auth';var params;if(auth_result.refresh_token){params={method:'APPLE',client:'WEB',refresh_token:auth_result.refresh_token};}
+else{params={method:'APPLE',client:'WEB',apple_identity_token:auth_result.id_token,auth_code:auth_result.code,settings:'1'};}
+if(!extra_params)extra_params={};for(var x in extra_params)
+params[x]=extra_params[x];params['device_id']=common.get_device_id();return $http.post(url,params).then(function(res){if(res.data.status&&res.data.status=='OK'){return{success:true,new_user:res.data.new_user,refresh_token:res.data.refresh_token};}
+else{return{success:false,error:(res.data.error||'Internal error')};}},function(res){var err='Internal error';var response={success:false};if(res&&res.data&&res.data.errors){if(res.data.errors.errcode&&res.data.errors.errcode==2023){err='A Magisto user with the same account already exists';}else if(res.data.errors.errcode&&res.data.errors.errcode==2100){err='Please approve terms of service.';response.no_terms=true;}else if(res.data.errors.general){err=res.data.errors.general;}}
+response.error=err;return response;});},forgot:function(email,extra_params){var url=globals.prot_and_server+'/api/reset/request',params={email:email,detailed:1};if(!extra_params)extra_params={};for(var x in extra_params)
+params[x]=extra_params[x];return $http.post(url,params).then(function(res){if(res.data.status&&res.data.status=='OK'){return{success:true};}
+else{return{success:false,error:(res.data.error||'Internal error')};}},function(res){var _err=(res&&res.data&&res.data.error?res.data.error:null)||'Internal error';if(res.data.errcode&&res.data.errcode==1110)
+_err='Request limit reached';return{success:false,error:_err};});},reset:function(token,password,extra_params){var url=globals.prot_and_server+'/reset/'+token,params={new_password1:password,new_password2:password,json:1,advanced_password_check:1};if(!extra_params)extra_params={};for(var x in extra_params)
+params[x]=extra_params[x];return $http.post(url,params).then(function(res){if(res.data.status&&res.data.status=='OK'){return{success:true};}
+else{return{success:false,error:(res.data.error||'Internal error')};}},function(res){var _err=(res&&res.data&&res.data.error?res.data.error:null)||'Internal error';if(res.data.errcode&&res.data.errcode==1110)
+_err='Request limit reached';return{success:false,error:_err};});},is_premium:function(){var url=globals.prot_and_server+'/api/premium/check_packageinfo';return $http.post(url).then(function(res){if(res.data.status&&res.data.status=='OK'){var ret={success:true,is_premium:false};if(res.data.active_package)
+ret.is_premium=true;return ret;}
+else{return{success:false,error:(res.data.error||'Internal error')};}},function(res){return{success:false,error:(res.data.error||'Internal error')};});},get_business_buynow_url:function(){var url=globals.prot_and_server+'/api/business/buynow';return $http.get(url).then(function(res){if(res.data.status&&res.data.status=='OK'){return{success:true,buynow_url:res.data.buynow_url||null,};}
+else{return{success:false,error:(res.data.error||'Internal error')};}},function(res){return{success:false,error:(res.data.error||'Internal error')};});},get_special_buynow_url:function(promo_label){var url=globals.prot_and_server+'/api/business/special/buynow';if(promo_label)
+url+='?promo_label='+promo_label;return $http.get(url).then(function(res){if(res.data.status&&res.data.status=='OK'){return{success:true,buynow_url:res.data.buynow_url};}else{return{success:false,error:(res.data.error||'Internal error')};}},function(res){return{success:false,error:(res.data.error||'Internal error')};});},update_user_details:function(user_data){if(!user_data)return;var url=globals.prot_and_server+'/api/account/change_details';var d={};d.email=user_data.email;d.first_name=user_data.first_name;d.last_name=user_data.last_name;d.full_name=user_data.full_name;if(user_data.fb_access_token){d.fb_token=user_data.fb_access_token;}
+if(localStorage.getItem('apple_refresh_token')){d.refresh_token=localStorage.getItem('apple_refresh_token');}
+return $http.post(url,d).then(function(res){if(res.data.status&&res.data.status=='OK'){return{success:true,data:res.data};}else{if(!!res.data&&!!res.data.errors){var errorsArray=Object.keys(res.data.errors).map(function(k){return res.data.errors[k]});return{success:false,errors:errorsArray};}
+return{success:false,error:((!!res&&res.data&&res.data.error)?res.data.error:'There is a problem with one or more of your details. please try again')};}},function(res){if(!!res.data&&!!res.data.errors){var errorsArray=Object.keys(res.data.errors).map(function(k){return res.data.errors[k]});return{success:false,errors:errorsArray};}
+return{success:false,error:((!!res&&res.data&&res.data.error)?res.data.error:'There is a problem with one or more of your details. please try again')};});}};}]);app.controller('ConnectPageController',['$scope','$timeout','$rootScope','connectService',function($scope,$timeout,$rootScope,connectService){if(globals.ConnectPageControllerInit===true){return}
+globals.ConnectPageControllerInit=true;$scope.resetScope=function(){$scope.state=globals.connect_state||'login';$scope.form_size=globals.form_size||null;$scope.hide_left_side=globals.hide_left_side||false;$scope.login_state='login';$scope.is_business=globals.business||false;$scope.is_authenticated=globals.is_authenticated||false;$scope.signup_form={step:1,loading:false,primary_use:false,name:'',email:'',confirm_email:'',password:'',newsletter:true,error:null,email_error:false,password_error:false,name_error:false,confirm_email_error:false,primary_use_error:false,consents:{tos:false,privacy:false}};$scope.login_form={email:'',password:'',error:null,email_error:false,password_error:false};$scope.reconnect={type:'email',email:'',password:'',error:null,password_error:false};$scope.forgot_form={email:'',error:null,email_error:false};$scope.reset_form={password:'',confirm_password:'',error:null,password_error:false,confirm_password_error:false};$scope.social_aprove_details={full_name:false,email:false};$scope.submitting=false;$scope.allocate_opt_in=null;}
+$scope.resetScope();$scope.$watch('login_form.email',function(val){$scope.login_form.email_error=(!common.validate_email(val));});$scope.$watch('login_form.password',function(val){$scope.login_form.password_error=!(val&&val.length>0);});$scope.$watch('signup_form.name',function(val){$scope.signup_form.name_error=(!common.validate_name(val));});$scope.$watch('signup_form.email',function(val){$scope.signup_form.email_error=(!common.validate_email(val));if($scope.signup_form.confirm_email&&$scope.signup_form.confirm_email!=val){$scope.signup_form.confirm_email_error=true;}else{$scope.signup_form.confirm_email_error=false;}});$scope.$watch('signup_form.confirm_email',function(val){$scope.signup_form.confirm_email_error=(!common.validate_email(val));if($scope.signup_form.email&&$scope.signup_form.email!=val)
+$scope.signup_form.confirm_email_error=true;});$scope.$watch('signup_form.password',function(val){$scope.signup_form.password_error=!(val&&val.length>0);});$scope.$watch('login_form.password',function(val){$scope.login_form.password_error=!(val&&val.length>0);});$scope.$watch('reconnect.password',function(val){$scope.reconnect.password_error=!(val&&val.length>0);});$scope.$watch('forgot_form.email',function(val){$scope.forgot_form.email_error=(!common.validate_email(val));});$scope.$watch('reset_form.password',function(val){$scope.reset_form.password_error=!(val&&val.length>0);});$scope.$watch('reset_form.confirm_password',function(val){$scope.reset_form.confirm_password_error=!(val&&val.length>0);if($scope.reset_form.confirm_password&&$scope.reset_form.confirm_password!=val)
+$scope.reset_form.confirm_password_error=true;});$scope.init=function(){if($scope.state=='forgot'||$scope.state=='reset'||$scope.state=='reset_done'||$scope.state=='reset_error')
+return;var allocate_opt_in=getQueryParamFromURL('allocoptin',window.location.search);if(allocate_opt_in)
+$scope.allocate_opt_in=allocate_opt_in;var social_log=getQueryParamFromURL('social_login',window.location.search)
+if(!!social_log){if(social_log=='gp')$scope.auth_gplus();if(social_log=='fb')$scope.auth_facebook();if(social_log=='apple')$scope.auth_apple();}
+try{var data=read_cookie('cnct_data');if(data){var data_arr=decodeURIComponent(data).split(':');var t=data_arr[0].toLowerCase();var em=decodeURIComponent(data_arr[1]);var name=decodeURIComponent(data_arr[2]).trim();if(name&&((t=='email'&&em)||t=='fb'||t=='google'||t=='apple')){$scope.reconnect.type=t;$scope.reconnect.name=name;$scope.change_state('reconnect');$timeout(function(){$scope.reconnect.email=em;$scope.reconnect.name=name;$scope.reconnect.type=t;});}}}catch(err){};var currentLocation=window.location;if(currentLocation.pathname=='/connect'){setTimeout(function(){globals.alooma.track('show_connect',globals.alooma.get_utm_data({type:$scope.state,is_business:$scope.is_business}));});}}
+$rootScope.$on('reset_connect_form',function(e,d){if(!!d)$scope.resetScope();});$rootScope.$on('connect_change_state',function(e,state){if(!!state)$scope.change_state(state);});$scope.$on('change_page_state',function(e,data){if(!!data&&data!==$scope.state)
+$scope.change_state(data);});$scope.temp_next=false;$scope.change_state=function(state){$timeout(function(){$scope.resetScope();if(state!=='signup'&&globals.connect_next&&globals.connect_next.indexOf("business/purchase")!==-1){$scope.temp_next=globals.connect_next;globals.connect_next='/';}
+if(state=="signup"&&!!$scope.temp_next)globals.connect_next=$scope.temp_next;if(state=='login'||state=='reconnect')
+$scope.login_state=state;if(state=='forgot'){try{var email=$('input[name=username]')[0].value;$scope.forgot_form.email=email;}catch(err){};}
+$scope.state=state;if((state=='login'||state=='signup')&&$scope.temp_next.length){globals.alooma.track('push_'+state,globals.alooma.get_utm_data());}
+$rootScope.$broadcast('change_page_state',state);});};$scope.change_to_login_state=function(){$scope.state=$scope.login_state;if(globals.connect_next&&globals.connect_next.indexOf("business/purchase")!==-1){globals.connect_next='/';}};$scope.redirectUser=function(){if($scope.signup_form)
+$scope.signup_form.loading=true;if(!!$scope.go_next){window.location=$scope.go_next;}else{window.location=globals.connect_next||'/';}}
+$scope.onconnect=function(type,new_user){var complete_connect=function(){try{var flow_type=$scope.is_business?'BUSINESS FLOW':'REGULAR FLOW';var primary_use=(!!$scope.signup_form.primary_use?($scope.signup_form.primary_use=='business'?'/businessuse':'/personaluse'):'/');if(!!$scope.signup_form.primary_use&&$scope.is_business){flow_type=$scope.signup_form.primary_use=='business'?'BUSINESS FLOW BUSINESS USE':'BUSINESS FLOW PERSONAL USE';}else if(!!$scope.signup_form.primary_use&&!$scope.is_business){flow_type=$scope.signup_form.primary_use=='business'?'REGULAR FLOW BUSINESS USE':'REGULAR FLOW PERSONAL USE';}
+var connect_data={type:new_user?'signup':'login',channel:type,is_business:!!$scope.is_business};$.extend(connect_data,globals.alooma.pop_tracking_data('connect_done')||{});var virtualpage='/virtual/login/done/'+(new_user?'new-user/':'existing-user/')+($scope.is_business?'business/':'consumer/')+(type=='facebook'?'fb':type)+primary_use;pixel_tracking([['ga_page',virtualpage],['bing',virtualpage],['alooma_queue','connect_done',connect_data]]);if(new_user&&type=='facebook'){pixel_tracking(['fb','CompleteRegistration',{content_name:flow_type,status:type}])}}catch(err){console.log(err)};var next='/';if(!new_user&&(globals.via_element=='get_started_main_cta'||globals.via_element=='tm_login'||globals.via_element=='mobile_tm_login')){next='/';}else{next=globals.connect_next||'/';if(next[0]!='/')
+next='/';}
+if(new_user&&type=='facebook'&&globals.after_signup){next=globals.after_signup.replaceAll("&amp;","&")
+next+="&"+location.search.substring(1);}
+if(new_user&&type=='apple'&&globals.after_signup){next=globals.after_signup.replaceAll("&amp;","&")
+next+="&"+location.search.substring(1);}
+if(new_user){if(globals.ab_tests.web_pro_upsell_popup&&!globals.is_mobile){next='/create-wizard?via=first_upsell_popup';}
+else{next+=(next.indexOf('?')>=0?'&':'?')+'signup=1';}}
+device_action('register');var query_params=(next.indexOf('?')>=0?'&':'?');try{if(getQueryParam('utm_source'))query_params+='&utm_source='+getQueryParam('utm_source')
+if(getQueryParam('utm_campaign'))query_params+='&utm_campaign='+getQueryParam('utm_campaign')
+if(getQueryParam('fb_ad_id'))query_params+='&fb_ad_id='+getQueryParam('fb_ad_id')
+if(getQueryParam('ad_id'))query_params+='&ad_id='+getQueryParam('ad_id')}catch(err){console.log(err)}
+try{if($scope.allocate_opt_in){sessionStorage.removeItem('is_optin_flow');}}catch(err){console.log(err)}
+if(new_user&&type=='facebook'){FB.api('/me',{locale:'en_US',fields:'name, email'},function(response){window.location.href=next+query_params||'/video/mine';});}else{$timeout(function(){if(!!$scope.form_size&&$scope.form_size=="minimal"){window.top.location.href=next+query_params;}else{window.location.href=next+query_params;}},400);}}
+if(type=='facebook'||type=='google'||type=='apple'){if(!!new_user&&!!$scope.signup_form.social_connect){var u={};var strip_name={first_name:$scope.signup_form.name,last_name:'',full_name:$scope.signup_form.name};if(!!$scope.signup_form.name){var s_name=strip_name.full_name.split(' ');if(s_name.length==2){strip_name.first_name=s_name[0];strip_name.last_name=s_name[1];}else if(s_name.length>=3){strip_name.first_name=s_name[0]+' '+s_name[1];strip_name.last_name=s_name[2];}}
+if(!!$scope.signup_form.name&&!!$scope.signup_form.email){u=strip_name;u.email=$scope.signup_form.email;}
+if($scope.fb_access_token){u.fb_access_token=$scope.fb_access_token;}
+if(localStorage.getItem('apple_refresh_token')){u.refresh_token=localStorage.getItem('apple_refresh_token');}
+if(u.email){connectService.update_user_details(u).then(function(res){if(!!res.success){globals.alooma.track('connect_done',globals.alooma.get_utm_data({type:'signup',channel:type,is_business:!!$scope.is_business}));if(type=='facebook'){pixel_tracking(['fb','CompleteRegistration',{content_name:$scope.is_business?'BUSINESS FLOW':'REGULAR FLOW',status:type}]);}
+$scope.redirectUser();}else{$scope.login_form.error=res.error||'An error occurred';if(!!res.errors&&res.errors.length){$scope.signup_form.error=res.errors.join('<br />');return;}else if(!!res.data&&res.data.error){$scope.signup_form.error=res.data.error;return;}else if(!!res.error){$scope.signup_form.error=res.error;return;}}});}else{complete_connect();}}else{complete_connect();}}else{complete_connect();}};$scope.get_extra=function(){var extra={store_cnct:1};if($scope.signup_form.primary_use)
+extra['user_type']=$scope.signup_form.primary_use;if($scope.is_business)
+extra['business']=true;if($scope.signup_form.consents.tos)
+extra['tos']=$scope.signup_form.consents.tos;if($scope.signup_form.consents.privacy)
+extra['privacy']=$scope.signup_form.consents.privacy;if($scope.allocate_opt_in){extra['allocate_opt_in']=$scope.allocate_opt_in;}
+return extra;};$scope.submit_reconnect=function(){if($scope.submitting)
+return;$scope.reconnect.error=null;var err=[];if(!$scope.reconnect.password||!$scope.reconnect.password.length)
+err.push('Please enter a valid password');if(err.length){$scope.reconnect.error=err.join('<br/>');}else{$scope.submitting=true;connectService.login($scope.reconnect.email,$scope.reconnect.password,$scope.get_extra(),true).then(function(res){if(res.success){$scope.onconnect('email',false);$timeout(function(){$scope.submitting=false},1000);}else{$scope.submitting=false
+$scope.reconnect.error=res.error||'An error occurred';globals.alooma.track('connect_fail',{type:'reconnect',channel:'email',error_type:'invalid_user_or_credentials',is_business:$scope.is_business});}});globals.alooma.track('connect_try',{type:'reconnect',channel:'email',is_business:$scope.is_business});}};$scope.submit_login=function(){if($scope.submitting)
+return;$scope.login_form.error=null;var err=[];var mail_err=[];var pass_err=[];if(!$scope.login_form.email||!$scope.login_form.email.length)
+mail_err.push('Please enter a valid Email address');else if(!common.validate_email($scope.login_form.email))
+mail_err.push('The Email address you entered is invalid');if(!$scope.login_form.password||!$scope.login_form.password.length)
+pass_err.push('Please enter a valid password');$scope.login_form.errors={};if(!!mail_err&&mail_err.length)$scope.login_form.errors.email=mail_err.join('<br/>')||null;if(!!pass_err&&pass_err.length)$scope.login_form.errors.password=pass_err.join('<br/>')||null
+if((!pass_err||pass_err.length==0)&&(!mail_err||mail_err.length==0)){$scope.submitting=true;connectService.login($scope.login_form.email,$scope.login_form.password,$scope.get_extra(),false).then(function(res){if(res.success){$scope.onconnect('email',false);$timeout(function(){$scope.submitting=false},1000);}
+else{$scope.submitting=false
+$scope.login_form.error=res.error||'An error occurred';globals.alooma.track('connect_fail',{type:'login',channel:'email',error_type:'invalid_user_or_credentials',is_business:$scope.is_business});}});globals.alooma.track('connect_try',{type:'login',channel:'email',is_business:$scope.is_business});}};$scope.signup_new=function(skip_confirm){if($scope.submitting)
+return;$scope.signup_form.error=null;$scope.signup_form.errors={};var mail_err=[],name_err=[],pass_err=[]
+if(!$scope.signup_form.name||!$scope.signup_form.name.length||!common.validate_name($scope.signup_form.name)){name_err.push('Please enter your full name');globals.alooma.track('warning_signup_new',globals.alooma.get_utm_data({type:'signup_new',field:'Full_name',error:'Please enter your full name'}));}
+if(!$scope.signup_form.email||!$scope.signup_form.email.length){mail_err.push('Please enter your email address');globals.alooma.track('warning_signup_new',globals.alooma.get_utm_data({type:'signup_new',field:'Email',error:'Please enter your email address'}));}
+else if(!common.validate_email($scope.signup_form.email)){mail_err.push('The email address entered is invalid');globals.alooma.track('warning_signup_new',globals.alooma.get_utm_data({type:'signup_new',field:'Email',error:'The email address entered is invalid'}));}
+if(!$scope.signup_form.password||!$scope.signup_form.password.length){pass_err.push('Please enter a password');}
+else if(!connectService.is_password_strength_enough($scope.signup_form.password)){pass_err.push(connectService.password_strength_error_msg);}
+if(name_err.length)$scope.signup_form.errors.name=name_err.join('<br/>');if(mail_err.length)$scope.signup_form.errors.mail=mail_err.join('<br/>');if(pass_err.length)$scope.signup_form.errors.password=pass_err.join('<br/>');if(name_err.length||mail_err.length||pass_err.length){return}
+$scope.submit_signup_new();}
+$scope.submit_signup_new=function(skip_confirm){if($scope.submitting)
+return;$scope.signup_form.tos_consent=true;$scope.signup_form.privacy_consent=true;var err=[];var name_err=[];var mail_err=[];var pass_err=[];$scope.signup_form.error=null;$scope.signup_form.errors={};var mail_err=[],name_err=[],pass_err=[]
+if(!$scope.signup_form.name||!$scope.signup_form.name.length||!common.validate_name($scope.signup_form.name)){name_err.push('Please enter your full name');globals.alooma.track('warning_signup_new',globals.alooma.get_utm_data({type:'signup_new',field:'Full_name',error:'Please enter your full name'}));}
+if(!$scope.signup_form.email||!$scope.signup_form.email.length){mail_err.push('Please enter your email address');globals.alooma.track('warning_signup_new',globals.alooma.get_utm_data({type:'signup_new',field:'Email',error:'Please enter your email address'}));}
+else if(!common.validate_email($scope.signup_form.email)){mail_err.push('The email address entered is invalid');globals.alooma.track('warning_signup_new',globals.alooma.get_utm_data({type:'signup_new',field:'Email',error:'The email address entered is invalid'}));}
+if(!$scope.signup_form.social_connect){if(!$scope.signup_form.password||!$scope.signup_form.password.length){pass_err.push('Please enter a password');}
+else if(!connectService.is_password_strength_enough($scope.signup_form.password)){pass_err.push(connectService.password_strength_error_msg);}}
+if(name_err.length)$scope.signup_form.errors.name=name_err.join('<br/>');if(mail_err.length)$scope.signup_form.errors.mail=mail_err.join('<br/>');if(pass_err.length)$scope.signup_form.errors.password=pass_err.join('<br/>');if(name_err.length||mail_err.length||pass_err.length||err.length){if(err.length){$scope.signup_form.error=err.join('<br/>');}}else{$timeout(function(){$scope.signup_form.consents={tos:1,privacy:1};}).then(function(){if(!!$scope.signup_form.social_connect){if($scope.signup_form.social_connect=='fb'){$scope.auth_facebook();}else if($scope.signup_form.social_connect=='google'){$scope.auth_gplus();}else if($scope.signup_form.social_connect=='apple'){$scope.auth_apple();}}else{var params={name:$scope.signup_form.name,email:$scope.signup_form.email,password:$scope.signup_form.password,tos:$scope.signup_form.consents.tos,privacy:$scope.signup_form.consents.privacy,};$scope.submitting=true;connectService.signup(params,$scope.signup_form.newsletter,$scope.get_extra()).then(function(res){if(res.success){$scope.onconnect('email',true);$timeout(function(){$scope.submitting=false},1000);}
+else{$scope.submitting=false;$scope.signup_form.error=res.error||'An error occurred';var errtype='other';if((res.error.indexOf('user is already')!=-1)||(res.error.indexOf('is already in use')!=-1)){errtype='existing_user';mail_err.push('Email is already in use.');$scope.signup_form.errors.mail='Email is already in use.'}
+if((res.error.indexOf('Enter a valid email address.')!=-1)){$scope.signup_form.errors.mail='Enter a valid email address.'
+mail_err.push('Enter a valid email address.');}
+globals.alooma.track('connect_fail',{type:'signup',channel:'email',error_type:errtype});return;}});globals.alooma.track('connect_try',{type:'signup',channel:'email',is_business:$scope.is_business});}})}}
+$scope.auth_facebook=function(n,count){var retries=(count+1)||1;if($scope.submitting)
+return;if(!window.FB){if(retries>=5&&window.location.pathname!=='/connect'){window.location='/connect?social_login=fb&'+($scope.state);return;}
+$timeout(function(){$scope.auth_facebook(n,retries)},300);return;}else{$scope.signup_form.errors={};FB.login(function(res){if(res.authResponse&&res.authResponse.accessToken&&res.authResponse.userID){var temp_res=res;$timeout(function(){$scope.submitting=true;$scope.fb_access_token=res.authResponse.accessToken;});connectService.auth_facebook(res.authResponse.accessToken,res.authResponse.userID,$scope.get_extra()).then(function(res){if(res.success){$scope.onconnect('facebook',!!res.new_user);$timeout(function(){$scope.submitting=false},1000);}else{if(!!res.no_terms){FB.api('/me',{locale:'en_US',fields:'name, email'},function(response){$timeout(function(){$scope.submitting=false;$scope.login_form.error=false;$scope.signup_form.step=2;$scope.state='signup';$scope.signup_form.social_email=$scope.signup_form.email=response.email;$scope.signup_form.social_name=$scope.signup_form.name=response.name;$scope.signup_form.social_connect='fb';});});}else{$timeout(function(){$scope.submitting=false;$scope.login_form.error=$scope.signup_form.error=res.error||'An error occurred';var errtype='other';if(res.error.indexOf('already exists')!=-1)
+errtype='existing_user';globals.alooma.track('connect_fail',{type:$scope.state,channel:'facebook',error_type:errtype,is_business:$scope.is_business});});}}});}
+else{$timeout(function(){$scope.submitting=false;});}},{scope:'email'});}
+globals.alooma.track('connect_try',{type:$scope.state,channel:'facebook',is_business:$scope.is_business});};$scope.auth_gplus=function(n,count){var retries=(count+1)||1;if($scope.submitting)
+return;if(!g_manager.initialized){if(retries>=5&&window.location.pathname!=='/connect'){window.location='/connect?social_login=gp&'+($scope.state);return;}
+$timeout(function(){$scope.auth_gplus(n,retries)},300);return;}else{$scope.signup_form.errors={};g_manager.handleAuthClick().then(function(res){var basic_profile=res.user.getBasicProfile();var user_email=basic_profile.getEmail();if(!$scope.signup_form.email||(user_email.toLowerCase()===$scope.signup_form.email.toLowerCase())){gplus_do_login(res.auth_result,user_email);}else{$timeout(function(){$scope.signup_form.step=1;$scope.signup_form.error="Please signup and confirm with the same Google account"})}},function(error){});}
+globals.alooma.track('connect_try',{type:$scope.state,channel:'google',is_business:$scope.is_business});};var gplus_do_login=function(auth_result,email){$timeout(function(){$scope.submitting=true});connectService.auth_gplus(auth_result,email,$scope.get_extra()).then(function(res){if(res.success){$scope.onconnect('google',!!res.new_user);$timeout(function(){$scope.submitting=false},1000);}else{if(!!res.no_terms){$timeout(function(){$scope.submitting=false;$scope.login_form.error=false;$scope.signup_form.step=2;$scope.state='signup';$scope.signup_form.social_connect='google';$scope.signup_form.social_email=$scope.signup_form.email=res.email;});}else{$timeout(function(){$scope.submitting=false;$scope.login_form.error=$scope.signup_form.error=res.error||'An error occurred';});var errtype='other';if(res.error.indexOf('already exists')!=-1)
+errtype='existing_user';globals.alooma.track('connect_fail',{type:$scope.state,channel:'google',error_type:errtype,is_business:$scope.is_business});}}});};$scope.auth_apple=function(n,count){var complete_auth=function(data){connectService.auth_apple(data,$scope.get_extra()).then(function(res){if(res.success){if(res.refresh_token){localStorage.setItem("apple_refresh_token",res.refresh_token);localStorage.removeItem("apple_auth_code");localStorage.removeItem("apple_identity_token");}
+$scope.onconnect('apple',!!res.new_user);$timeout(function(){$scope.submitting=false},1000);}else{if(!!res.no_terms){$timeout(function(){$scope.submitting=false;$scope.login_form.error=false;$scope.signup_form.step=2;$scope.state='signup';$scope.signup_form.social_connect='apple';if(res.email){$scope.signup_form.social_email=$scope.signup_form.email=res.email;}
+if(res.name){$scope.signup_form.social_name=$scope.signup_form.name=res.name;}});}else{if(res.error=='Internal error'){localStorage.removeItem("apple_refresh_token");localStorage.removeItem("apple_auth_code");localStorage.removeItem("apple_identity_token");$scope.auth_apple();}
+$timeout(function(){$scope.submitting=false;$scope.login_form.error=$scope.signup_form.error=res.error||'An error occurred';});var errtype='other';if(res.error.indexOf('already exists')!=-1)
+errtype='existing_user';globals.alooma.track('connect_fail',{type:$scope.state,channel:'apple',error_type:errtype,is_business:$scope.is_business});}}});}
+var apple_signin=function(){AppleID.auth.init({clientId:'com.magisto.applesignin',scope:'name email',redirectURI:location.href,state:$scope.state,usePopup:true});AppleID.auth.signIn();if(document.addEventListener){document.addEventListener('AppleIDSignInOnSuccess',function(data){localStorage.setItem("apple_auth_code",data.detail.authorization.code);localStorage.setItem("apple_identity_token",data.detail.authorization.id_token);complete_auth(data.detail.authorization);});document.addEventListener('AppleIDSignInOnFailure',function(error){localStorage.removeItem("apple_refresh_token");localStorage.removeItem("apple_auth_code");localStorage.removeItem("apple_identity_token");$timeout(function(){$scope.submitting=false;if(error){$scope.login_form.error=$scope.signup_form.error=error||'An error occurred';}});});}else if(document.attachEvent){document.attachEvent('AppleIDSignInOnSuccess',function(data){localStorage.setItem("apple_auth_code",data.detail.authorization.code);localStorage.setItem("apple_identity_token",data.detail.authorization.id_token);complete_auth(data.detail.authorization);});document.attachEvent('AppleIDSignInOnFailure',function(error){localStorage.removeItem("apple_refresh_token");localStorage.removeItem("apple_auth_code");localStorage.removeItem("apple_identity_token");$timeout(function(){$scope.submitting=false;if(error){$scope.login_form.error=$scope.signup_form.error=error||'An error occurred';}});});}}
+var retries=(count+1)||1;if($scope.submitting)
+return;if((window.location.pathname!=='/connect'||location.search!=='?social_login=apple&'+($scope.state))&&(!localStorage.getItem('apple_refresh_token')&&!localStorage.getItem('apple_identity_token'))){window.location='/connect?social_login=apple&'+($scope.state);return;}else{if(!localStorage.getItem('apple_auth_code')&&!localStorage.getItem('apple_refresh_token')){if(document.getElementById('apple_script')){apple_signin();}
+else{var script=document.createElement('script');script.type='text/javascript';script.id='apple_script';script.onload=function(){apple_signin();}
+script.src='https://appleid.cdn-apple.com/appleauth/static/jsapi/appleid/1/en_US/appleid.auth.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(script,s);}}
+else{var params;if(localStorage.getItem('apple_refresh_token')){params={refresh_token:localStorage.getItem('apple_refresh_token')};}
+else{params={id_token:localStorage.getItem('apple_identity_token'),code:localStorage.getItem('apple_auth_code')};}
+complete_auth(params);}}
+globals.alooma.track('connect_try',{type:$scope.state,channel:'apple',is_business:$scope.is_business});};$scope.submit_forgot=function(){if($scope.submitting)
+return;$scope.forgot_form.error=null;var err=[];if(!$scope.forgot_form.email||!$scope.forgot_form.email.length)
+err.push('Please enter a valid Email address');else if(!common.validate_email($scope.forgot_form.email))
+err.push('The Email address you entered is invalid');if(err.length){$scope.forgot_form.error=err.join('<br/>');}
+else{$scope.submitting=true;connectService.forgot($scope.forgot_form.email,$scope.get_extra()).then(function(res){if(res.success){$timeout(function(){$scope.submitting=false;$scope.change_state('forgot_done');},1000);}
+else{$scope.submitting=false
+$scope.forgot_form.error=res.error||'An error occurred';}});}};$scope.submit_forgot_done=function(){$scope.change_to_login_state();};$scope.submit_reset=function(){if($scope.submitting)
+return;$scope.reset_form.error=null;var err=[];if(!$scope.reset_form.password||!$scope.reset_form.password.length){err.push('Please enter a password');}else if(!connectService.is_password_strength_enough($scope.reset_form.password)){err.push(connectService.password_strength_error_msg);}else if(!$scope.reset_form.confirm_password||$scope.reset_form.confirm_password!=$scope.reset_form.password){err.push('The two passwords don\'t match.');}
+if(err.length){$scope.reset_form.error=err.join('<br/>');}else{$scope.submitting=true;var token=window.location.pathname.replace(/\/?chant\//,'').replace(/\/?reset\//,'');connectService.reset(token,$scope.reset_form.password,$scope.get_extra()).then(function(res){if(res.success){$timeout(function(){$scope.submitting=false;$scope.change_state('reset_done');},1000);}
+else{$scope.submitting=false
+$scope.reset_form.error=res.error||'An error occurred';}});}};$scope.goto_connect_page=function(state){state=state||'login';if(state=='forgot')
+window.location.href=(globals.app=="chant"?'/chant':'')+'/reset/request';else
+window.location.href=(globals.app=="chant"?'/chant':'')+'/connect?'+state;};$scope.goto_connect_page_in_parent=function(state){state=state||'login';if(state=='forgot')
+window.top.location.href=(globals.app=="chant"?'/chant':'')+'/reset/request';else
+window.top.location.href=(globals.app=="chant"?'/chant':'')+'/connect?'+state+((globals.next||globals.after_signup)?'&next='+(globals.next||globals.after_signup):'');}
+$(document).on('keypress',function(e){if(e.keyCode=='13'){if($scope.state=='login'&&(angular.element('#connect_form_popup.displayed').length||location.pathname=='/connect'))
+$timeout(function(){$scope.submit_login()});else if($scope.state=='signup'&&$scope.signup_form.step===2)
+$timeout(function(){if((window.innerWidth<960)||(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent))){$scope.submit_signup_new(false)}else{$scope.submit_signup_new(true)}});else if($scope.state=='signup'&&$scope.signup_form.step!==2&&(angular.element('#connect_form_popup.displayed').length||location.pathname=='/connect')){$timeout(function(){$scope.submit_signup_new(skip_confirm);});}
+else if($scope.state=='reconnect')
+$timeout(function(){$scope.submit_reconnect()});else if($scope.state=='forgot')
+$timeout(function(){$scope.submit_forgot()});else if($scope.state=='forgot_done')
+$timeout(function(){$scope.submit_forgot_done()});else if($scope.state=='reset')
+$timeout(function(){$scope.submit_reset()});else if($scope.state=='reset_done')
+$timeout(function(){$scope.goto_connect_page()});else if($scope.state=='reset_error')
+$timeout(function(){$scope.goto_connect_page('forgot')});}});$scope.init();}]);app.directive('changeUserInfoPopup',['$sce',function($sce){return{restrict:'E',transclude:true,templateUrl:$sce.trustAsResourceUrl('/media/templates/connect/connect_form.html?7064c0f1e3##change_user_info_popup'),};}]);app.directive('connectFormPopup',['$sce',function($sce){return{restrict:'E',transclude:true,templateUrl:$sce.trustAsResourceUrl('/media/templates/connect/connect_form.html?7064c0f1e3##connect_form_popup'),};}]);app.directive('connectForm',['$sce',function($sce){return{restrict:'E',transclude:true,controller:'ConnectPageController',templateUrl:$sce.trustAsResourceUrl('/media/templates/connect/connect_form.html?7064c0f1e3##connect_form_element'),link:function(scope,el,attrs){if(!!globals.outerPlatform){scope.embed_on=globals.outerPlatform;}}};}]);app.directive('minimalConnectForm',['$sce',function($sce){return{restrict:'E',transclude:true,controller:'ConnectPageController',templateUrl:$sce.trustAsResourceUrl('/media/templates/connect/connect_form.html?7064c0f1e3##minimal_connect_form_element'),link:function(scope,el,attrs){if(!!globals.outerPlatform){scope.embed_on=globals.outerPlatform;}
+if(!!common&&!!common.get_url_param){scope.form_btn_text=common.get_url_param('btnText')||'Create free account';scope.form_btn2_text=common.get_url_param('btn2Text')||'Start';}}};}]);app.directive('formElement',['$sce',function($sce){return{restrict:'E',transclude:true,replace:true,scope:{formId:'@',formClass:'@',formError:'=',},templateUrl:$sce.trustAsResourceUrl('/media/templates/connect/form_element.html##form_element_container'),link:function(scope,el,attrs){}}}]);app.directive('formStep',['$sce',function($sce){return{restrict:'E',transclude:true,replace:true,template:'<div class="form_step"><ng-transclude></ng-transclude></div>',link:function(scope,el,attrs){}}}]);app.directive('formHead',['$sce',function($sce){return{scope:{formTitle:'@',formSubtitle:'@',formError:'=',},restrict:'E',transclude:true,replace:true,templateUrl:$sce.trustAsResourceUrl('/media/templates/connect/form_element.html##form_element_head'),link:function(scope,el,attrs){scope.is_embed=scope.$parent.embed_on;}}}]);app.directive('formFoot',[function(){return{restrict:'E',transclude:true,replace:true,template:'<div class="form_foot"><ng-transclude></ng-transclude></div>',link:function(scope,el,attrs){}}}]);app.directive('formBody',[function(){return{restrict:'E',transclude:true,replace:true,template:'<div class="form_body"><ng-transclude></ng-transclude></div>',link:function(scope,el,attrs){}}}]);app.directive('consentsBox',['$sce',function($sce){return{restrict:'E',templateUrl:$sce.trustAsResourceUrl('/media/templates/connect/form_element.html##consent_box_container'),link:function(scope,el,attrs){}}}]);</script>
+                
+            
+        
+
+        
+        
+            
+            <div id="magisto_popup_overlay"><div class="close popup_close"></div></div>
+
+            
+            <message-popup></message-popup>
+        
+
+        
+		
+<!-- start Alooma --><script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.alooma=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="alooma";c.people=c.people||[];c.toString=function(b){var a="alooma";"alooma"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable time_event track track_custom_event track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" "); for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src="undefined"!==typeof ALOOMA_CUSTOM_LIB_URL?ALOOMA_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.alooma.com/libs/alooma-latest.min.js".match(/^\/\//)?"https://cdn.alooma.com/libs/alooma-latest.min.js":"//cdn.alooma.com/libs/alooma-latest.min.js";f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f)}})(document,window.alooma||[]);alooma.init("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnROYW1lIjoibWFnaXN0by1icSIsImlucHV0TGFiZWwiOiJNb2JpbGVfU0RLIiwiaW5wdXRUeXBlIjoiTU9CSUxFX1NESyJ9.jmfIbKqyhtoMnw_YFdmrVbg9PJOxZ4YMyAbUIARBCEk", {"api_host":"https://inputs.alooma.com", "track_pageview": false});</script><!-- end Alooma -->
+
+<script>
+	var globals = globals || {};
+    //debugger;
+    globals.show_page_params = globals.show_page_params || {};
+	globals.alooma = {
+
+		uid:  '' ,
+
+        /*
+		fv : {
+			events: {play_marketing_video_press:1,press_free_trial:1,play_marketing_video_complete:1,hp_business_button_click:1,show_purchase_screen:1,
+					 press_purchase: function(d) {return 'press_purchase:'+ ( isBusinessPlan(d.type) ? 'business' : 'other');},
+					 connect_try: function(d) {return 'connect_try:'+ (d.is_business ? 'business:' : '') + d.channel;}},
+			pages: {'/business-videos':1,'/video-marketing':1,'/marketing-videos':1,'/real-estate-videos':1,'/video/mine':1,'/business/purchase':1,'/account/settings':1,'/album/mine':1,'/account/upgrade':1,'/explore':1},
+
+			calc_events: { play_marketing_video_press: true, show_purchase_screen: true,
+						   show_landing_page: function(d) { return d.campaign == 'hp_business_button'}},
+			version: '1.0',
+			working: false,
+			get_event: function(event_name, data) {
+				if (event_name == 'show_page') {
+					var p = document.location.pathname;
+					return this.pages[p] ? ('show_page:'+p) : null;
+				} else {
+					var ret = this.events[event_name] || null;
+					return (typeof(ret) == 'function') ? ret(data) : (ret ? event_name : null);
+				}
+			},
+
+			do_calc: function(event_name, event_data) {
+				var ret = this.calc_events[event_name] || false;
+				if (ret)
+					return (typeof(ret) == 'function') ? ret(event_data) : ret;
+				if (event_name == 'show_page') {
+				 	var dc = localStorage.getItem('do_calc_fv');
+				 	if (dc) {
+						localStorage.removeItem('do_calc_fv');
+						return dc == 'yy' ? 'force' : true;
+					}
+				}
+				return false;
+			},
+
+			mark_for_calc: function(force) {
+				try {
+					localStorage.setItem('do_calc_fv', force ? 'yy' : 'y');
+				} catch(err) {}
+			},
+
+			reset: function() {
+				try {
+					localStorage.setItem('fv', null);
+					console.log('FV: reset');
+				} catch(err) {}
+			},
+
+			store: function(event_name, data, d) {
+				try {
+					if (this.working)
+						return;
+
+					var key = this.get_event(event_name, data);
+					if (key) {
+						var fv;
+						try {
+							fv = JSON.parse(localStorage.getItem('fv')) || {};
+						} catch(err){
+							fv = {}
+						}
+
+						if (!(fv.v && fv.v == this.version))
+							fv = {}
+
+						var ts = Math.round(d.getTime() / 1000);
+
+						fv.vtid = data.device_id;  //TODO: if changed ?
+						fv.v = this.version;
+						if (!fv.data)
+							fv.data = {}
+						fv.data[key] = ts;
+						console.log('FV: store ' + key + ' = ' + ts);
+						var sfv = JSON.stringify(fv);
+						localStorage.setItem('fv', sfv);
+
+					}
+				} catch(err){
+					console.log('[FV] error storing ' + event_name + 'in tracking fv: ' + err);
+				}
+
+				try{
+					var dc = this.do_calc(event_name, data)
+					if (dc)
+						this.calc(event_name, (dc==='force'));
+				} catch(err){
+				}
+			},
+
+			calc: function(label, force) {
+				try{
+					setTimeout(function(){globals.alooma.fv._calc(label, force)});
+				} catch(err){}
+			},
+
+			_calc: function(label, force) {
+
+				if (this.working)
+					return;
+
+				var fv = JSON.parse(localStorage.getItem('fv')) || {};
+				var d = new Date();
+				var n = Math.round(d.getTime() / 1000);
+
+				var CALC_TIME_DIFF = 7; // in minutes
+				var FIRE_TIME_DIFF = 25; // in hours
+
+				// need at least 1 client side item in FV
+				if (!fv.data || Object.keys(fv.data).length == 0)
+					return;
+
+				// calced lately already
+				if (!force && fv.calc_ts && fv.calc_ts > (n-60*CALC_TIME_DIFF))
+					return;
+
+				// TODO: if all events already fired in the last X hours
+				// if (fired_ts && fv.fired_ts > (n-3600*FIRE_TIME_DIFF))
+				//	return;
+
+				this.working = true;
+				console.log('FV: calc ' + JSON.stringify(fv));
+				var me = this;
+
+				$.post(globals.prot_and_server + '/api/proxy_kpi', {vtid: fv.vtid, version: fv.v, fv: JSON.stringify(fv.data), now:n, label:label||''}, function(data){
+					try {
+						if (data.status && data.status == 'OK' && data.events) {
+							if (!fv.fired)
+								fv.fired={};
+							//console.log('FV: resp ' + JSON.stringify(data));
+							for (var i=0; i<data.events.length; i++) {
+								if (!fv.fired[data.events[i].name] || fv.fired[data.events[i].name] <  n-3600*FIRE_TIME_DIFF) {
+									console.log('FV: firing ' + data.events[i].name);
+									globals.fb_pixel.track_custom(data.events[i].name);
+									//globals.alooma.track('send_facebook_pixel', {type:data.events[i].name});
+									fv.fired[data.events[i].name] = n;
+								} else {
+									console.log('FV: already fired ' + data.events[i].name + ' ' + (n-fv.fired[data.events[i].name]) + ' sec ago');
+								}
+							}
+							fv.fired_ts = n;
+						}
+						fv.calc_ts = n;
+						localStorage.setItem('fv', JSON.stringify(fv));
+					} catch(err){}
+					me.working = false;
+				}).fail(function(data) {
+					try {
+						try{
+							if (data && data.responseText) {
+								var resp = JSON.parse(data.responseText);
+								if (resp && resp.errcode == 2040)
+									fv.data={}
+							}
+						} catch(err){}
+						fv.calc_ts = n;
+						localStorage.setItem('fv', JSON.stringify(fv));
+					} catch(err){}
+					me.working = false;
+				});
+			}
+		},
+		*/
+
+		_prepare: function(extra_data, d) {
+			var date_str = (
+					d.getFullYear() + "-" +
+					("00" + (d.getMonth() + 1)).slice(-2) + "-" +
+					("00" + d.getDate()).slice(-2)
+				),
+				ts_str = (
+					d.getFullYear() + "-" +
+					("00" + (d.getMonth() + 1)).slice(-2) + "-" +
+					("00" + d.getDate()).slice(-2) + " " +
+					("00" + d.getHours()).slice(-2) + ":" +
+				    ("00" + d.getMinutes()).slice(-2) + ":" +
+				    ("00" + d.getSeconds()).slice(-2)
+				);
+
+			var device_id_arr = common.get_device_id_arr();
+
+			var web_origin = 'web';
+			if (globals.app && globals.app == 'chant') {
+                web_origin = 'chant_web';
+            }
+			if (globals.app && globals.app == 'shopify') {
+                web_origin = 'shopify_web';
+            }
+
+			var data = {
+				log_type: 'web',
+				origin: web_origin,
+				client_date: date_str,
+				client_timestamp: ts_str,
+				device_id: device_id_arr[0],
+				debug_mode: false,
+				plan_type: "" || "free",
+				has_opt_out_trial: false,
+				has_opt_in_trial: false,
+				path: document.location.pathname
+			};
+
+			if (device_id_arr[1])
+				data.is_first = true;
+
+			if (globals.alooma.uid)
+				data.user_id = parseInt(globals.alooma.uid);
+
+			if (extra_data)
+				Object.assign(data, extra_data);
+
+			return data;
+		},
+
+		_track: function(event_name, data, cb, d) {
+
+			if (typeof cb != 'function')
+				cb = function(){};
+
+            if(event_name == 'press_button' && data.prev_path){
+                delete data.prev_path;
+            } else if(event_name == 'show_page' && !!data && !!data.prev_path){
+                data.prev_path = stripVarsFromString(data.prev_path);
+            } else if(event_name == 'show_page' && !data.prev_path){
+                if(window.location.host.indexOf('magisto.com') !== -1){
+                    var prev_path = document.referrer.replace(/^[^:]+:\/\/[^/]+/, '').replace(/#.*/, '')
+                    data.prev_path = stripVarsFromString(prev_path);
+                }
+
+            }
+			//setTimeout(function(){try {globals.alooma.fv.store(event_name, data, d); } catch (err) {}});
+            //console.log('IM HERE');
+			
+			alooma.track(event_name, data, cb);
+			
+
+            // fb_segment_tracking
+			try {
+				var e_type = null;
+				if (event_name == 'connect_done') {
+					e_type = data.type == 'signup' ? 'signup' : 'login';
+				} else if (event_name == 'show_page' && data.is_first) {
+					e_type = 'firstPageView';
+				} else if (event_name == 'show_landing_page' && data.is_first_time_business) {
+					e_type = 'firstBusinessPageView';
+				} else if  (event_name == 'createmovie') {
+					e_type = 'createmovie';
+				} else if  (event_name == 'show_purchase_screen') {
+					e_type = 'pricingpage';
+				}
+				if (e_type)
+					pixel_tracking(['fb_custom', 'segment', Object.assign({type: e_type}, globals.alooma.get_device_id_user_segments(12))]);
+			} catch(err) {};
+		},
+
+		track: function(event_name, extra_data, cb) {
+			try {
+                if(!!extra_data && !extra_data["prev_path"]){
+                    var origin = (document.location && document.location.origin ? document.location.origin : window.origin);
+                    var prev_path = document.referrer.replace(origin,'');
+                    if(!!prev_path){
+                        extra_data["prev_path"] = prev_path;
+                    }
+                }
+				var d = new Date(),
+				    data = globals.alooma._prepare(extra_data, d);
+				globals.alooma._track(event_name, data, cb, d);
+                /*if(!!globals.is_debug) */
+                console.log('[al] ' + event_name + ': ' + JSON.stringify(data));
+				if (cb)
+					setTimeout(cb, 400); // silent fallback
+			}
+			catch(err){
+				console.log('alooma error: ' + err);
+				if (cb)
+					cb();
+			}
+		},
+
+		queue: function(event_name, extra_data) {
+			try {
+				var data = globals.alooma._prepare(extra_data, new Date()),
+				    q = [];
+				try {
+					q = JSON.parse(localStorage.getItem('al_queue')) || [];
+				} catch(err){}
+				q.push({event:event_name, data:data})
+				localStorage.setItem('al_queue' , JSON.stringify(q));
+			}
+			catch(err){}
+		},
+
+		track_queue: function() {
+			try {
+				var q = JSON.parse(localStorage.getItem('al_queue')) || null;
+				if (q) {
+					var d = new Date();
+					for (var i=0; i< q.length; i++) {
+						try {
+					 		globals.alooma._track(q[i].event, q[i].data, null, d);
+					 		console.log('[al] ' + q[i].event + ': ' + JSON.stringify(q[i].data));
+					 	} catch(err){}
+					 }
+					localStorage.removeItem('al_queue');
+				}
+			} catch(err){
+				console.log('Error processing alooma queue: ' + err);
+			}
+		},
+
+		store_tracking_data: function(key, data) {
+			try {
+				localStorage.setItem(key, JSON.stringify(data));
+			} catch(err){}
+		},
+
+		pop_tracking_data: function(key) {
+			var data = null;
+			try {
+				var data = JSON.parse(localStorage.getItem(key)) || null;
+				if (data !== null)
+					localStorage.removeItem(key);
+			} catch(err){}
+			return data;
+		},
+
+		get_device_id: function() {
+			return common.get_device_id();
+		},
+
+		_tonum: function(str) {
+			var hash = 0, i, chr;
+			str = str + '';
+			if (str.length === 0) return hash;
+			for (i = 0; i < str.length; i++) {
+				chr   = str.charCodeAt(i);
+			    hash  = ((hash << 5) - hash) + chr;
+			    hash |= 0; // Convert to 32bit integer
+			}
+			hash = hash >>> 0;
+			return hash;
+		},
+
+		get_device_id_user_segments: function(num_segments) {
+			ret = { device_segment: 1 + globals.alooma._tonum(common.get_device_id()) % num_segments};
+			if (globals.alooma.uid)
+				ret.user_segment = 1 + globals.alooma._tonum(globals.alooma.uid) % num_segments;
+			return ret
+		},
+
+		popups_track: function(event_name, extra_params) {
+
+			var ev;
+			if (event_name == 'show')
+				ev = 'show_popup';
+			else if (event_name == 'press')
+				ev = 'press_popup';
+			else return;
+
+			globals.alooma.track(ev, extra_params);
+
+		},
+
+
+		get_internal_linking_params: function(via) {
+			return 'via='+encodeURIComponent(via)+'&prev_path='+window.location.pathname;
+		},
+
+		get_utm_data: function(params) {
+			var params = params || {};
+			if (common.get_url_param('utm_campaign'))
+				params.utm_campaign = common.get_url_param('utm_campaign');
+			if (common.get_url_param('utm_term'))
+				params.utm_term = common.get_url_param('utm_term');
+			if (common.get_url_param('utm_content'))
+				params.utm_content = common.get_url_param('utm_content');
+			if (common.get_url_param('utm_medium'))
+				params.utm_medium = common.get_url_param('utm_medium');
+			if (common.get_url_param('utm_source'))
+				params.utm_source = common.get_url_param('utm_source');
+			if (common.get_url_param('adgroup'))
+				params.adgroup = common.get_url_param('adgroup');
+			if (common.get_url_param('matchtype'))
+				params.matchtype = common.get_url_param('matchtype');
+			if (common.get_url_param('distribution'))
+				params.distribution = common.get_url_param('distribution');
+			if (common.get_url_param('placement'))
+				params.placement = common.get_url_param('placement');
+			if (common.get_url_param('partner'))
+				params.partner = common.get_url_param('partner');
+			if (common.get_url_param('via'))
+				params.via = common.get_url_param('via');
+			if (common.get_url_param('prev_path'))
+				params.prev_path = common.get_url_param('prev_path');
+			if (common.get_url_param('campaign_id'))
+				params.campaign_id = common.get_url_param('campaign_id');
+			if (common.get_url_param('adgroup_id'))
+				params.adgroup_id = common.get_url_param('adgroup_id');
+			if (common.get_url_param('keyword_id'))
+				params.keyword_id = common.get_url_param('keyword_id');
+            if (common.get_url_param('ad_id'))
+				params.ad_id = common.get_url_param('ad_id');
+            if (common.get_url_param('fb_ad_id'))
+				params.ad_id = common.get_url_param('fb_ad_id');
+            if (common.get_url_param('page_type'))
+				params.type = common.get_url_param('page_type');
+            if (common.get_url_param('gclid'))
+                params.gclid = common.get_url_param('gclid');
+            if (common.is_optin_flow())
+				params.with_optin = true;
+			return params;
+		}
+	};
+
+	(function(){
+		setTimeout(function(){
+			globals.alooma.track_queue();
+			try{
+				globals.alooma.track('show_page',globals.alooma.get_utm_data(globals.show_page_params));
+			} catch(err){
+				console.log('Error auto-tracking pageview with alooma: ' + err);
+			}
+		});
+	})();
+</script>
+
+        
+<script>
+    
+        function set_fb_tracking(){
+            !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+            n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','//connect.facebook.net/en_US/fbevents.js');
+            fbq('init', '578629842302451');
+            fbq('track', "PageView");
+        }
+
+        function set_bing_tracking(){
+            (function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"33000079"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");
+        };
+
+        function set_ga_tracking(){
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            ga('set', 'anonymizeIp', true);
+            ga('create', 'UA-21702090-1', 'auto');
+            console.log('INIT GA:UA-21702090-1');
+            // custom dimensions
+            ga('set', 'dimension3', globals.is_authenticated ? 'logged-in' : 'logged-out');
+            if (globals.is_business)
+                ga('set', 'dimension4', globals.opt_in_trial ? 'business-trial' : 'business-subscriber');
+        	ga('send', 'pageview');
+        };
+    
+</script>
+
+<script type="text/javascript">function init_external_tracking(flush_events){if(typeof set_ga_tracking!=='undefined')
+set_ga_tracking();if(typeof set_fb_tracking!=='undefined')
+set_fb_tracking();if(typeof set_bing_tracking!=='undefined')
+set_bing_tracking();if(flush_events){pixel_tracking([]);}}
+function flush_page_events(){pixel_tracking([]);}
+init_external_tracking(false);globals.fb_pixel={_alooma:function(event_name,data){try{var a_data={}
+if(data)
+Object.assign(a_data,data);if('type'in a_data)
+a_data.type2=event_name;else
+a_data.type=event_name;globals.alooma.track('send_facebook_pixel',a_data);}catch(err){}},set_user_props:function(props,cb){try{FB.getLoginStatus(function(response){if(response&&response.authResponse){FB.AppEvents.setUserID(response.authResponse.userID);FB.AppEvents.updateUserProperties(props)
+console.log('[fb] [DEBUG] set_user_props: '+JSON.stringify(props));}});}catch(err){console.log('fb tracking error: '+err);}},track:function(event_name,extra_data,cb){if(typeof cb!='function')
+cb=function(){};try{var data={};if(extra_data)
+Object.assign(data,extra_data);if(typeof fbq!=='undefined'){fbq('track',event_name,data);console.log('[fb] '+event_name+': '+JSON.stringify(data));}else{console.log('[fb] [DEBUG] '+event_name+': '+JSON.stringify(data));}
+setTimeout(cb,800);globals.fb_pixel._alooma(event_name,data)}catch(err){console.log('fb tracking error: '+err);cb();}},track_custom:function(event_name,extra_data,cb){if(typeof cb!='function')
+cb=function(){};try{var data={};if(extra_data)
+Object.assign(data,extra_data);if(typeof fbq!=='undefined'){fbq('trackCustom',event_name,data);console.log('[fbc] '+event_name+': '+JSON.stringify(data));}else{console.log('[fbc] [DEBUG] '+event_name+': '+JSON.stringify(data));}
+setTimeout(cb,800);globals.fb_pixel._alooma(event_name,data)}catch(err){console.log('fb custom tracking error: '+err);cb();}},_track_once:function(event_name,extra_data,is_custom,cache_key){try{var c_id='fbpxl_'+(!!cache_key?cache_key:event_name);var last_time=localStorage.getItem(c_id);var d=new Date();var n=Math.round(d.getTime()/1000);var FIRE_TIME_DIFF=3600*24*30;if(last_time){last_time=parseInt(last_time);if(last_time&&last_time>n-FIRE_TIME_DIFF)
+return;if(last_time==1)
+return;}
+localStorage.setItem(c_id,n);if(is_custom)
+globals.fb_pixel.track_custom(event_name,extra_data);else
+globals.fb_pixel.track(event_name,extra_data);}catch(err){console.log('fb track_once error: '+err);}},track_once:function(event_name,extra_data,cache_key){globals.fb_pixel._track_once(event_name,extra_data,false,cache_key);},track_custom_once:function(event_name,extra_data,cache_key){globals.fb_pixel._track_once(event_name,extra_data,true,cache_key);}};globals.bing={event:function(label){try{if(window.uetq){window.uetq.push({'ec':'category','ea':'action','el':label});console.log('[bing] '+label);}else{console.log('[bing] [DEBUG] '+label);}}catch(err){console.log('bing error: '+err);}}};globals.ga={event:function(category,action,label,value,cb){try{if(typeof ga!=='undefined'){ga('send','event',category,action,label,(value||0),{'nonInteraction':1});console.log('[GA] E:'+category+' | '+action+' | '+label);}else{console.log('[GA] [DEBUG] E:'+category+' | '+action+' | '+label);}}catch(err){console.log('g.a ev error: '+err);}
+if(cb&&typeof cb=='function'){setTimeout(cb,800);}},pageview:function(page,cb){try{if(typeof ga!=='undefined'){ga('send','pageview',page);console.log('[GA] P:'+page);}else{console.log('[GA] [DEBUG] P:'+page);}}catch(err){console.log('g.a pv error: '+err)}
+if(cb&&typeof cb=='function'){setTimeout(cb,800);}},set:function(metric,data,cb){try{if(typeof ga!=='undefined'){ga('set',metric,data);console.log('[GA] S:'+metric,data);}else{console.log('[GA] [DEBUG] P:'+metric,data);}}catch(err){console.log('g.a pv error: '+err)}
+if(cb&&typeof cb=='function'){setTimeout(cb,800);}}};</script>
+<!-- Global site tag (gtag.js) - Google Ads: 754306960 -->
+<!-- /* ----------------- */
+	 /*  Google Site Tag  */
+	 /* ----------------- */ -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-754306960"></script>
+<script>
+	try{
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'AW-754306960');
+	} catch(err) {}
+</script>
+
+<!-- CrazyEgg code -->
+<script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0014/1514.js" async="async"></script>
+ 
+
+        
+		
+	
+            <script type="text/javascript" src="//d1ekrxlws13em5.cloudfront.net/media/cached/js/552123290aac.js" ></script>
+
+
+            
+
+<script type="text/javascript" src="//d1ekrxlws13em5.cloudfront.net/media/cached/js/52cabc6b0a9b.js" ></script>
+
+<script type="text/javascript">!function(){var e=function(e){function t(t,i){return!!e.engines.filter(function(e){return e.canPlay(t,i)})[0]}
+e(function(i){var l=e.support;if(l.inlineVideo){var s,r=e.extend,a=/(-[0-9]+p)?(\.(mp4|webm|m3u8|ogv|flv|f4v)?)$/i,o=/(\.(mp4|webm|m3u8|ogv|flv|f4v))?$/i,u=/\.?{ext}/,n=/^(https?:)?\/\/[^\/]+\//,c="video/flash",p=!1;i.conf.hlsjs!==!1&&e.engines.forEach(function(e){"hlsjs"===e.engineName&&e.canPlay("application/x-mpegurl",i.conf)&&(p=!0)}),i.on("load",function(e,i,p){if(!i.live){var f=i.conf,y=p.vodQualities||f.vodQualities||{},v=!(!p.qualities&&!f.qualities||!p.defaultQuality&&!f.defaultQuality);if(v){var d=p.originalQualities=p.originalQualities||p.qualities||f.qualities,m=p.defaultQuality||f.defaultQuality,g=p.src.replace(a,"-{q}.{ext}");"string"==typeof d&&(d=d.split(","));var q=(("string"==typeof y.qualities?y.qualities.split(","):y.qualities)||d||[]).map(function(e){return e!==m?e:{label:e,src:g.replace(/-{q}/,"")}});y={template:g,qualities:q}}
+if(y&&y.qualities&&y.qualities.length){p.hlsQualities=!1;var h,Q={},j=p.sources.filter(function(e){return!/mpegurl/i.test(e.type)&&t(e.type,f)})[0],b=j&&o.exec(j.src)[0],x=p.sources.some(function(e){return/mpegurl/i.test(e.type)?(Q[-1]={type:e.type,src:e.src},!0):!1});if(p.sources.forEach(function(e){e.type===c&&(h=e.src)}),(l.video||h)&&(!h||(f.rtmp||p.rtmp)&&!/^(https?:)?\/\//.test(h))){var w,S,P=x?[{value:-1,label:"Auto"}]:[],O=h&&/^(mp4|flv):/.test(h)&&h.slice(0,4)||"";if(P=P.concat(y.qualities.map(function(e,t){return"string"==typeof e?(Q[t]={type:j&&j.type,src:j&&j.type!==c?y.template.replace("{q}",e).replace(u,b):y.template.replace(n,O).replace("{q}",e).replace(u,b)},{value:t,label:e}):(Q[t]={type:e.type||j&&j.type,src:e.type&&e.type!==c||j&&j.type!==c?e.src.replace(u,b):e.src.replace(n,O).replace(u,b)},{value:t,label:e.label})})),p.qualities=P,w=void 0===p.vodQualitySources&&void 0!==s&&Object.keys(P).indexOf(s+"")>-1,p.vodQualitySources=Q,S=/mpegurl/i.test(p.type)?-1:Object.keys(Q).filter(function(e){return p.src.indexOf(Q[e].src)>-1})[0],w&&s!==S){e.preventDefault(),i.loading=!1;var k=p.sources;r(p,{originalSources:k,sources:[{type:Q[s].type,src:Q[s].src}].concat(k),src:null,type:null}),i.load(p)}else p.quality=S}}}}).on("quality",function(e,t,i){var l=t.video.vodQualitySources&&t.video.vodQualitySources[i];if(l){var a=t.video.originalSources||t.video.sources,o=r({},t.video,{originalSources:a,sources:[{type:l.type,src:l.src}].concat(a),src:null,type:null}),u=o.time;p&&o.hlsjs!==!1&&u&&0>i&&(o.hlsjs=r(o.hlsjs||{},{startPosition:u})),t.load(o,function(e,t){t.finished=!1,!u||o.hlsjs&&o.hlsjs.startPosition?o.hlsjs&&(o.hlsjs.startPosition=0):t.seek(u,function(){t.video.type===c&&(t.playing=!1,t.paused=!0),t.resume()}),s=i})}})}})};"object"==typeof module&&module.exports?module.exports=e:"function"==typeof window.flowplayer&&e(window.flowplayer)}();function isiPhone()
+{return((navigator.platform.indexOf("iPhone")!=-1)||(navigator.platform.indexOf("iPod")!=-1));}
+function isAndroid()
+{return/android/i.test(navigator.userAgent);}
+if(typeof track_pageview==="undefined"){track_pageview=function(page){try{globals.ga.pageview(page);}catch(err){}};}
+if(!write_cookie){function write_cookie(name,val,hours,path,domain)
+{date=new Date(new Date().getTime()+(3600000*hours)).toGMTString();document.cookie=name+'='+val+'; expires='+date+'; path='+path+'; domain='+domain;}}
+if(!read_cookie){function read_cookie(name)
+{var arr=document.cookie.split(';');for(var i=0;i<arr.length;i++){var item=arr[i];while(item.charAt(0)==' ')item=item.substring(1,item.length);if(item.indexOf(name)==0)return item.substring(name.length+1,item.length);}
+return null;}}
+if(!check_cookie){function check_cookie(name)
+{var arr=document.cookie.split(';');for(var i=0;i<arr.length;i++){var item=arr[i];while(item.charAt(0)==' ')item=item.substring(1,item.length);if(item.indexOf(name)==0)return true;}}}
+function toRGBA(color){if(color==undefined){return'rgba(155,155,155,0.5)';}
+color=(color.charAt(0)=="#")?color.substring(1,7):color;r=Math.abs(parseInt(color.substring(0,2),16));g=Math.abs(parseInt(color.substring(2,4),16));b=Math.abs(parseInt(color.substring(4,6),16));return'rgba('+r+','+g+','+b+',0.5)';}
+function ellipsize(text,num){if(text.length>num){return text.substring(0,num)+'...';}
+return text;}
+function getQueryParam(query){query=query.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");var expr="[\\?&]"+query+"=([^&#]*)";var regex=new RegExp(expr);var results=regex.exec(window.location.href);if(results!==null){return decodeURIComponent(results[1].replace(/\+/g," "));}else{return false;}}
+if(typeof track_event==="undefined"){track_event=function(category,action,label){try{globals.ga.event(category,action,label);}catch(err){}};}
+var getJSON=function(url,callback,context){var request=new XMLHttpRequest();request.open('GET',url,true);request.onload=function(){if(request.status>=200&&request.status<400){var data=JSON.parse(request.responseText);if(!!data.success&&data.status=="OK"){return callback.call((context||window),data);}
+var data={success:false,error:"not the right format"};return callback.call((context||window),data);}else{var data={success:false,error:"couldn't get the JSON file"};return callback.call((context||window),data);}};request.onerror=function(){return{success:false,error:"couldn't get the JSON file"}};request.send();};function xwwwfurlenc(srcjson,parent){parent=parent||"";if(typeof srcjson!=="object")
+if(typeof console!=="undefined"){console.log("\"srcjson\" is not a JSON object");return null;}
+var u=encodeURIComponent;var urljson="";var keys=Object.keys(srcjson);for(var i=0;i<keys.length;i++){var k=parent?parent+"["+keys[i]+"]":keys[i];if(typeof srcjson[keys[i]]!=="object"){urljson+=u(k)+"="+u(srcjson[keys[i]]);}else{urljson+=keys[i]+"="+encodeURIComponent(JSON.stringify(srcjson[keys[i]]));}
+if(i<(keys.length-1))urljson+="&";}
+return urljson;}
+var sendJSON=function(url,data,callback){var request=new XMLHttpRequest();request.open('POST',url,true);request.setRequestHeader('Content-Type','application/x-www-form-urlencoded');request.onload=function(){if(request.status===200){if(!!callback){callback(request.response);}}
+else if(request.status!==200){console.log('Request failed.  Returned status of '+request.status);}};var string=xwwwfurlenc(data);request.send(string);}
+function prepend(value,array){var newArray=array.slice();newArray.unshift(value);return newArray;}
+(function datasetModule(global,definition){var amd='amd',exports='exports';if(typeof define==='function'&&define[amd]){define(function definer(){return definition(global);});}else if(typeof module==='function'&&module[exports]){module[exports]=definition(global);}else{definition(global);}}(this,function datasetPolyfill(global){'use strict';var
+attribute,attributes,counter,dash,dataRegEx,document=global.document,hasEventListener,length,match,mutationSupport,test=document.createElement('_'),DOMAttrModified='DOMAttrModified';function clearDataset(event){delete event.target._datasetCache;}
+function toCamelCase(string){return string.replace(dash,function(m,letter){return letter.toUpperCase();});}
+function getDataset(){var
+dataset={};attributes=this.attributes;for(counter=0,length=attributes.length;counter<length;counter+=1){attribute=attributes[counter];match=attribute.name.match(dataRegEx);if(match){dataset[toCamelCase(match[1])]=attribute.value;}}
+return dataset;}
+function mutation(){if(hasEventListener){test.removeEventListener(DOMAttrModified,mutation,false);}else{test.detachEvent('on'+DOMAttrModified,mutation);}
+mutationSupport=true;}
+if(test.dataset!==undefined){return;}
+dash=/\-([a-z])/ig;dataRegEx=/^data\-(.+)/;hasEventListener=!!document.addEventListener;mutationSupport=false;if(hasEventListener){test.addEventListener(DOMAttrModified,mutation,false);}else{test.attachEvent('on'+DOMAttrModified,mutation);}
+test.setAttribute('foo','bar');Object.defineProperty(global.Element.prototype,'dataset',{get:mutationSupport?function get(){if(!this._datasetCache){this._datasetCache=getDataset.call(this);}
+return this._datasetCache;}:getDataset});if(mutationSupport&&hasEventListener){document.addEventListener(DOMAttrModified,clearDataset,false);}}));</script>
+<script type="text/javascript" src="//d1ekrxlws13em5.cloudfront.net/media/cached/js/187185625099.js" ></script>
+
+
+		
+	<script type="text/javascript">
+		fb_manager.init();
+		g_manager.init(null);
+	</script>
+	<script type="text/javascript">var app=angular.module("magisto");var errorReturn=function(data){var response=data||{success:false,error:"internal error"};response.success=false;return response;};app.directive("upsellPopup",["$sce","$window","$rootScope","$timeout",function($sce,$window,$rootScope,$timeout){var upsellPopupObj={restrict:"E",replace:true,link:function(scope,el,attrs){scope.upsell={waiting:false,interval_id:null,via:null,upgrade_page:null,selected_feature:"Use more videos",upsell_plan:"premium",title:"Tell richer stories with Magisto Premium",features:["Create longer videos to tell your story, up to 2.5 minutes!","Use more footage in each of your videos, you can use up to 60 videos and photos","Enhance your stories with Premium editing styles"],image:"https://drrrhyhe9lfip.cloudfront.net/media/images/upsell_premium_1152111767921.png",cta:"View options",ga_event:"/virtual/create/choose-upgrade"};scope.upsell.clear_interval=function(){if(scope.upsell.interval_id)
+$window.clearInterval(scope.upsell.interval_id);};$rootScope.$on("purchase_done",function(event,res){if(res&&res.active_package&&isFunction(scope.after_purchase)){scope.after_purchase(res.active_package);}});scope.upsell.check_window=function(){if(scope.upsell.upgrade_page&&scope.upsell.upgrade_page.closed){scope.upsell.clear_interval();scope.upsell.waiting=false;scope.upsell.waiting_stock=scope.upsell.waiting_plan=false;popup.hide(null,scope.upsell_id);}};scope.upsell.get_destination_url=function(){var u;if(scope.upsell.plan_cid&&!!scope.upsell.skip_pricing){u=globals.prot_and_server+"/account/upgrade/buy?cid="+
+scope.upsell.plan_cid;}else{if(scope.upsell.upsell_plan=="business")
+u="/business/purchase?businessplus&standalone";else if(isBusinessPlan(scope.upsell.upsell_plan))
+u="/business/purchase?standalone";else u="/pricing?standalone";}
+if(scope.upsell.via){u+=(u.indexOf("?")==-1?"?":"&")+
+globals.alooma.get_internal_linking_params(scope.upsell.via);}
+return u;};scope.upsell.add_tracking_data=function(data){try{data.prev_path=window.location.pathname;var vsid=scope.upsell.main_scope&&scope.upsell.main_scope.vsid?scope.upsell.main_scope.vsid:globals.vsid;if(vsid)data.session_id=vsid;if(scope.upsell.main_scope){if(scope.upsell.main_scope.get_selected_theme&&typeof scope.upsell.main_scope.get_selected_theme==="function")
+var selected_theme=scope.upsell.main_scope.get_selected_theme();if(selected_theme)data.theme_id=selected_theme.id;if(scope.upsell.main_scope.get_selected_track&&typeof scope.upsell.main_scope.get_selected_track==="function")
+var selected_track=scope.upsell.main_scope.get_selected_track();if(selected_track)
+data.track_id=selected_track.upl_origin=="browser"||selected_track.type=="UPL"?1:selected_track.id;}}catch(err){console.log(err);}};scope.upsell.track_event=function(event,data){data=data||{};data.type=scope.upsell.popup_type||"upsell_popup";data.subtype=scope.upsell.popup_subtype||null;data.via=scope.upsell.via;data.upsell_plan=scope.upsell.upsell_plan;scope.upsell.add_tracking_data(data);globals.alooma.track(event,data);};scope.upsell.do_upgrade=function(dont_wait){write_cookie("upgrade_ref",document.location.href,1,"/","."+_sightera_server);var url=scope.upsell.get_destination_url();scope.upsell.upgrade_page=window.open(url,"upgrade","width=960, height=800, toolbar=0, titlebar=0, top=100, left=100, scrollbars=yes");if(!dont_wait){scope.upsell.waiting=true;scope.upsell.interval_id=window.setInterval(scope.upsell.check_window,500);scope.upsell.track_event("press_popup",{selection:"upgrade_click",destination_url:url});}else{scope.upsell.track_event("skip_popup",{destination_url:url});}
+if(scope.upsell.ga_event){pixel_tracking(["ga_page",scope.upsell.ga_event]);}};scope.$on("init_upsell_main",function(msg,obj){scope.upsell.main_scope=obj.scope;scope.upsell.popup_type=obj.type;});scope.$on("init_upsell_popup",function(msg,obj){scope.upsell.via=obj.via;scope.upsell.popup_type=obj.popup_type;scope.upsell.popup_subtype=obj.popup_subtype;scope.upsell.selected_feature=obj.feature||"Available";scope.upsell.upsell_plan=obj.plan;scope.upsell_id=obj.upsell_id||"upsell_popup";scope.upsell.plan_cid=obj.plan_cid||false;scope.upsell.skip_pricing=obj.skip_pricing||false;if(!!obj.popup_class){scope.upsell.popup_class=obj.popup_class;}
+if(!!obj.icons){scope.upsell.icons=obj.icons;}
+if(!!obj.bottom_link&&!!obj.bottom_link_action){scope.upsell.bottom_link=obj.bottom_link;scope.upsell.bottom_link_action=obj.bottom_link_action;}
+if(obj.plan=="premium"&&globals.ab_tests.web_upsell_image_text){scope.upsell.image=obj.image||"https://drrrhyhe9lfip.cloudfront.net/media/images/Premium158305901995.png";scope.upsell.title=obj.title||"Take Full Control of Your Videos";scope.upsell.upsell_plan="premium";scope.upsell.selected_feature=obj.feature||"Enjoy exclusive editing styles";scope.upsell.features=obj.features||["Advanced editor: reorder, trim and add text","Up to 10 minutes videos","Unlimited HD downloads","More editing styles are available"];scope.upsell.cta=obj.cta||"Continue";scope.upsell.text=$sce.trustAsHtml(obj.text)||null;}else if(obj.plan=="professional"&&globals.ab_tests.web_upsell_image_text){scope.upsell.image=obj.image||"https://drrrhyhe9lfip.cloudfront.net/media/images/Professional158305904707.png";switch(scope.upsell.via){case"professional_theme":scope.upsell.selected_feature="Unlock exclusive editing styles";break;case"theme_branding":scope.upsell.selected_feature="Change text color and fonts";break;case"templates":scope.upsell.selected_feature="Unlock ready-made templates";break;default:scope.upsell.selected_feature=obj.feature;}
+if(scope.upsell.selected_feature=="Adding your logo is available"){scope.upsell.selected_feature="Add your logo";}
+if(scope.upsell.selected_feature=="Adding your business card is available"){scope.upsell.selected_feature="Add your contact details";}
+scope.upsell.upsell_plan="professional";scope.upsell.title=obj.title||"Make Videos That Stand Out";scope.upsell.features=obj.features||["Unlimited access to stock photos and videos","Change colors, fonts and add your logo","High priority support","Vimeo Pro included","Exclusive templates"];scope.upsell.cta=obj.cta||"Continue";scope.upsell.text=$sce.trustAsHtml(obj.text)||null;}else if(obj.plan=="business"&&globals.ab_tests.web_upsell_image_text){scope.upsell.image=obj.image||"https://drrrhyhe9lfip.cloudfront.net/media/images/Business158307185866.png";scope.upsell.selected_feature=obj.feature||"Enjoy exclusive editing styles";scope.upsell.upsell_plan="business";scope.upsell.title=obj.title||"Create and Promote Videos to Grow Your Business";if(scope.upsell.via=="businesst4_theme"){scope.upsell.selected_feature="Enjoy exclusive editing styles";}
+scope.upsell.features=obj.features||["Use ready-made converting templates","Get Vimeo Business","Commercial use for third parties","Enjoy priority support","Easily export to Facebook Ads Manager","Create your branded video page"];scope.upsell.cta=obj.cta||"Continue";scope.upsell.text=$sce.trustAsHtml(obj.text)||null;}else if(obj.plan=="premium"&&!globals.ab_tests.web_plus_tier){scope.upsell.image=obj.image||"https://drrrhyhe9lfip.cloudfront.net/media/images/premium_upsell-min152114167612.jpg";scope.upsell.title=obj.title||"Tell richer stories with Magisto Premium";scope.upsell.features=obj.features||["Create longer videos to tell your story, up to 2.5 minutes!","Use more footage in each of your videos, you can use up to 60 videos and photos","Enhance your stories with Premium editing styles"];scope.upsell.cta=obj.cta||"View options";scope.upsell.text=$sce.trustAsHtml(obj.text)||null;}else if(obj.plan=="premium"&&globals.ab_tests.web_plus_tier){scope.upsell.image=obj.image||"https://drrrhyhe9lfip.cloudfront.net/media/images/premium_upsell-min152114167612.jpg";scope.upsell.title=obj.title||"Tell richer stories with Magisto Premium";scope.upsell.features=obj.features||["Full access to Magisto’s editor: reorder scenes, trim, add text and more","Create longer videos to tell your story, up to 10 minutes!","Enhance your stories with Premium editing styles"];scope.upsell.cta=obj.cta||"View options";scope.upsell.text=$sce.trustAsHtml(obj.text)||null;}else if(obj.plan=="professional"){scope.upsell.image=obj.image||"https://drrrhyhe9lfip.cloudfront.net/media/images/professional_upsell-min152114165674.jpg";scope.upsell.title=$sce.trustAsHtml(obj.title)||"Take full control over your videos.";scope.upsell.features=obj.features||["Access 3+ million stunning stock videos and over 25 million photos","Download unlimited 1080p HD videos, up to 10 minutes long","Customize brand colors & fonts","Implement editing styles optimized for social media"];scope.upsell.cta=obj.cta||"Continue";scope.upsell.text=$sce.trustAsHtml(obj.text)||null;}else if(obj.plan=="business"){scope.upsell.image=obj.image||"https://drrrhyhe9lfip.cloudfront.net/media/images/business_upsell-min152114163579.jpg";scope.upsell.title=obj.title||"Create outstanding social videos with first class features and support.";scope.upsell.features=obj.features||["Implement editing styles optimized for social media","Dedicated priority creative and technical support","Free Vimeo business plan for teams and businesses","Upload to FB ads manager","Your branded video page"];scope.upsell.cta=obj.cta||"Continue";scope.upsell.text=$sce.trustAsHtml(obj.text)||null;}
+if(obj.after_purchase){scope.after_purchase=obj.after_purchase;}
+scope.upsell.clear_interval();if(obj.skip_popup){scope.upsell.do_upgrade(true);}else{$timeout(function(){popup.show("#"+scope.upsell_id,function(){if(!!el){if(scope.upsell.video&&scope.upsell.video.sources){var video_wrap=$(el).find(".video_title.video");if(!!video_wrap){video_wrap.empty();video_wrap.append('<video width="100%"></video>');var video=$(video_wrap).find("video");video.attr("loop",true).attr("muted",true).attr("autobuffer",true).attr("controls",false);video.append("<source src='"+
+$sce.trustAsUrl(scope.upsell.video.sources.mp4)+"' type='mp4'></source>");video.append("<source src='"+
+$sce.trustAsUrl(scope.upsell.video.sources.webm)+"' type='video/webm'></source>");video[0].play();}}}
+scope.upsell.track_event("show_popup");},function(){scope.upsell.image="";scope.upsell.waiting=false;scope.upsell.clear_interval();$rootScope.$broadcast("upsell_closed");});});}});}};upsellPopupObj.templateUrl=function(element,attributes){if(!!attributes["popupTemplate"]){if(attributes["popupTemplate"]=="blocking_upsell_popup"){return $sce.trustAsResourceUrl("/media/templates/popups/blocking_upsell_popup.html?3c73682df0");}else{return $sce.trustAsResourceUrl("/media/"+"templates/popups/"+
+attributes["popupTemplate"]+".html");}}else{return $sce.trustAsResourceUrl("/media/templates/popups/upsell_popup.html");}};return upsellPopupObj;}]);app.directive("gettyUpsell",["$sce","$rootScope","$timeout","plansService",function($sce,$rootScope,$timeout,plansService){return{restrict:"A",controller:["$scope","$window",function gettyUpsellController($scope,$window){$scope.gettyUpsell={upsellTabShown:false,show_getty_line:!localStorage.getItem("gettyUpsellLineDismissed")||!globals.has_stock,user_credits:-1,toggle_chat:function(is_hide){var $chat_elm=$('.zopim[data-test-id="ChatWidgetButton"]');if($chat_elm){$chat_elm.css("display",is_hide?"none":"block");}}};$scope.user_has_stock=globals.has_stock;$scope.stock_footage={};$scope.used_stock_footage_count=0;$scope.gettyUpsell.getPlansInfo=function(cb){plansService.get_plan_by_label("pro2020").then(function(res){if(res.success&&res.data){$scope.gettyUpsell.business_plan_price=res.data.price;$scope.gettyUpsell.business_plan_cid=res.data.cid;if(res.data.is_deferred){$scope.gettyUpsell.business_plan_text="Upgrade to professional";}else{$scope.gettyUpsell.business_plan_text="Start 7 days free trial";}}});plansService.get_plan_by_label("stock_Credit_5").then(function(res){if(res.success&&res.data){$scope.gettyUpsell.stock_plan_price=res.data.price;$scope.gettyUpsell.stock_plan_cid=res.data.cid;if(!!cb){cb({cid:$scope.gettyUpsell.stock_plan_cid,type:"stock_credits"});}}});};$rootScope.$on("scenes_loaded",function(event,scenes){if($scope.user_has_stock)return;if(Object.keys($scope.stock_footage).length)return;for(var i=0;i<scenes.length;i++){if(scenes[i].stock_credit_cost){maintain_stock_footage_map(scenes[i].source_file_ptr.external_id,scenes[i].stock_credit_cost,scenes[i].hidden?"inc":"dec");}}});$rootScope.$on("update_stock_credits",function(event,data){if(data.item.stock_credit_cost<0)return;if($scope.user_has_stock)return;var external_id=data.item.source_file_ptr?data.item.source_file_ptr.external_id:data.item.external_id;var credit=maintain_stock_footage_map(external_id,data.item.stock_credit_cost,data.method,true);if(credit){$scope.gettyUpsell.user_credits+=credit;$scope.set_user_credits($scope.gettyUpsell.user_credits);}});$rootScope.$on("library_sidebar_hidden",function(events,data){$scope.gettyUpsell.close_getty_tab();});$rootScope.$on("active_session_loaded",function(events,data){_.each(data.files,function(file){var credit=maintain_stock_footage_map(file.external_id,file.stock_credit_cost,"dec",true);if(credit){$scope.gettyUpsell.user_credits+=credit;$scope.set_user_credits($scope.gettyUpsell.user_credits);}});});function maintain_stock_footage_map(key,val,method,count_usage){var credit=parseInt(val);if(isNaN(credit))return null;if(method=="dec"){if(key in $scope.stock_footage){$scope.stock_footage[key]+=1;credit=null;}else{$scope.stock_footage[key]=1;credit*=-1;if(!!count_usage)$scope.used_stock_footage_count+=1;}}else{if(!(key in $scope.stock_footage))return;$scope.stock_footage[key]-=1;if($scope.stock_footage[key]==0){delete $scope.stock_footage[key];if(count_usage)$scope.used_stock_footage_count-=1;}else{credit=null;}}
+return credit;}
+$scope.gettyUpsell.checkUserCredits=function(){return plansService.get_user_stock_credits().then(function(res){if(res){$scope.gettyUpsell.purchased_credit=parseInt(res.purchased_credit);$scope.gettyUpsell.used_stock_credit=parseInt(res.used_stock_credit);return $scope.set_user_credits(parseInt(res.stock_credit),true);}});};$scope.gettyUpsell.clear_interval=function(){if($scope.gettyUpsell.interval_id)
+$window.clearInterval($scope.gettyUpsell.interval_id);};$scope.user_have_credits=function(){return($scope.gettyUpsell.user_credits&&$scope.gettyUpsell.user_credits>0&&!$scope.user_has_stock);};$scope.user_run_out_credits=function(){return($scope.gettyUpsell.user_credits==0&&!$scope.user_has_stock);};$scope.set_user_credits=function(stock_credits,fetched_from_server){if(stock_credits<0)return;if($scope.user_has_stock)return;if(!!fetched_from_server){$scope.gettyUpsell.user_credits=stock_credits-$scope.used_stock_footage_count;}else{$scope.gettyUpsell.user_credits=stock_credits;}
+$timeout(function(){$rootScope.$broadcast("stock_credits_updated",$scope.gettyUpsell.user_credits);},100);return $scope.gettyUpsell.user_credits;};function clear_waiting_state(aster_purchase){$scope.gettyUpsell.clear_interval();$scope.gettyUpsell.waiting=false;$scope.gettyUpsell.waiting_stock=false;$scope.gettyUpsell.waiting_plan=false;$scope.gettyUpsell.upgrade_page=null;}
+$rootScope.$on("purchase_done",function(event,res){var plan=res&&res.active_package?res.active_package:{};if(plan&&plan.has_stock){$scope.user_has_stock=true;$scope.gettyUpsell.show_getty_line=!localStorage.getItem("gettyUpsellLineDismissed");}
+$scope.gettyUpsell.upsellTabShown=false;$scope.gettyUpsell.toggle_chat(false);});$scope.gettyUpsell.check_window=function(){if($scope.gettyUpsell.upgrade_page&&$scope.gettyUpsell.upgrade_page.closed){if($scope.gettyUpsell.waiting_stock){$scope.gettyUpsell.checkUserCredits();}
+$timeout(function(){clear_waiting_state();});}};$scope.gettyUpsell.close_getty_tab=function(){$scope.gettyUpsell.upsellTabShown=false;$scope.gettyUpsell.toggle_chat(false);};$scope.gettyUpsell.open_getty_tab=function(){$scope.gettyUpsell.upsellTabShown=true;$scope.gettyUpsell.toggle_chat(true);$scope.gettyUpsell.top_image=null;$scope.gettyUpsell.track_event("stock_upsell_banner_press");};$scope.gettyUpsell.track_event=function(event,data){data=data||{};globals.alooma.track(event,data);};$scope.gettyUpsell.clear_interval=function(){if($scope.gettyUpsell.interval_id){$window.clearInterval($scope.gettyUpsell.interval_id);$scope.gettyUpsell.interval_id=null;}};$scope.gettyUpsell.get_destination_url=function(plan_cid){var u;if(plan_cid){u=globals.prot_and_server+"/account/upgrade/buy?cid="+
+plan_cid;}else{if($scope.gettyUpsell.upsell_plan=="business")
+u="/business/purchase?businessplus&standalone";else if(isBusinessPlan($scope.upsell.upsell_plan))
+u="/business/purchase?standalone";else u="/pricing?standalone";}
+if($scope.gettyUpsell.via){u+=(u.indexOf("?")==-1?"?":"&")+
+globals.alooma.get_internal_linking_params($scope.gettyUpsell.via);}
+return u;};$scope.gettyUpsell.do_upgrade=function(conf){if($scope.gettyUpsell.waiting)return;write_cookie("upgrade_ref",document.location.href,1,"/","."+_sightera_server);var url=$scope.gettyUpsell.get_destination_url(conf.cid);$scope.gettyUpsell.upgrade_page=window.open(url,"upgrade","width=960, height=800, toolbar=0, titlebar=0, top=100, left=100, scrollbars=yes");if(conf.type){$scope.upgrade_type=conf.type;}
+$scope.gettyUpsell.waiting=true;if(conf.type=="stock_credits"){$scope.gettyUpsell.waiting_stock=true;$scope.gettyUpsell.track_event("stock_purchase_screen",{selection:"upgrade_click",destination_url:url});}else{$scope.gettyUpsell.waiting_plan=true;if(!conf.via){$scope.upsell.track_event("press_popup",{selection:"upgrade_click",destination_url:url,screen:"getty_purchase",product_plan_type:"business"});}else{if(conf.via=="restock_popup"){$scope.gettyUpsell.track_event("restock_banner_press",{selection:"upgrade_click",destination_url:url,product_plan_type:"business"});}}}
+$scope.gettyUpsell.interval_id=window.setInterval($scope.gettyUpsell.check_window,500);if($scope.gettyUpsell.ga_event){pixel_tracking(["ga_page",$scope.gettyUpsell.ga_event]);}};if(!$scope.user_has_stock){$scope.gettyUpsell.checkUserCredits();}}]};}]);app.directive("gettyUpsellLine",["$sce","$timeout",function($sce,$timeout){return{restrict:"E",replace:true,require:"^gettyUpsell",templateUrl:$sce.trustAsResourceUrl("/media/templates/library/getty_upsell.html?7064c0f1e3##getty_upsell_line"),link:function(scope,element,attrs,ctrl){scope.can_use_stock=globals.can_use_stock;scope.dismissGettyLine=function(){scope.gettyUpsell.show_getty_line=false;localStorage.setItem("gettyUpsellLineDismissed",true);};}};}]);app.directive("gettyUpsellTab",["$sce","$timeout","$rootScope",function($sce,$timeout,$rootScope){return{restrict:"E",replace:true,require:"^gettyUpsell",templateUrl:$sce.trustAsResourceUrl("/media/templates/library/getty_upsell.html?7064c0f1e3##getty_upsell_tab"),link:function(scope,element,attrs,ctrl){if(globals.ab_tests&&globals.ab_tests.getty_upsell_blocks_order){blocks=element.find(".plan_block");if(blocks.length==2){$(blocks[0]).detach().insertAfter($(blocks[1]));}}
+$timeout(function(){scope.gettyUpsell.getPlansInfo();},100);scope.buy_stock_credits=function(){scope.gettyUpsell.do_upgrade({cid:scope.gettyUpsell.stock_plan_cid,type:"stock_credits"});};scope.upgrade_to_business=function(){scope.gettyUpsell.do_upgrade({cid:scope.gettyUpsell.business_plan_cid,type:"business_plan",via:"restock_popup"});};$rootScope.$on("open_getty_upsell_tab",function(event,res){if(!res)return;scope.gettyUpsell.video_preview=null;if(res.event&&res.file){scope.gettyUpsell.top_image=res.file.thumb||res.file.thumbnail_id;if(res.file.preview){scope.gettyUpsell.video_preview=res.file.preview;scope.previewVideo(res.file.preview);}}
+scope.gettyUpsell.upsellTabShown=true;scope.gettyUpsell.toggle_chat(true);scope.gettyUpsell.track_event("stock_upsell_banner_press");});scope.previewVideo=function(video){if($(".getty_upsell_tab .top_img .video_preview .video_cont video").length>0){$(".getty_upsell_tab .top_img .video_preview .video_cont video").remove();}
+var video=$("<video />",{id:"video",src:scope.gettyUpsell.video_preview,type:"video/mp4",controls:false,autoplay:true,loop:true,mute:true});$timeout(function(){video.appendTo($(".getty_upsell_tab .top_img .video_preview .video_cont"));});};}};}]);app.directive("creditsAddedPopup",["$sce","$rootScope","$timeout",function($sce,$rootScope,$timeout){return{restrict:"E",replace:true,templateUrl:$sce.trustAsResourceUrl("/media/templates/library/getty_upsell.html?7064c0f1e3##getty_credits_added"),link:function(scope,el,attrs){scope.close_popup=function(){popup.hide();};$rootScope.$on("getty_credits_purchased",function(e,data){globals.alooma.track("popup_show",{type:"stock_credit_purchased"});scope.amount=data.amount;$timeout(function(){popup.show("#getty_credits_added",function(){window.scrollTo(0,10);},data.onClose);});});}};}]);app.directive("restockCreditsPopup",["$sce","$rootScope","$timeout",function($sce,$rootScope,$timeout){return{restrict:"E",replace:true,templateUrl:$sce.trustAsResourceUrl("/media/templates/library/getty_upsell.html?7064c0f1e3##restock_credits_popup"),link:function(scope,el,attrs){scope.close_popup=function(){popup.hide();};if(!!scope.gettyUpsell&&!scope.gettyUpsell.business_plan_price){scope.gettyUpsell.getPlansInfo();}
+$rootScope.$on("purchase_done",function(event,res){if(popup.is_shown())popup.hide();});scope.$on("open_restock_credits_popup",function(e,data){scope.gettyUpsell.restock_desc_prefix=data.desc_prefix||"Copying and editing";popup.hide();popup.show("#restock_credits_popup",function(){window.scrollTo(0,10);});});}};}]);</script>
+
+
+		
+
+  
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org/",
+    "@type": "VideoObject",
+    "description": ". Made by magisto online video editor.",
+    "thumbnailUrl": "https://result4.cdn.magisto.com/3/d/PFlBJAAUQjk5AQRpYw_/extralarge.jpg",
+    "uploadDate": "2014-06-27",
+    "name": "Untitled",
+    "@id": "https://www.magisto.com/video/fyF9TwdYQUIwIisGDmEwCXh4",
+    "datePublished": "2014-06-27",
+    "author": {
+      "@type": "Person",
+      "name": "Lasse Ratinasta"
+    }
+  }
+  </script>
+  
+
+	
+		<script type="text/javascript" src="//d1ekrxlws13em5.cloudfront.net/media/cached/js/4aeb8a413b40.js" ></script>
+
+	
+
+
+        
+            
+        
+
+        
+        
+            <script>
+
+            
+                
+            
+            </script>
+        
+
+        
+            
+                
+                
+            
+        
+
+        
+        
+            <script>
+                
+                
+                        common.lazy_load_popup('create-split-popup');
+                
+
+                
+            </script>
+        
+    </body>
+
+</html>

@@ -1,3 +1,4 @@
+from django.conf import settings
 from django.db import models
 from django.utils.encoding import python_2_unicode_compatible
 from django.utils import timezone
@@ -12,13 +13,20 @@ class Saalis(models.Model):
         ('-','-')
     ]
 
-    saaja = models.CharField(max_length = 300)
-    paikka = models.CharField(max_length = 30)
-    paino = models.CharField(max_length = 10)
-    pituus = models.CharField(max_length = 10)
-    viehe = models.CharField(max_length = 300)
-    email = models.EmailField()
-    saantipaiva = models.DateField(default=timezone.now,blank=True)
+    lajit = [
+        ('Taimen','Taimen'),
+        ('Lohi','Lohi'),
+    ]
+
+    saaja = models.CharField(max_length = 50)
+    paikka = models.CharField(max_length = 10)
+    laji = models.CharField(max_length = 10, choices = lajit, default = 'Lohi')
+    vapautettu = models.BooleanField(default = False)
+    paino = models.DecimalField(max_digits = 10, decimal_places=2, null =True)
+    pituus = models.DecimalField(max_digits = 10, decimal_places=0, null=True, blank=True)
+    viehe = models.CharField(max_length = 20, default = '-')
+    email = models.EmailField(null = True)
+    saantipaiva = models.DateField(default=timezone.now)
     kuva = models.ImageField(upload_to="images/", default = "images/default.jpg")
     public = models.BooleanField(default=False)
     sukupuoli = models.CharField(max_length = 1,choices=sukupuolet,default='-')
@@ -27,7 +35,10 @@ class Saalis(models.Model):
     #poster
     #phonenumber
     def __str__(self): 
-        return "Saaja: " + self.saaja+ " Paikka: " + self.paikka + " Viehe: " + self.viehe + " Paino:" + self.paino + " Pituus: " + self.pituus + " Paiva: "
+        if self.public:
+            return str(self.saantipaiva) + " | " + self.saaja + " | " + str(self.paino)
+        else:
+            return "X " + str(self.saantipaiva) + " | " + self.saaja + " | " + str(self.paino)
         
     class Meta:
         permissions = (

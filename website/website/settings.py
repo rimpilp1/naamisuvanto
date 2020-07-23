@@ -15,6 +15,7 @@ import os
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 
 SETTINGS_PATH = os.path.dirname(os.path.dirname(__file__))
+PROJECT_ROOT = os.path.abspath(os.path.dirname(__file__))
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MEDIA_ROOT = os.path.join(BASE_DIR, "media")#os.path.join(os.path.dirname(BASE_DIR), 'media')
 MEDIA_URL = '/media/'
@@ -22,6 +23,9 @@ MEDIA_URL = '/media/'
 STATIC_URL = '/static/'
 STATICFILES_DIRS = (os.path.join(BASE_DIR, "static"),)
 
+DATE_FORMAT = 'd.m.Y'
+DATE_INPUT_FORMATS = ('%d-%m-%Y','%Y-%m-%d')
+USE_L10N = False
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/2.0/howto/deployment/checklist/
 
