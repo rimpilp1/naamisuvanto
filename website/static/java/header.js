@@ -13,33 +13,6 @@ var drop = $('div.header_drop').eq(0);
 var max_menu_ele = drop_list.length + 2
 var menu_ele_width = max_menu_width/max_menu_ele
 
-function addEvents(){
-    
-    $('input[id=search_toggle]').change(function(){
-        if($(this).is(':checked')) {
-        search.hide()
-        } else {
-        search.show()
-        }
-    });
-
-    $('input[id=header_toggle]').change(function(){
-        if($(this).is(':checked')) {
-        header_wrapper.hide()
-        } else {
-        header_wrapper.show()
-        }
-    });
-    $('input[id=left_toggle]').change(function(){
-        if($(this).is(':checked')) {
-        left_column.hide()
-        } else {
-        left_column.show()
-        }
-    });
-    resizeNavigation
-}
-
 function resizeNavigation(){
     var menu_width = $('.header_menu').width();
     
@@ -67,41 +40,41 @@ function resizeNavigation(){
         for (i = 0; i <max_menu_ele-2; i ++){
             menu_list.eq(i).show()
         }
+    }else{
+        left_column.show()
     }
 
 }
 
-function header_accordion(){
-    var header_menu = $('.header_menu');
-    var header = $('.header');
-
-    header.toggleClass("hidden");
-    header_menu.toggleClass("hidden");
-    /*
-    console.log("klikki")
-    if(header_menu.is(":hidden")){
-      header_menu.show()
-      header.show()
-    }else{
-      header_menu.hide()
-      header.hide()
-    }*/
+function addEvents(){
     
-  }
+    $('input[id=search_toggle]').change(function(){
+        if($(this).is(':checked')) {
+        search.hide()
+        } else {
+        search.show()
+        }
+    });
 
-/*function header_accordion(){
-    var header_menu = $('.header_menu');
-    console.log("klikki")
-    console.log(header_menu.is(":hidden"))
-    if(header_menu.is(":hidden")){
-      header_menu.show()
-    }else{
-      header_menu.hide()
-    }
-}*/
+    $('input[id=header_toggle]').change(function(){
+        if($(this).is(':checked')) {
+        header_wrapper.hide()
+        } else {
+        header_wrapper.show()
+        resizeNavigation()
+        }
+    });
+    $('input[id=left_toggle]').change(function(){
+        if($(this).is(':checked')) {
+        left_column.hide()
+        } else {
+        left_column.show()
+        }
+    });
+    resizeNavigation()
+}
 
-  var click = $('.header_max');
-  click.bind("click",header_accordion);
+
 
 $(document).ready(addEvents);
 $(window).resize(resizeNavigation);

@@ -11,6 +11,22 @@ html	 	{	margin:0 auto;
 
 }
 
+/* TEMP location for experimental elements*/
+
+.header_acc_button, .left_acc_button{
+
+    height: 20px;
+    background: brown;
+    display: block;
+    border-style: none;
+
+}
+
+.left_acc_button{
+    display:none;
+}
+
+
 /*Container elements*/
 
 .header, .header_menu, .header_max
@@ -1831,6 +1847,12 @@ iframe.iframe_right { 	width: 45%;
 
 @media screen and (max-width:400px){
 
+	/* TEMP elemnts for experimental purposes */
+	.left_acc_button{
+		display:block;
+		background: brown;
+	}
+
     .container{
         display: block;
     }
@@ -1876,7 +1898,7 @@ iframe.iframe_right { 	width: 45%;
         display: block;
     }
 
-    .active, .header_menu:hover{
+    .active{
         display:none;   
     }
 
@@ -1937,7 +1959,7 @@ iframe.iframe_right { 	width: 45%;
 
 /* Header menu items */
 
-.header_menu	{	height: 15px;
+.header_menu	{	height: auto;
 			/* height:25, 22, 15, 15 */
 			background-size:100% 100%;
 		}
