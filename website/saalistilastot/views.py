@@ -341,8 +341,12 @@ def index(request):
         year = int(data.get('vuosi'))
 
 
+    
+
+    
 
     #year = data.get('vuosi')
+    page = data.get('page')
     date_from = data.get('date_from')
     date_to = data.get('date_to')
     kalastajat = data.get('Kalastajat')
@@ -358,6 +362,10 @@ def index(request):
         sort = 'aika'
     p = data.get('p')
     
+    if not page:
+        page = 1
+    else:
+        page = int(page)
 
     
     
@@ -421,18 +429,28 @@ def index(request):
 
     
     pagination = Paginator(saaliit,p)
-    p1 = pagination.page(1)
-
+    p1 = pagination.page(page)
+    s = max(1,(page-3))
+    e = min((page+4),pagination.num_pages)
+    r = list(range(s,e))
+    
     #saaliit = Saalis.objects.filter(saantipaiva__year=now.year).order_by('saantipaiva')[:5]
     if reverse:
         reverse = True
     else:
         reverse = False
 
+    
+    querystring = request.GET.urlencode()
+    querystring = "?"+querystring.split("&page=",1)[0] + "&page="
+
+
     template_name = 'saalistilastot.html'
     context = {
     'saaliit': p1.object_list,
-    'paginatior': pagination,
+    'pagi': p1 ,
+    'querystring': querystring,
+    'pagi_ite': r,
     'years': years,
     'year': year,
     'date_from': data.get('date_from'),
@@ -448,6 +466,8 @@ def index(request):
     'sort': sort,
     'reverse': reverse,
     }
+
+
     return render(request,template_name,context)
     
 

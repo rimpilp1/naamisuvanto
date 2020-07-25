@@ -4,7 +4,7 @@
 
 <head>
 	<title>Saalistilastot Pellon alue | Naamisuvanto.net</title>
-    	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="copyright" content="Mäkki-</br>venevuokraus Uusitalo" />
 	<meta name="DC.Title" content="naamisuvanto.net" />
 	<meta name="description" content="The Tornio River is the longest free-flowing rive in the whole Europe. Rowing Boat Trolling on the Pool of Naamisuvanto</br>other pools in Pello offers you a great possibility to experience the adventure of fishing salmon</br>othe spieces." />
@@ -117,6 +117,7 @@
 				</div>
 
 <div>
+<input type="hidden" id="page" name ="page" value = 1>
 </form>	
 
 
@@ -124,7 +125,7 @@
 				<input type='checkbox' style='display: none'  id=search_toggle>
 				<label class="Sat" for=search_toggle>Tarkennettu haku </label>
 
-<form action="/saalistilastot/" method="get">	
+<form action="/saalistilastot/" method="get">
 <table width="100%" class = "search">
 <tr>
 <th class="saalistilastot">  <label for="date_from">Saantiaika:</label></th>
@@ -190,6 +191,7 @@
 
 
 </table>
+<input type="hidden" id="page" name ="page" value = 1>
 </form>
 
 			<div class="article">
@@ -245,15 +247,36 @@
 				<tr><th class="saalistilastot">Päivämäärä</th><td class="saalistilastot">{{saalis.saantipaiva | date:"d.m.Y"}}</td></tr>
 				<tr><th class="saalistilastot">U/N</th><td class="saalistilastot">{{saalis.sukupuoli}}</td></tr>
     
-    
    				{% endfor %}
 
-				
-
-</table>
-{%if paginatior.num_pages > 1 %}
-{{ paginatior.has_next}}
+				</table>
+{{ pagi }}
+{% if pagi.has_previous %}
+<a class="btn btn-outline-info mb-4" href={{ querystring|add:"1" }}>First</a>
+{% with p=pagi.previous_page_number|stringformat:"s" %}
+<a class="btn btn-outline-info mb-4" href={{ querystring|add:p }}>Previous</a>
+{% endwith %}
 {% endif %}
+
+{% for num in pagi_ite %}
+{% with num_str=num|stringformat:"s" %}
+	{% if pagi.number == num %}
+		<a class="btn btn-info mb-4" href={{ querystring|add:num_str }}>{{ num }}</a>
+	{% elif num > pagi.number|add:'-3' and num < pagi.number|add:'3' %}
+		<a class="btn btn-outline-info mb-4" href={{ querystring|add:num_str }}>{{ num }}</a>
+	{% endif %}
+	{% endwith %}
+{% endfor %}
+
+{% if pagi.has_next %}
+{% with n=pagi.next_page_number|stringformat:"s" %}
+        <a class="btn btn-outline-info mb-4" href={{ querystring|add:n }}>Next</a>
+{% endwith %}
+{% with l=pagi.paginator.num_pages|stringformat:"s" %}
+		<a class="btn btn-outline-info mb-4" href={{ querystring|add:l }}>Last</a>
+{% endwith %}
+{% endif %}
+
 </center>
 
 
